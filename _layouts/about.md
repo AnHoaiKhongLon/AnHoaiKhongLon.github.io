@@ -19,7 +19,8 @@ layout: default
         {%- assign about_title = site.data.owner[lng].about.sub_title | replace: site.data.conf.main.sample_replace, site.data.lang[lng].constants.sample -%}
         {%- if site.data.owner[lng].about.sub_title %}
           <p class="sub-title">
-            xiu20042021
+            AnHoaiKhongLon
+
           </p>
         {% endif -%}
         {%- assign tmp_obj =  site.data.owner[lng].contacts | where_exp: "item", "item.email != nil" | first -%}

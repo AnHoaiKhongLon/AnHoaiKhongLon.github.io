@@ -45,7 +45,7 @@ layout: default
   {% endfor -%}
     <li>
       {%- include multi_lng/get-page-by-layout.liquid layout = 'archives' -%}
-      <a href="https://xiu20042021.github.io/tabs/blog/">{{ site.data.lang[lng].home.new_posts_show_more_button }}</a>
+      <a href="https://AnHoaiKhongLon.github.io/tabs/blog/">{{ site.data.lang[lng].home.new_posts_show_more_button }}</a>
     </li>
   </ul>
 </div>
