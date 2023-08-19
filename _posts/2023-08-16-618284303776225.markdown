@@ -7,6 +7,7 @@ img: "https://anhoaikhonglon.github.io/img/618284303776225.jpg"
 date: 2023-08-16 19:45 +0900
 ---
 
+
 Em chẳng hướng ngoại như mọi người nghĩ.
 
 Cũng có những lúc em cảm thấy lạc lõng giữa thế giới này, em không hòa nhập được với những người bạn từng rất thân của mình.
@@ -20,6 +21,9 @@ Cũng có những ngày, em lười phải bước chân ra đường, lười l
 Đôi khi cảm thấy em không còn là chính mình, nhưng hình như lại là chính mình.
 
 _Xíu_
+
+
+
 
 
 <!-- outline-end -->
