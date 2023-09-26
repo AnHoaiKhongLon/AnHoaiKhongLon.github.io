@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: " "Tình yêu bắt đầu bằng tiểu tiết, hết yêu cũng như vậy..." "
-title: " "Tình yêu bắt đầu bằng tiểu tiết, hết yêu cũng như vậy..." "
+lng_pair:  "Tình yêu bắt đầu bằng tiểu tiết, hết yêu cũng như vậy..." 
+title:  "Tình yêu bắt đầu bằng tiểu tiết, hết yêu cũng như vậy..." 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: Xíu
