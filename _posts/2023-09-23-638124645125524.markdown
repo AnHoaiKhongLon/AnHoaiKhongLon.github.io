@@ -10,7 +10,7 @@ category: Facebook
 # multiple tag entries are possible
 tags: [Facebook]
 # thumbnail image for post
-img: "https://xiungo.github.io/img/638124645125524.jpg"
+img: "https://anhoaikhonglon.github.io/img/638124645125524.jpg"
 # disable comments on this page
 #comments_disable: false
 # publish date
@@ -37,4 +37,4 @@ date: 2023-09-23 20:00:57 +0900
 
 Xíu
 <!-- outline-end -->
-<img src= "https://xiungo.github.io/img/638124645125524.jpg">
+<img src= "https://anhoaikhonglon.github.io/img/638124645125524.jpg">
