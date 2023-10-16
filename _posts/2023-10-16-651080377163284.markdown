@@ -32,18 +32,15 @@ date: 2023-10-16 19:55:00 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-thì ra là hết duyên
-khi lòng thôi nhung nhớ
-sợi dây hồng đứt đoạn
+thì ra là hết duyên \n
+khi lòng thôi nhung nhớ \n
+sợi dây hồng đứt đoạn \n
 em bước tiếp một mình
 
 
-hình bóng người nơi ấy
-
-em chẳng vội quên đi
-
-chỉ nhẹ nhàng sắp xếp
-
+hình bóng người nơi ấy \n
+em chẳng vội quên đi \n
+chỉ nhẹ nhàng sắp xếp \n
 vào một góc trong tim
 
 
