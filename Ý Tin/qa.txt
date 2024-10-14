@@ -1,0 +1,4252 @@
+Mô đun 1: Hiểu biết về Công nghệ thông tin (IU1)
+Câu 001: ***/Trong hệ thống máy tính, 1Kbyte bằng bao nhiêu byte:
+	1000 bytes
+	1012 bytes
+	1024 bytes
+	1036 bytes
+ĐÁP ÁN: C
+Câu 002: Trong hệ điều hành Microsoft Windows 7/8, định dạng chuẩn phân vùng đĩa cài hệ điều hành là gì:
+	FAT
+	FAT32
+	FAT16
+	NTFS
+ĐÁP ÁN: D
+Câu 003: Cổng nào sau đây là cổng kết nối giữa màn hình và máy tính:
+	COM
+	Ethernet
+	Firewire
+	VGA
+ĐÁP ÁN: D
+Câu 004: Bộ nhớ đệm trong CPU gọi là gì:
+	ROM
+	DRAM
+	Buffer
+	Cache
+ĐÁP ÁN: D
+CÂU 005: Về chức năng ổ DVD Combo, phát biểu nào sau đây là đúng:
+	Đọc và ghi đĩa CD, DVD
+	Đọc đĩa CD, DVD
+	Đọc và ghi đĩa DVD
+	Đọc CD, DVD và ghi đĩa CD
+ĐÁP ÁN: D
+CÂU 006: Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 2.0 là bao nhiêu:
+	1,5 Mbps
+	12 Mbps
+	300 Mbps
+	480 Mbps
+ĐÁP ÁN: D
+CÂU 007: RAM là viết tắt của cụm từ nào:
+	Read Access Memory
+	Recent Access Memory
+	Random Access Memory
+	Read and Modify
+ĐÁP ÁN: C
+CÂU 008: Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 3.0 là bao nhiêu:
+	1,5 Mbps
+	12 Gbps
+	300 Mbps
+	480 Gbps
+ĐÁP ÁN: B
+CÂU 009: Trong hệ điều hành Microsoft Windows, máy tính đọc dữ liệu nhanh nhất từ đâu: 
+	Đĩa mềm
+	Đĩa cứng
+	Qua mạng Internet
+	Đĩa CD – ROM
+ĐÁP ÁN: B
+CÂU 010: Dữ liệu trong thiết bị nhớ nào sẽ mất khi mất điện:
+	Đĩa cứng
+	Đĩa mềm
+	RAM
+	ROM
+ĐÁP ÁN: C
+CÂU 011: Để máy tính làm việc được, hệ điều hành cần nạp vào đâu:
+	RAM
+	Ổ đĩa cứng
+	Chỉ nạp vào RAM trong khi chạy chương trình ứng dụng
+	ROM
+ĐÁP ÁN: A
+CÂU 012: Các hệ điều hành thông dụng hiện nay thường được lưu trữ ở đâu:
+	Trong CPU
+	Trong RAM
+	Trên bộ nhớ ngoài
+	Trong ROM
+ĐÁP ÁN: C
+CÂU 013: Về bộ nhớ RAM của máy tính, phát biểu nào sau đây là đúng:
+	Là bộ nhớ truy xuất ngẫu nhiên
+	Là bộ nhớ chỉ đọc
+	Là bộ nhớ chỉ xử lý thông tin
+	Là bộ nhớ chỉ ghi
+ĐÁP ÁN: A
+CÂU 014: Khi kết nối thành một mạng máy tính cục bộ và các thiết bị, thiết bị nào sau đây có thể được chia sẻ để sử dụng chung:
+	Máy in
+	Micro
+	Webcam
+	Đĩa mềm
+ĐÁP ÁN: A
+CÂU 015: Số lượng các số nhị phân có được từ 1 byte là:
+	128
+	512
+	127
+	255
+ĐÁP ÁN: D
+CÂU 016: Trong hệ thống máy tính, 1Kbyte bằng bao nhiêu bit:
+	1000 bits
+	8000 bits
+	8192 bits
+	9000 bits
+ĐÁP ÁN: C
+CÂU 017: Trong máy tính, đơn vị tính dung lượng của đĩa sắp xếp tăng dần nào sau đây là đúng:
+	B MB KB GB
+	B KB MB GB
+	MB KB B GB
+	GB MB KB B
+ĐÁP ÁN: B
+CÂU 018: Trong máy tính, thiết bị nào sau đây dùng để xử lý dữ liệu và hệ điều hành trên máy tính:
+	RAM
+	Đĩa cứng
+	ROM
+	CPU
+ĐÁP ÁN: D
+CÂU 019: Trong máy tính, thiết bị nào sau đây dùng để lưu trữ dữ liệu và hệ điều hành máy tính:
+	RAM
+	ROM
+	CPU
+	Đĩa cứng
+ĐÁP ÁN: D
+CÂU 020: Trong máy tính, thiết bị nào dùng để lưu trữ tạm thời trong lúc làm việc:
+	Máy in
+	Bộ nhớ RAM
+	Bộ nhớ ROM
+	CPU
+ĐÁP ÁN: B
+CÂU 021: Về hệ điều hành, phát biểu nào sau đây là đúng:
+	Là  một phần mềm chạy trên máy tính, dùng để soạn thảo các loại văn bản
+	Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng
+	Là một phần mềm dùng để điều hành, quản lý các tài nguyên phần mềm máy tính
+	Là một phần mềm chạy trên máy tính, dùng để tính toán số liệu
+ĐÁP ÁN: B
+CÂU 022: Hệ điều hành Microsoft Windows 7 được phát hành trên toàn thế giới vào năm nào: 
+	2010
+	1997
+	2009
+	2011
+ĐÁP ÁN: C
+CÂU 023: Phần mềm nào sau đây đọc được tập tin PDF
+	Foxit Reader
+	Microsoft Excel
+	Microsoft Powerpoint
+	Microsoft Word
+ĐÁP ÁN: A
+CÂU 024: Lựa chọn nào sau đây là một phần mềm của Hệ điều hành Microsoft Windows:
+	EXCEL
+	CMOS
+	BIOS
+	RAM
+ĐÁP ÁN: A
+CẤU 025: Con người và máy tính giao tiếp thông qua:
+	Bàn phím và màn hình
+	Hệ điều hành
+	RAM
+	Bàn phím và mouse (chuột)
+ĐÁP ÁN: B
+CÂU 026: Trong các phần mềm sau đây, phần mềm nào là phần mềm ứng dụng:
+	Windows XP
+	Linux
+	Microsoft Word
+	Unix
+ĐÁP ÁN: C
+CÂU 027: Về phần mềm Winrar trong máy tính, phát biểu nào sau đây là đúng:
+	Làm giảm dung lượng tập tin
+	Làm tăng dung lượng tập tin
+	Mở rộng dung lượng bộ nhớ đã sử dụng
+	Chia đôi dung lượng tập tin
+ĐÁP ÁN: A
+CÂU 028: Trong Hệ điều hành Microsoft Windows, chương trình Paint được sử dụng để làm gì:
+	Soạn thào văn bản
+	Nghe nhạc, xem phim
+	Trình bày bảng tính và tính toán
+	Vẽ các hình ảnh đơn giản.
+ĐÁP ÁN: D
+CÂU 029: Trong Hệ điều hành Microsoft Windows, chương trình nào dùng để nén và giải nén tập tin:
+	Paint
+	Winzip
+	Unikey
+	Notepad
+ĐÁP ÁN: B
+CÂU 030: Phần mềm Winrar trong Microsoft Windows dùng để: 
+	Tìm kiếm file, folder
+	Nén và giải nén
+	Dùng để vẽ
+	Dùng để soạn thảo văn bản
+ ĐÁP ÁN: B
+ CÂU 031: Trong hệ điều hành Microsoft Windows, phiên bản 32bit nhận và quản lý được bộ nhớ RAM tối đa là bao nhiêu:
+	4GB
+	2GB
+	3,2GB
+	Bao nhiêu cũng được
+ĐÁP ÁN: A
+CÂU 032: Bộ vi xử lý Intel có ký hiệu là Core I5-6400T là có ý nghĩa gì:
+Bộ vi xử lý thế hệ thứ 3 của Intel
+Bộ vi xử lý thế hệ thứ 4 của Intel
+Bộ vi xử lý thế hệ thứ 5 của Intel
+Bộ vi xử lý thế hệ thứ 6 của Intel
+ĐÁP ÁN: D
+CÂU 033: Chữ U trong ký hiệu bộ vi xử lý Intel Core I7- 4550U có ý nghĩa gì:
+	Tính năng đồ họa cao
+	Tính năng siêu di động
+	Tiêu thụ điện năng thấp
+	Tối ưu cho công suất
+ĐÁP ÁN: C
+CÂU 034: Con số nào là tốc độ vòng quay của đĩa cứng:
+	8200
+	7200
+	6200
+	5200
+ĐÁP ÁN: B
+CÂU 035: Số nào sau đây không phải là tốc độ của SDRAM:
+	800 MHz
+	1000 MHz
+	1333 MHz
+	1600 MHz
+ĐÁP ÁN: B
+CÂU 036: Card đồ họa Onboard sử dụng loại bộ nhớ nào:
+	Bộ nhớ riêng của card đồ họa
+	Bộ nhớ dùng chung với bộ nhớ máy tính
+	Không có bộ nhớ
+	Bộ nhớ trên đĩa cứng
+ĐÁP ÁN: B
+CÂU 037: Để xem có bao nhiêu ứng dụng đang chạy trên máy cài đặt Hệ điều hành Microsoft Windows, người ta sử dụng:
+	Windows Manager
+	Task Manager
+	Internet Manager
+	Download Manager
+ĐÁP ÁN: B
+CÂU 038: Trong phần mềm Task Managr, thông số nào không phải là thông số hoạt động của một tiến trình:
+	Khối lượng bộ nhớ
+	Phần trăm CPU
+	Phần trăm mạng
+	Phần trăm card đồ họa
+ĐÁP ÁN: D
+CÂU 039: Giao thức nào sau đây được sử dụng cho trình duyệt web:
+	Ipx
+	Ftp
+	www
+	http
+ĐÁP ÁN: D
+CÂU 040: Tốc độ truy cập mạng được xác định theo đơn vị nào: 
+	MHz
+	RAM
+	Kbps
+	GB
+ĐÁP ÁN: C
+CÂU 041: Trong mạng máy tính, thuật ngữ Share có nghĩa là gì:
+	Chia sẽ tài nguyên
+	Nhãn hiệu của một thiết bị kết nối mạng
+	Thực hiện lệnh in trong mạng nội bộ
+	Một phần mềm hỗ trợ sử dụng mạng cục bộ
+ĐÁP ÁN: A
+CÂU 042: Câu nào sau đây chỉ bao gồm các phương tiện truyền dẫn vật lý cho truyền thông trên mạng:
+	Cable đồng trục, cable quang, router, access point, modem
+	Cable đồng trục, cable xoắn cặp, cable quang, sóng radio
+	Cable đồng trục, cable quang, hub, switch, router, access point
+	Repeater, hub, switch, routet, wireless access point
+ĐÁP ÁN: B
+CÂU 043: Trong kết nối mạng máy tính cục bộ, cấu trúc mạng được chia thành các loại nào:
+	Cấu trúc liên kết hình sao
+	Cấu trúc liên kết dạng tuyến
+	Cấu trúc liên kết dạng hình sao, dạng hình tuyến, dạng hình vòng
+	Hình mạng nhện
+ĐÁP ÁN: C
+CÂU 044: Trong mạng máy tính, thuật ngữ WAN có nghĩa là gì:
+	Mạng cục bộ
+	Mạng diện rộng
+	Mạng toàn cầu
+	Mạng doanh nghiệp
+ĐÁP ÁN: B
+CÂU 045: Lựa chọn nào sau đây là tên của một thiết bị mạng:
+	USB
+	UPS
+	SWITCH
+	WEBCAM
+ĐÁP ÁN: C
+CÂU 046: Khi đăng một tập tin (file) ảnh lên mạng xã hội facebook, người ta thực hiện:
+	Download
+	Delete
+	Upload
+	Rename
+ĐÁP ÁN: C
+CÂU 047: Thiết bị nào sau đây dùng để kết nối các mạng trên Internet:
+	Router
+	Switch
+	HUB
+	Card mạng
+ĐÁP ÁN: A
+CÂU 048: Về mạng Internet, phát biểu nào sau đây là đúng:
+	Hệ thống máy tính
+	Hệ thống mạng máy tính
+	Hệ thống mạng máy tính trong một nước
+	Hệ thống mạng máy tính toàn cầu
+ĐÁP ÁN: D
+CÂU 049: Ứng dụng nào sau đây dùng để duyệt web:
+	Internet Explorer
+	Microsoft Excel
+	Microsoft Word
+	Microsoft PowerPoint
+ĐÁP ÁN: A
+CÂU 050: Thuật ngữ nào sau đây không liên quan đến khái niệm trực tuyến:
+	e - learning
+	e – town
+	Đào tạo từ xa
+	Hội nghị trực tuyến 
+ĐÁP ÁN: B
+CÂU 0514: Dịch vụ nào sau đây là dịch vụ ngân hàng trực tuyến cho người dùng:
+	e-banking
+	e-government
+	e-town
+	e-commerce
+ĐÁP ÁN: A
+CÂU 052: Ứng dụng bán hàng trực tuyến (online shop) là thuộc loại dịch vụ Internet nào:
+	e-banking
+	e-governmet
+	e-learning
+	e-commerce
+ĐÁP ÁN: D
+CÂU 053: Phát biểu nào sau đây không phải ưu điểm của học trực tuyến (e-learning):
+	Người học có thể ngồi ở nhà
+	Người học có thể học trong khi đi công tác
+	Người học không cần kết nối Internet
+	Người học không cần phải đến lớp
+ĐÁP ÁN: C
+CÂU 054: Khi các bác sĩ muốn hội chẩn cho một người bệnh ở xa, người ta thực hiện:
+	Học trực tuyến
+	Đào tạo trực tuyến
+	Đào tạo từ xa
+	Hội nghị trực tuyến
+ĐÁP ÁN: D
+CÂU 055: Để thanh toán tiền qua mạng, người dùng sẽ sử dụng dịch vụ Internet nào:
+	E-banking
+	e-government
+	E -learning
+D. Teleconference
+ĐÁP ÁN: A
+CÂU 059: Thiết bị nào không cần thiết trong hội nghị trực tuyến:
+	Loa
+	Micro
+	Máy quay video
+	Lò vi sóng
+ĐÁP ÁN: D
+CÂU 057: Khi một người cần gửi thư điện tử cho một người, người ta cần thông tin gì:
+	Địa chỉ nhà
+	Số điện thoại
+	Địa chỉ Email
+	Địa chỉ Website
+ĐÁP ÁN: C
+CÂU 058: Trong một địa chỉ Email, kí tự nào là kí tự phải có:
+	=
+	:
+	!
+	@
+ĐÁP ÁN: D
+CÂU 059: Những ứng dụng nào là ứng dụng có thể nói chuyện qua phương thức Internet (VoiIP – Voice over IP):
+	www
+	email
+	e-banking
+	Skype
+ĐÁP ÁN: D
+CÂU 060: Dịch vụ nhắn tin SMS là viết tắt của từ nào:
+	Sort message services
+	Sort message share
+	Sort message shop
+	Sort message site
+ĐÁP ÁN: A
+CÂU 061: Dịch vụ IM là viết tắt của từ gì:
+	Instagram Inten messenger
+	Information Inten messenger
+	Inlustration messenger
+	Instant messaging
+ĐÁP ÁN: D
+CÂU 066: Những mạng nào sau đây không phải là mạng xã hội:
+	Facebook
+	Zingme
+	Intranet
+	Twitter
+ĐÁP ÁN: C
+CÂU 063: Những trang nào sau đây không phải là trang báo điện tử:
+	www.vietnamnet.vn
+	www.vnexpress.net
+	www.tuoitre.vn
+	www.google.com
+ĐÁP ÁN: D
+CÂU 064: Khi nói về điều kiện làm việc của nghề Tin học văn phòng, phát biểu nào sau đây là sai:
+	Làm việc trong nhà
+	Ảnh hưởng thị lực
+	Ảnh hưởng cột sống
+	Tiếp xúc độc hại
+ĐÁP ÁN: D
+CÂU 065: Bệnh nào là bệnh liên quan đến việc sử dụng máy tính nhiều:
+	Bệnh ho gà
+	Bệnh đau cột sống
+	Cận thị
+	Bệnh đau bao tử
+ĐÁP ÁN: C
+CÂU 066: Chọn mức độ ánh sáng ở màn hình máy tính và môi trường xung quanh cân bằng giúp cho điều gì:
+	Đỡ buồn ngủ
+	Đỡ mỏi mắt
+	Đỡ đau lưng
+	Đỡ khát nước
+ĐÁP ÁN: B
+CÂU 067: Điều gì sau đây không phải là lợi ích của tái chế hộp mực in:
+	Tiết kiệm tiền
+	Bảo vệ môi trường
+	Giảm rác thải
+	Tiết kiệm nước
+ĐÁP ÁN: D
+CÂU 068: Điều gì sau đây không phải là nguy cơ ô nhiễm môi trường của Pin máy tính phế thải:
+	Ô nhiễm chì
+	Ô nhiễm thủy ngân
+	Ô nhiễm kẽm
+	Ô nhiễm phóng xạ
+ĐÁP ÁN: D
+CÂU 069: Khi lựa chọn máy tính ở chế độ tự động tắt màn hình sau 20 giây, màn hình máy tính tự động tắt khi: 
+	Không đụng tới máy tính trong 20 giây
+	Không sử dụng máy in trong 20 giây
+	Không sử dụng Internet trong 20 giây
+	Xuất ra máy in sau 20 giây
+ĐÁP ÁN: A
+CÂU 070: Với thiết lập nào của Control panel để giúp cài đặt chế độ tiết kiệm năng lượng:
+	Display
+	System and Security
+	Devices and Printers
+	Power options
+ĐÁP ÁN: D
+CÂU 071: Lựa chọn nào sau đây được lựa chọn giúp tiết kiệm Pin cho máy tính xách tay (laptop):
+	Không chạy các ứng dụng đồ họa trên máy tính
+	Không sử dụng con chuột
+	Tự động tắt màn hình, tự động tắt máy khi không sử dụng
+	Không sử dụng máy in
+ĐÁP ÁN: C
+CÂU 072: Khi giao dịch trực tuyến nên làm gì để bảo vệ an toàn thông tin: 
+	Cảnh giác với thư giả mạo
+	Không sử dụng bàn phím
+	Chỉ sử dụng chuột
+	Không sử dụng máy in
+ĐÁP ÁN: A
+CÂU 073: Khi truy cập vào một ứng dụng mạng hay internet điều gì sau đây là không thể được:
+	Hai Usename có cùng một Password
+	Một Usename có hai Passsword
+	Một Usename có một Password
+	Một Usename không có Password
+ĐÁP ÁN: B
+CÂU 074: Mật khẩu nào sau đây không phải là mật khẩu tốt:
+	a921680b
+	123c2518
+	12345678
+	abc123DE
+ĐÁP ÁN: C
+CÂU 075: Tại sao việc thay đổi mật khẩu thường xuyên có ích trong việc đảm bảo an toàn thông tin:
+	Để dễ nhớ
+	Để khó bị phát hiện
+	Để hệ thống hoạt động nhanh
+	Để dễ bị phát hiện
+ĐÁP ÁN: B
+CÂU 076: Trong giao dịch trực tuyến nếu để lộ hồ sơ cá nhân, người ta có thể bị gì:
+	Bị ốm
+	Bị mất tiền
+	Bị mất máy tính
+	Bị hư máy tính
+ĐÁP ÁN: B
+CÂU 077: Để giúp cho bảo vệ dữ liệu với trường hợp ở đĩa cứng trong máy tính bị hỏng, người ta thực hiện:
+	Thường xuyên sao lưu dữ liệu
+	Thường xuyên thay đổi mật khẩu máy tính
+	Thường xuyên cảnh giác thư giả mạo
+	Thường xuyên tắt máy tính khi rời nơi làm việc
+ĐÁP ÁN: A
+CÂU 078: Việc sử dụng tường lửa (firewall) giúp mạng máy tính của doanh nghiệp điều gì:
+	Ngăn chặn việc mất điện
+	Ngăn chặn việc mất thời gian
+	Ngăn chặn việc tấn công mạng
+	Chống trộm cắp máy tính
+ĐÁP ÁN: C
+CÂU 083: Virus có thể lây lan qua:
+	Đường dây điện
+	Qua con chuột
+	Qua USB
+	Qua máy in
+ĐÁP ÁN: C
+CÂU 080: Điều gì mà tất cả các Virus đều có thể thực hiện:
+	Lây nhiễm vào BOOT RECORD
+	Phá hủy CMOS
+	Xóa các tâp tin chương trình trên đĩa cứng
+	Tự nhân bản
+ĐÁP ÁN: D
+CÂU 081: Về loại B-Virus, phát biểu nào sau đây là đúng: 
+	Là một loại virus tin học chủ yếu lây lan vào ổ đĩa B
+	Là một loại virus tin học chủ yếu lây lan vào các bộ trữ điện
+	Là loại virus tin học chủ yếu lây lan vào các mẫu tin khởi động (Boot record)
+	Là loại virus tin học chủ yếu lây lan váo các tệp tin của Microsoft Word và Microsoft Excel
+ĐÁP ÁN: C
+CÂU 082: Về Virus máy tính, phát biểu nào sau đây là đúng:
+	Là loại Virus tự phát sinh, phá hoại phần cứng của máy tính
+	Là một chương trình máy tính do con người tạo ra, có khả năng phá hoại đối với các sản phẩm tin học
+	Là một chương trình máy tính do con người tạo ra, có khả năng tự nhân bản
+	B và C đúng
+ĐÁP ÁN: D
+CÂU 083: Về Macro Virus, phát biểu nào sau đây là đúng: 
+	Là loại Virus chủ yếu lây lan vào mẫu tin khơi động (Boot record)
+	Là một loại Virus chủ yếu lây lan vào tập tin âm thanh
+	Là loại Virus chủ yếu lây lan vào các tập tin của Microsoft Word và Microsoft Excel
+	Là loại Virus chủ yếu lây lan vào các tập tin hình ảnh
+ĐÁP ÁN: C
+CÂU 084: Cách nhận diện một phần mềm có bản quyền: 
+	Chỉ cần sản phẩm có số serial
+	Mã ID sản phẩm, đăng ký sản phẩm
+	Giấy phép sử dụng phần mềm
+	B và C đúng
+ĐÁP ÁN: D
+CÂU 085: Thuật ngữ bản quyền/ quyền tác giả trong tiếng anh là gì:
+	Copyright
+	Copyword
+	Winword
+	Firewall
+ĐÁP ÁN: A
+CÂU 086: Luật sở hữu trí tuệ tại Việt Nam có hiệu lực từ năm nào:
+	2000
+	2004
+	2006
+	2008
+ĐÁP ÁN: C
+CÂU 087: Với phần mềm mã nguồn mở, phát biểu nào sau đây là sai:
+	Mọi người không thể copy mã nguồn
+	Mọi người đều có thể copy được mã nguồn
+	Mọi người có thể phân phối lại phần mềm
+	Mọi người đều có thể cải tiến phần mềm
+ĐÁP ÁN: A
+CÂU 088: Với phần mềm shareware, phát biểu nào sau đây là đúng:
+	Người dùng phải trả tiền sau một thời gian
+	Người dùng không phải trả tiền khi sử dụng
+	Đây là phần mềm không có bản quyền
+	Đây là phần mềm mã nguồn mở
+ĐÁP ÁN: A
+CÂU 089: Với phần mềm freeware, phát biểu nào sau đây là sai:
+	Người dùng không phải trả tiền khi sử dụng
+	Người dùng không bị hạn chế thời gian sử dụng
+	Phần mềm không có bản quyền
+	Phần mềm có bản quyền
+ĐÁP ÁN: C
+CÂU 090: Thuật ngữ Cơ sở dữ liệu trong tiếng anh là gì:
+	Database
+	Datawork
+	Datatable
+	Datalist
+ĐÁP ÁN: A
+CÂU 091: Luật an toàn thông tin mạng của Việt Nam có hiệu lực từ năm nào:
+	2014
+	2015
+	2016
+	2017
+ĐÁP ÁN: C
+CÂU 092: Trong luật An toàn an ninh thông tin mạng của Việt Nam có bao nhiêu cấp độ an toàn hệ thống thông tin:
+	4
+	5
+	6
+	7
+ĐÁP ÁN: B
+CÂU 093: Trong luật An toàn an ninh thông tin mạng những hành vi nào là không bị nghiêm cấm:
+	Phát tán thư rác, phần mềm độc hại
+	Ngăn chặn truyền tải thông tin trên mạng
+	Tấn công chiến quyển điều khiển và phá hoại hệ thống thông tin
+	Đăng ảnh lên trang thông tin cá nhân trên mạng xã hội
+ĐÁP ÁN: D
+CÂU 094: Phát biểu nào sau đây chỉ bao gồm các đơn vị đo lường khả năng lưu trữ thông tin là:
+	Byte, Kbyte, MB, GB
+	Bit, Byte. KG, MB, GB
+	Boolean, Byte, MB
+	Đĩa cứng, ổ nhớ
+ĐÁP ÁN: A
+CÂU 095: Về máy vi tính, phát biểu nào sau đây là đúng: 
+	Những thiết bị dùng để truyền tin
+	Là hệ thống thiết bị dùng để tính toán, kiểm soát các hoạt động một cách tự động mà có thể biểu diễn dưới dạng số hay quy luật lôgic
+	Là phương tiện lưu trữ thông tin
+	Là thiết bị nghe nhìn
+ĐÁP ÁN: B
+CÂU 096: Số 10B thuộc hệ đếm nào sau đây:
+	Nhị phân
+	Thập lục phân
+	Bát phân
+	Thập bát phân
+ĐÁP ÁN: B
+CÂU 097: Hệ đếm cơ số b dùng:
+	b chữ số
+	b+1 chữ số
+	b-1 chữ số
+	Dùng các ký tự số từ 3 đến 9
+ĐÁP ÁN: A
+CÂU 098: Giá trị 121 ở hệ số thập phân khi chuyển sang hệ nhị phân sẽ là:
+	121
+	111010
+	1111001
+	1000011
+ĐÁP ÁN: C
+CÂU 099: Với một dạng thông tin có thể có 14 trạng thái, để tổ chức lưu trữ cho dạng thông tin này ta cần sử dụng tối thiểu là:
+	3 bit
+	4 bit
+	5 bit
+	6 bit
+ĐÁP ÁN: B
+CÂU 100: Phát biểu nào sau đây là sai:
+	Hệ nhị phân có 2 chữ số cơ bản là 0 và 1
+	Hệ thập lục phân có 16 chữ số cơ bản là: 0,1,2,3,4,5,6,7,8,9 A,B, C,D,E,F.
+	Hệ thập phân có 10 chữ số cơ bản là: 0,1,2,3,4,5,6,7,8,9,10.
+	Hệ bát phân gồm có 0,1,2,3,4,5,6,7
+ĐÁP ÁN: C
+CÂU 101: Máy tính để bàn và máy tính xách tay (laptop) khác nhau cơ bản về:
+	Tính năng sử dụng
+	Tốc độ xử lý
+	Công nghệ sử dụng
+	Giá cả
+ĐÁP ÁN: C
+CÂU 102: Thành phần nào sau đây không thuộc bộ xử lý trung tâm của máy tính (CPU):
+	Khối tính toán số học/logic (ALU- Arthmatic and Logic Unit).
+	Khối điều khiển (CU- Control Unit).
+	Bộ nhớ trong
+	Thanh ghi
+ĐÁP ÁN: C
+CÂU 103: Thiết bị nào trong các thiết bị sau là thiết bị đầu ra:
+	Bàn phím
+	Con chuột
+	Máy in
+	Máy Scan
+ĐÁP ÁN: C
+CÂU 104: Các phần mềm: MS.Word, MS.Excel, MS.Access, MS.Powerpoint,, MS.Internet Explorer thuộc nhóm phần mềm:
+	Phần mềm hệ điều hành
+	Phần mềm hệ thống
+	Phần mềm cơ sở dữ liệu
+	Phần mềm ứng dụng
+ĐÁP ÁN: D
+CÂU 105: Trong máy tính, đơn vị nhỏ nhất dùng để lưu trữ thông tin là:
+	Byte
+	Bit
+	Hz
+	Ký tự
+ĐÁP ÁN: B
+CÂU 106: Để ghi được đĩa CD trên máy tính, phát biểu nào sau đây là đúng:
+	Có ổ đọc đĩa CD
+	Không cần có ở đĩa đọc/ghi CD
+	Cần kết nối Internet
+	Cần có ổ đĩa đọc/ghi CD
+ĐÁP ÁN: D
+CÂU 107: Con số 1,44 MB dùng để biểu thị điều gì:
+	Tốc độ xử lý của máy tính
+	Tốc dộ đường truyền trong máy tính
+	Dung lượng bộ nhớ nào đó
+	Kích cỡ của các thành phần trong CPU
+ĐÁP ÁN: C
+CÂU 108: Phương tiện nào sau đây lưu trữ bằng công nghệ Quang học:
+	Removeable Disk
+	Đĩa cứng
+	SD Card
+	DVD-R
+ĐÁP ÁN: D
+CÂU 109: Để gỡ bỏ một chương trình đã cài đặt trên máy tính đối với Microsoft Windows, người ta thực hiện:
+	Chọn chương trình trong Windows Explore và nhấn phím Delete
+	Vào Control Panel chọn add or Remove Programs, chọn chương trình và chọn Change/Remove
+	Vào Control Panel chọn Add hoặc Remove Programs, chọn chương trình và nhấn phím Delete
+	Vào Search tìm và chọn chương trình, sau đó nhấn phím Delete
+ĐÁP ÁN: C
+CÂU 110: Khi một kẻ gian truy cập vào máy tính của người khác qua mạng Internet thì được gọi là:
+	Docker
+	Staker
+	Hacker
+	Cracker
+ĐÁP ÁN: C
+CÂU 111: Thuật ngữ “Hardware” được dịch ra tiếng Việt là:
+	Phần cứng
+	Phần mềm
+	Phần ứng dụng
+	Phần không nhìn thấy
+ĐÁP ÁN: A
+CÂU 112: Để tránh virut làm ảnh hưởng đến hoạt động của máy tính, người ta thực hiện:
+	Không kết nối máy tính qua đường mạng
+	Không truy cập Internet
+	Không lấy thông tin từ các phương tiện lưu trữ ngoài
+	Cài đặt các chương trình phát hiện, diệt virut
+ĐÁP ÁN: D
+
+
+
+Mô đun 2: Sử dụng máy tính cơ bản (IU2)
+
+CÂU 001: Trong hệ điều hành Microsoft Windows, thuật ngữ Driver có nghĩa là gì:
+	Chương trình dạy lái xe ô tô
+	Chương trình hướng dẫn sử dụng Windows
+	Chương trình giúp chạy các phần mềm trên Windows
+	Chương trình giúp Windows điều khiển các thiết bị ngoại vi
+ĐÁP ÁN: D
+CÂU 002: Trong hệ điều hành Microsoft Windows, bàn phím ảo là:
+	On-Sreen Keyboard
+	PC Keyboard
+	Laptop Keyboard
+	Wireless Keyboard
+ĐÁP ÁN: A
+CÂU 003: Trong hệ điều hành Microsoft Windows, để kiểm tra các thiết bị đã cài Driver hay chưa, người ta sử dụng công cụ:
+	Registry Editor
+	Device Manager
+	System Information
+	My Computer
+ĐÁP ÁN: B
+CÂU 004: Trong hệ điều hành Microsoft Windows, người ta có thể format ở đĩa chứa hệ điều hành không:
+	Có thể, đơn giản là các tập tin sẽ bị xóa đi
+	Không thể nếu đang sử dụng hệ điều hành được đặt trên ổ đĩa đó
+	Có thể nhưng sau đó sẽ mất hệ điều hành
+	Không thể vì bất kì ổ đĩa nào cũng không format được
+ĐÁP ÁN: B
+CÂU 005: Trong hệ điều hành Microsoft Windows, người ta có thể chạy cùng lúc:
+	Chỉ 1 ứng dụng
+	Hai ứng dụng khác nhau
+	Tối đa 15 ứng dụng
+	Nhiều ứng dụng khác nhau
+ĐÁP ÁN: D
+CÂU 006: Trong hệ điều hành Microsoft Windows, ký tự phân cách số thập phân là: 
+	Dấu chấm “.”
+	Dấu phẩy “,”
+	Dấu chấm phẩy “:”
+	Tùy thuộc vào ký tự do người dùng quy định trong Control Panel
+ĐÁP ÁN: D
+CÂU 007: Trong hệ điều hành Microsoft Windows, để thiết lập lại hệ thống người ta chọn chức năng:
+	Control Windows
+	Control Panel
+	Control System
+	Control Desktop
+ĐÁP ÁN: B
+CÂU 008: Trong hệ điều hành Microsoft Windows, thuật ngữ Shortcut có ý nghĩa gì:
+	Tạo đường tắt để truy cập nhanh
+	Xóa một đối tượng được chọn tại màn hình nền
+	Đóng các cửa sổ đang mở
+	Mở các cửa sổ đang đóng
+ĐÁP ÁN: A
+CÂU 009: Trong hệ điều hành Microsoft Windows, mặc định để thêm người dùng mới, người ta thực hiện:
+	Vào Control Panel →User Accounts and Family Safety → User Accounts → Manage another
+Accounts rồi chọn Create a new account
+	Vào Control Panel →User Accounts → Manage another Account rồi chọn Add a New User
+	Vào Control Panel →Manage another Account rồi chọn Add a New User
+	Vào Control Panel →User Account →rồi chọn Add a New User
+ĐÁP ÁN: A
+CÂU 010: Trong hệ điều hành Microsoft Windows, muốn cài đặt máy in, người ta thực hiện:
+	File → Printer and Faxes, rồi chọn mục Add a printer
+	Window → Printer and Faxes, rồi chọn mục Add a printer
+	Start →Printer and Faxes, rồi chọn mục Add a printer
+	Tool →Printer and Faxes, rồi chọn mục Add a printer
+ĐÁP ÁN: C
+CÂU 011: Trong hệ điều hành Microsoft Windows, người ta sử dụng tổ hợp phím nào để kích hoạt menu Start:
+	Ctrl + X
+	Ctrl+ Esc
+	Alt +F4
+	Ctrl+ Z
+ĐÁP ÁN: B
+CÂU 012: Trong hệ điều hành Microsoft Windows, để kiểm tra dung lượng ổ đĩa người ta thực hiện thao tác gì:
+	Trong hệ điều hành Microsoft Windows không thể kiểm tra được
+	Nhấp đúp vào icon của Computer – Nhấp phím phải chuột vào tên ồ đĩa cần kiểm tra – Chọn Properties
+	Nhấp đúp vào icon của phần mềm Microsoft Word
+	Nhấp đúp vào icon của phần mềm Microsoft Exel
+ĐÁP ÁN: B
+CÂU 013: Trong hệ điều hành Microsoft Windows, để mở Windows Explorer, người ta sử dụng tổ hợp phím nào:
+	Ctrl +E
+	Windows + E
+	Alt + E
+	Shift + E
+ĐÁP ÁN: B
+CÂU 014: Trong hệ điều hành Microsoft Windows, để chuyển đổi giữa các cửa sổ ứng dụng với nhau, người ta sử dụng tổ hợp phím nào:
+	Ctrl + Tab
+	Alt + Tab
+	Windows + Tab
+	Windows + Tab  hoặc Alt + Tab
+ĐÁP ÁN: D
+CÂU 015: Trong hệ điều hành Microsoft Windows, để khóa màn hình máy tính, người ta sử dụng tổ hợp phím nào:
+	Windows + C
+	Windows + P
+	Windows + L
+	Windows + H
+ĐÁP ÁN: C
+CÂU 016: Trong hệ điều hành Microsoft Windows, để thu nhỏ cửa sổ đang sử dụng, người ta sử dụng tổ hợp phím nào: 
+	Alt + Space, sau đó nhấn N
+	Alt+ Space, sau đó nhấn X
+	Ctrl + Space, sau đó nhấn X
+	Ctrl + Space, sau đó nhấn N
+ĐÁP ÁN: A
+CÂU 017: Trong hệ điều hành Microsoft Windows, để thu nhỏ tất cả cửa sổ, trừ cửa sổ đang sử dụng, người ta sử dụng tổ hợp phím nào:
+	Windows + N
+	Windows +D
+	Windows + Home
+	Windows + Tab
+ĐÁP ÁN: C
+CÂU 018: Trong hệ điều hành Microsoft Windows, để mở các ứng dụng có trên thanh TaskBar, người ta sử dụng tổ hợp phím nào: 
+	Ctrl + Win + [số thứ tự của ứng dụng trên thanh Taskbar từ 1 tới 9]
+	Win + [số thứ tự cùa ứng dụng trên thanh Taskbar từ 1 tới 9]
+	Alt + Win + [ số thứ tự cùa ứng dụng trên thanh Taskbar từ 1 tới 9]
+	Không có tổ hợp phím tắt cho lệnh này
+ĐÁP ÁN: B
+CÂU 019: Trong hệ điều hành Microsoft Windows, khi trình chiếu đôi khi người ta cần phóng to thu nhỏ cả màn hình, người ta sử dụng tổ hợp phím nào:
+	Windows + [dấu + hoặc -]
+	Ctrl + [dấu + hoặc -]
+	Ctrl + [lăn chuột lên hoặc xuống]
+	Windows + [ lăn chuột lên hoặc xuống]
+ĐÁP ÁN: A
+CÂU 020: Trong hệ điều hành Microsoft Windows, khi trình chiếu hay sử dụng nhiều, màn hình người ta cần điều chỉnh chế độ chiếu. người ta sử dụng tổ hợp phím nào:
+	Windows + A
+	Windows + P
+	Windows + I
+	Windows + L
+ĐÁP ÁN: B
+CÂU 021: Trong hệ điều hành Microsoft Windows, tổ hợp phím “Windows + G” có tác dụng:
+	Hiển thị cửa sổ tím kiếm
+	Duyệt các Windows Gadgest trên màn hình nếu có
+	Mở Task Manager dạng thu gọn
+	Không có tác dụng gì
+ĐÁP ÁN: B
+CÂU 022: Trong hệ điều hành Microsoft Windows, khi muốn chụp hình cửa sổ đang sử dụng, người ta dùng tổ hợp phím:
+	Ctrl + Printscreen
+	PrintScreen
+	Alt + PrintScreen
+	Không có tổ hợp phím nào làm được, người ta chỉ có thể PrintScreen rồi xài các chương trình sửa màn hình ảnh cắt ra
+ĐÁP ÁN: C
+CÂU 023: Trong hệ điều hành Microsoft Windows, khi đang ở Windows Explorer, để đi vào khung tìm kiếm, người ta sử dụng phím tắt nào:
+	F3
+	F4
+	F6
+	F7
+ĐÁP ÁN: A
+CÂU 024: Trong hệ điều hành Microsoft Windows, khi đang sử dụng một chương trình nào đó của Microsoft, tổ hợp phím “Ctrl+N” có chức năng:
+	Tạo một thư mục mới
+	Tạo ra một tập tin mới và chưa có thông tin trong tập tin đó
+	Mở thanh Menu
+	Tùy chương trình mà có chức năng khác nhau
+ĐÁP ÁN: D
+CÂU 025: Trong hệ điều hành Microsoft Windows, để đi tới thanh địa chỉ trên Windows Explorer, người ta dùng tổ hợp phím:
+	Ctrl + D
+	Ctrl + L
+	Alt + D
+	Atl + L
+ĐÁP ÁN: C
+CÂU 026: Trong hệ điều hành Microsoft Windows, để thu nhỏ tất cả các cửa sổ xuống thanh Taskbar, người ta sử dụng tổ hợp phím nào:
+	Windows + M
+	Windows + S
+	Ctrl + L
+	Windows + L
+ĐÁP ÁN: A
+CÂU 027: Trong hệ điều hành Microsoft Windows, để chụp lại toàn bộ màn hình đang sử dụng người ta sử dụng phím tắt nào:
+	Scroll Lock
+	Pause
+	Insert
+	Print Sreen
+ĐÁP ÁN: D
+CÂU 028: Trong hệ điều hành Microsoft Windows, tại Windows Explorer khi người ta nhấn tổ hợp phím Alt+ Mũi tên qua trái thì tương ứng với việc nhấn chuột vào nút gì trên thanh công cụ:
+	Up
+	Forward
+	Cut
+	Back
+ĐÁP ÁN: D
+CÂU 029: Trong hệ điều hành Microsoft Windows, để mở cửa sổ tìm kiếm, người ta sử dụng tổ hợp phím nào:
+	Windows + T
+	Windows + P
+	Windows + F
+	Ctrl + M
+ĐÁP ÁN: C
+CÂU 030: Trong hệ điều hành Microsoft Windows, để lưu nội dung màn hình vào bộ nhớ Clipboard, người ta sử dụng tổ hợp phím nào:
+	Ctrl + C
+	Ctrl + Ins
+	PrintSreen
+	ESC
+ĐÁP ÁN: C
+CÂU 031: Trong hệ điều hành Microsoft Windows, khi truy cập nhanh menu Start để có thể Shutdown máy, người ta sử dụng tổ hợp phím nào:
+	Alt + Esc
+	Ctrl + Esc
+	Ctrl + Alt + Esc
+	Không có cách nào khác
+ĐÁP ÁN: B
+CÂU 032: Trong hệ điều hành Microsoft Windows, phím F2 dùng để:
+	Tạo Folder mới
+	Xóa đối tượng
+	Đổi tên đối tượng
+	Thoát windows
+ĐÁP ÁN: C
+CÂU 033: Phím, tổ hợp phím dùng để chụp cửa sổ hiền hành:
+	Alt + PrintScreen
+	Ctrl + PrintScreen
+	PrintScreen
+	Shift + SrintSreen
+ĐÁP ÁN: C
+CÂU 034: Trong hệ điều hành Microsoft Windows, để sao chép một đối tượng vào ClipBoard, người ta sử dụng tổ hợp phím nào:
+	Ctrl + X
+	Ctrl + C
+	Ctrl  + V
+	Ctrl + Z
+ĐÁP ÁN: B
+CÂU 035: Trong hệ điều hành Microsoft Windows, để gõ kí tự trên của một phím, người ta phải ấn giữ phím nào:
+	Ctrl
+	Alt
+	Shift
+	CapsLock
+ĐÁP ÁN: C
+CÂU 036: Trong hệ điều hành Microsoft Windows, tổ hợp phím Windows + E có tác dụng gì:
+	Chuyển đổi qua lại các cửa sổ đang mở
+	Đóng cửa sổ đang mở
+	Ấn hoặc hiện cửa sổ đang mở
+	Mở cửa sổ My Computer
+ĐÁP ÁN: D
+CÂU 037: Trong hệ điều hành Microsoft Windows, tổ hợp phím Windows + D có tác dụng gì:
+	Chuyển đổi qua lại các cửa sổ đang mở
+	Ẩn hiện cửa sổ đang mở
+	Mở cửa sổ My Computer
+	Đóng cửa sổ đang mở
+ĐÁP ÁN: B
+CÂU 038: Trong hệ điều hành Microsoft Windows, mặc định để tùy chỉnh cập nhật của hệ điều hành Microsoft Windows người ta thực hiện:
+	Vào Control Panel → System and Security →Windows Update
+	Vào Control Panel →Windows Update
+	Vào Windows →Windows Update
+	Vào Control Panel →Windows → Windows Update
+ĐÁP ÁN: B
+CÂU 039: Muốn thay đổi các thông số của hệ thống máy tính sao cho dữ liệu ngày được hiển thị dưới dạng “Tuesday, July,30, 2015”  người ta khai báp thẻ lệnh Date của hộp thoại Customize Regional Option như thế nào:
+	Tại Short date format hay Long date fomat nhập: dddd,MMMM dd, yyyy
+	Tại Short date format hay Long date fomat nhập: MMMM dd, yyyy
+	Tại Short date format hay Long date fomat nhập: dddd, dd MMMM, yyyy
+	Tại Short date format hay Long date fomat nhập: dd MMMM, yyyy
+ĐÁP ÁN: A
+CÂU 040: Trong bảng “Taskbar and Navigation propetise” của hệ điều hành Microsoft Windows 8.1, chức năng  nào dùng để ẩn thanh công việc (Taskbar) tự động:
+	Lock the taskbar
+	Auto – hide the taskbar
+	Use small taskbar buttons
+	Show Windows Store apps on the taskbar
+ĐÁP ÁN: B
+CÂU 041: Trong hệ điều hành Microsoft Windows, để thay đổi hình nền người ta thực hiện:
+	Chuột phải vào màn hình chọn Screen resolution
+	Chuột phải vào màn hình chọn Personalization
+	Chuột phải vào màn hình chọn Paste
+	Gỡ màn hình ra và dán hình nền lên trên màn hình
+ĐÁP ÁN: B
+CÂU 042: Trong hệ điều hành Microsoft Windows, để thay đổi độ phân giải người ta thực hiện:
+	Chuột phải vào màn hình chọn Screen resolution
+	Chuột phải vào màn hình chọn Personnalization
+C. Chuột phải vào màn hình chọn Next desktop background
+D. Chuột phải vào màn hình chọn Paste
+ĐÁP ÁN: A
+CÂU 043: Trong hệ điều hành Microsoft Windows, làm thế nào để gỡ bỏ một chương trình khỏi máy tính tốt nhất:
+	Xóa biểu tượng của chương trình đó trên màn hình
+	Xóa thư mục của chương trình đó trên hệ thống
+	Vào Control Panel, chọn Programs, chọn Uninstall program, chọn chương trình cần gỡ rối Nhấn Uninstall
+	Vào Start, tìm kiếm tên chương trình rồi chọn xóa, sau đó khởi động lại máy tính
+ĐÁP ÁN: C
+CÂU 044: Trong hệ điều hành Microsoft Windows, để chọn  các biểu tượng nằm cách nhau trên màn hình nền Desktop, người ta dùng chuột nhấp chọn từng biểu tượng một đồng thời giữ phím nào:
+	Alt
+	Ctrl
+	Enter
+	Shift
+ĐÁP ÁN: B
+CÂU 045: Trong hệ điều hành Microsoft Windows, chương trình ghi chú nhanh là:
+	Quick Notes
+	Sticky Notes
+	Notepad
+	WinWord
+ĐÁP ÁN: B
+CÂU 046: Trong hệ điều hành Microsoft Windows, thao tác Drag  and Drop (kéo thả chuột) được sử dụng khi người ta muốn làm gì:
+	Mở thư mục
+	Thay đổi màu nền cho cửa sổ hiện hành
+	Di chuyền đối tượng đến vị trí mới
+	Xem thuộc tính của tập tin hiện tại
+ĐÁP ÁN: C
+CÂU 047: Trong hệ điều hành Microsoft Windows, công cụ Magnifies thực hiện việc gì: 
+	Công cụ cho phép quản lý tiến trình đang chạy
+	Công cụ cho phép phóng to màn hình hiển thị
+	Công cụ cho phép làm sạch bộ nhớ RAM
+	Công cụ cho phép in ra máy in
+ĐÁP ÁN: B
+CÂU 048: Trong hệ điều hành Microsoft Windows, để xóa một biểu tượng (icon), người ta thực hiện:
+	Chọn và ấn phím Delete
+	Chọn và ấn phím Alt
+	Chọn và ấn phím Tab
+	Chọn và ấn phím Ctrl
+ĐÁP ÁN: A
+CÂU 049: Trong hệ điều hành Microsoft Windows, chỉ với Recycle Bin, người ta không thể thực hiện điều gì:
+	Xem danh sách các tập tin và thực mục vừa xóa
+	Xóa hẳn các tập tin và thư mục
+	Khôi phục tất cả các tập tin và thư mục bị xóa
+	Phục hồi các tập tin và thư mục vừa xóa
+ĐÁP ÁN: C
+CÂU 050: Trong hệ điều hành Microsoft Windows, khi muốn khôi phục lại đối tượng đã xóa trong Recycle Bin, người ta chọn đối tượng rồi chọn lệnh: 
+	Copy
+	Restore
+	Open
+	Move To Folder
+ĐÁP ÁN: B
+CÂU 051: Trong hệ điều hành Microsoft Windows, để thiết đặt lại hệ thống, người ta chọn chức năng:
+	Control Windows
+	Control System
+	Control Panel
+	Control Desktop
+ĐÁP ÁN: C
+CÂU 052: Khi một đối tượng trong hệ điều hành Microsoft Windows (File, Folder, Shortcut) đang được chọn, gõ phím F2 cho phép người ta thực hiện:
+	Xóa đối tượng
+	Tạo đối tượng mới
+	Đổi tên đối tượng
+	Không có tác dụng gì
+ĐÁP ÁN: C
+CÂU 053: Trong hệ điều hành Microsoft Windows, muốn điều chỉnh ngày giờ của hệ thống người ta thực hiện lệnh:
+	Start → Control Windows→ Date and Time
+	Start →Control Panel →Date and Time
+	Start → Control System→ Date and Time
+	Start →Control Desktop→ Date and Time
+ĐÁP ÁN: B
+CÂU 054: Trong hệ điều hành Microsoft Windows, để kiểm tra không gian đĩa chưa được sử dụng, người ta thực hiện:
+	Click chuột  vào tên ổ đĩa cần kiểm tra
+	Click phím phải chuột vào tên ổ đĩa cần kiểm tra – Chọn Properties
+	Click phím phải chuột vào Recycle Bin – Chọn Properties
+	Click chuột vào Recycle Bin
+ĐÁP ÁN: B
+CÂU 055: Trong hệ điều hành Microsoft Windows, muốn tắt cừa sổ hiện hành người ta thực hiện:
+	Nhấn nút biểu tượng Minimize
+	Nhấn nút biểu tượng Restore Window
+	Nhấn nút biểu tượng Close
+	Nhấn nút biểu tượng Maximize
+ĐÁP ÁN: C
+CÂU 056: Trong hệ điều hành Microsoft Windows, lệnh Defregnment dùng để làm gì:
+	Định dạng lại ổ đĩa
+	Chống phân mảnh ổ đĩa
+	Backup lại dữ liệu ổ đĩa
+	Sửa lỗi ổ đĩa
+ĐÁP ÁN: B
+CÂU 057: Trong hệ điều hành Microsoft Windows, muốn thu nhỏ hoặc phóng lớn cửa sổ hiện hành người ta thực hiện:
+	Nhấn nút biểu tượng Minimize
+	Nhấn nút biểu tượng Restore
+	Nhấn nút biểu tượng Maximize
+	Cả B và C
+ĐÁP ÁN: D
+CÂU 058: Trong hệ điều hành Microsoft Windows, người ta sử dụng chương trình nào để quản lý các tập tin và thư mục:
+	Microsoft Office
+	Accessories
+	Control Panel
+	Windows Explorer
+ĐÁP ÁN: D
+CÂU 059: Trong hệ điều hành Microsoft Windows, muốn tắt cửa sổ hiện hành người ta thực hiện: 
+	Nhấn nút biểu tượng
+	Nhấn nút biểu tượng Close
+	Nhấn nút biểu tượng Restore
+	Nhấn nút biểu tượng Maximize
+ĐÁP ÁN: B
+CÂU 060: Để xóa một đối tượng trong hệ điều hành Microsoft Windows:
+	Chọn và ấn Delete
+	Chọn và nhấn phím Ctrl
+	Chọn và nhấn phím Shift
+	Chọn và nhấn phím Alt
+ĐÁP ÁN: A
+ CÂU 061: Khi các biểu tượng trên màn hình Desktop hệ điều hành Microsoft Windows bị ẩn hết. Thao tác nào sau đây để hiển thị các biểu tượng trên màn hình Desktop:
+	Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Auto arrange icons
+	Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Show desktop icons
+	Nhấn phím phải chuột vào màn hình nền, chọn View, chọn tiếp Align icons to grid
+	Không thể hiển thị được, Windows đã bị lỗi
+ĐÁP ÁN: B
+CÂU 062: Trong hệ điều hành Microsoft Windows, muốn hiển thị ô Check box dùng chọn nhiều thư mục và tập tin để thao tác, trên Windows Explorer người ta thực hiện:
+	Vào File, chọn Check Boxes
+	Vào Home, chọn Check Boxes
+	Vào View, chọn Item Check Boxes
+	Vào Share, chọn Item Check Boxes
+ĐÁP ÁN: C
+ CÂU 063: Trong hệ điều hành Microsoft Windows, công cụ Windows Explorer dùng để làm gì:
+	Khôi phục thư mục hoặc tập tin
+	Quản lý thư mục và tập tin
+	Duyệt web
+	Gửi và nhận Email
+ĐÁP ÁN: B
+CÂU 064: Trong hệ điều hành Microsoft Windows, muốn mở bảng chọn tắt (Shortcut menu) của một đối tượng nào đó, người ta sử dụng thao tác nào sau đây với chuột máy tính: 
+	Click
+	Double click
+	Right click
+	Drag and Drog
+ĐÁP ÁN: C
+ CÂU 065: Trong hệ điều hành Microsoft Windows, công cụ Share được sử dụng để làm gì: 
+	Chia sẽ tập tin
+	Chia sẽ thư mục và các thư mục con, tập tin bên trong nó
+	Chia sẽ ổ đĩa và các thư mục con, tập tin bên trong nó
+	Chia sẽ ứng dụng
+ĐÁP ÁN: C
+CÂU 066: Trong hệ điều hành Microsoft Windows, khi một tập tin mang thuộc tính “Hidden” tức là:
+	Tập tin bị lỗi
+	Tập tin bị ẩn
+	Tập tin là tập tin không có định dạng
+	Tập tin không chạy được
+ĐÁP ÁN: B
+CÂU 067: Trong hệ điều hành Microsoft Windows, muốn xem tổ chức các tập tin và thư mục trên đĩa, người ta có thể sử dụng:
+	My Conputer 
+	 Recycle Bin
+	Paint
+	 My Network Places
+ĐÁP ÁN: A
+CÂU 068: Trong hệ điều hành Microsoft Windows, công cụ nào sau đây có thể được sử dụng để soạn thảo văn bản:
+	Windows Explorer
+	Internet Explorer
+	Control Panel
+	Notepad
+ĐÁP ÁN: D
+CÂU 069: Trong hệ điều hành Microsoft Windows, muốn có một đường tắt để truy cập vào một thư mục, người ta cần tạo ra:
+	Một thư mục
+	Một tập tin
+	Một cửa sổ
+	Một Shortcut
+ĐÁP ÁN: D
+CÂU 070: Trong Windows Explorer, nếu người ta vào bảng chọn View, chọn lệnh List, có nghĩa là đã chọn kiểu hiển thị  nội dung  của cửa sổ bên phải chương trình dưới dạng:
+	Các biểu tượng lớn
+	Các biểu tượng nhỏ
+	Danh sách các tập tin và thư mục
+	Danh sách liệt kê chi tiết
+ĐÁP ÁN: C
+CÂU 071: Trong Windows Explorer, tiêu chí nào sau đây không thể dùng để sắp xếp các tập tin và thư mục:
+	Tên tập tin
+	Tần suất sử dụng
+	Kích thước tập tin
+	Kiểu tập tin
+ĐÁP ÁN: B
+CÂU 072: Trong cửa sổ ListView của Windows Explorer, kiểu hiển thị nào cho phép người sử dụng có thể biết được  kích thước của một File có chứa trong cửa sổ đó:
+	Tiles
+	Icons
+	List
+	Details
+ĐÁP ÁN: D
+CÂU 073: Trong hệ điều hành Microsoft Windows, để đổi tên thư mục hoặc tập tin đang chọn, người ta sử dụng:
+	F2
+	F3
+	F4
+	F6
+ĐÁP  ÁN: A
+CÂU 074: Trong hệ điều hành Microsoft Windows, trong một thư mục có hai thư mục X và Y, khi người ta đổi tên thư mục X thành Y thì điều gì xảy ra:
+	Máy tính tự động đặt tên cho thư mục X thành Y là Y1
+	Máy tính tự động xóa thư mục Y đã tồn tại và cho phép đổi tên thư mục X
+	Máy tính tự động xóa thư mục Y đã tồn tại xà sao chép thư mục X sang thư mục khác
+	Máy tính thông báo thư mục Y đã tồn tại và hỏi có muốn gộp lại hai thư mục lại không
+ĐÁP ÁN: D
+CÂU 075: Trong hệ điều hành Microsoft Windows, muốn tạo một thư mục mới, người ta thực hiện:
+	Edit →New, sau đó chọn Folder
+	Tools→ New, sau đó chọn Folder
+	File→ New, sau đó chọn Folder
+	Windows→ New, sau đó chọn Folder
+ĐÁP ÁN: C
+CÂU 076: Trong hệ điều hành Microsoft Windows, tên của thư mục được đặt tên như thế nào:
+	Bắt buộc phải dùng chữ in hoa để đặt tên thư mục
+	Bắt buộc không được có phần mở rộng
+	Thường được đặt theo qui cách đặt tên của tên tệp
+	Bắt buộc phải có phần mở rộng
+ĐÁP ÁN: C
+CÂU 077: Trong hệ điều hành Microsoft Windows, khi chọn Copy một tập tin, sau đó xóa tập tin đó đi rồi Paste sang vị trí mới thì điều gì sẽ xảy ra:
+	Vẫn copy bình thường vì thao tác này tương tự lệnh “Cut”
+	Không copy được vì tập tin gốc đã mất
+	Hệ thống sẽ hỏi có muốn phục hồi file đã xóa không
+	Hệ thống sẽ hỏi có muốn xóa hẳn file không
+ĐÁP ÁN: B
+CÂU 078: Trong Windows Explorer, để chọn một lúc các file hoặc folder nằm liền kề nhau trong một danh sách, người ta thực hiện:
+	Giữ phím Ctrl và nháy chuột váo từng mục muốn chọn trong danh sách
+	Giữ phím Alt và nháy chuột váo từng mục muốn chọn trong danh sách
+	Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối
+	Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách
+ĐÁP ÁN: C
+CÂU 079: Trong Windows Explorer, để chọn một lúc các file hoặc folder nằm không kề nhau trong một danh sách, người ta thực hiện:
+	Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách
+	Nhấp chuột ở mục đầu, ấn và giữ Shift nhấp chuột ở mục cuối
+	Giữ phím Alt và nháy chuột vào từng mục muốn chọn trong danh sách
+	Giữ phím Tab và nháy chuột vào từng mục muốn chọn trong danh sách
+ĐÁP ÁN: A
+CÂU 080: Trong hệ điều hành Microsoft Windows, khi xóa một thư mục hoặc tập tin thì nó được lưu trong Recycle Bin, muốn xóa hẳn thư mục/tập tin này, người ta sử dụng tổ hợp phím nào:
+	Shift + Del
+	Alt + Del
+	Ctrl + Del
+	Tab + Del
+ĐÁP ÁN: A
+CÂU 081: Trong hệ điều hành Microsoft Windows, khi xóa một thư mục hoặc tập tin bằng phím Del thì điều gì xảy ra:
+	Thư mục/tập tin đó sẽ được xóa hoàn toàn khỏi máy tính
+	Thư mục/tập tin đó sẽ được chuyển vào thùng rác (Recycle Bin)
+	Thư mục/tập tin đó sẽ được lưu vào bộ nhớ máy tính
+	Thư mục/tập tin đó sẽ được chép sang một thư mục khác
+ĐÁP ÁN: B
+CÂU 082: Trong hệ điều hành Microsoft Windows, muốn khôi phục lại một đối tượng đã xóa trong Recycle Bin, người ta thực hiện:
+	Chọn đối tượng, rồi chọn File→ Copy
+	Chọn đối tượng, rồi chọn File→ Open
+	Chọn đối tượng, rồi chọn File→ Restore
+	Chọn đối tượng, rồi chọn File→ Move To Folder
+ĐÁP ÁN: C
+CÂU 083: Trong hệ điều hành Microsoft Windows, người ta không thể đổi tên tập tin, di chuyển hoặc xóa 1 tập tin thường là do:
+	Tập tin bị nhiễm Virus
+	Tập tin đó đang mở
+	Tập tin không bị nhiễm Virus
+	Tập tin đó đang đóng
+ĐÁP ÁN: B
+CÂU 084: Trong hệ điều hành Microsoft Windows, để tìm kiếm một chương trình, người ta thực hiện:
+	Mở hết tất cả thư mục trên màn hình Desktop và tìm bằng mắt
+	Mở chương trình “Search” trong ổ System rồi gõ tên chương trình vào
+	Vào Star, gõ từ khóa tìm kiếm vào ô “Search program Microsoft and files”
+	Vào Control Panel và chọn chương trình
+ĐÁP ÁN: C
+CÂU 085: Trong hệ điều hành Microsoft Windows, để tùy chỉnh nhìn thấy các thư mục ẩn hay không, người ta thực hiện:
+	Trên của sổ Windows Explorer, nhấn vào Tools rồi Folder Options
+	Trên của sổ Windows Explorer, nhấn vào Tools rồi File Options
+	Trên của sổ Windows Explorer, nhấn Folder Options
+	Không thể xem khi các thư mục bị ẩn đi
+ĐÁP ÁN: C
+CÂU 086: Trong hệ điều hành Microsoft Windows, muốn tìm kiếm tập tin hay thư mục, người ta thực hiện: 
+	File→ Search
+	Windows→ Search
+	Star→ Search
+	Tools→ Search
+ĐÁP ÁN: C
+CÂU 087: Trong hệ điều hành Microsoft Windows, công cụ SEARCH được sử dụng để:
+	Tìm kiếm file, folder
+	Dùng để tính toán
+	Dùng để vẽ
+	Dùng để soạn thảo văn bản
+ĐÁP ÁN: A
+CÂU 088: Trong hệ điều hành Microsoft Windows, khi tìm kiếm dữ liệu thì ký hiệu nào sau đây đại diện cho nhiều ký tự bất kỳ:
+	*
+	:
+	#
+	!
+ĐÁP ÁN: A
+CÂU 089: Tập tin (file) nào có đuôi như sau không phải là tập tin nén:
+	.rar
+	.zip
+	.tgz
+	.com
+ĐÁP  ÁN: D
+CÂU 090: Phần mềm nào sau đây là phần mềm an ninh máy tính:
+	Phần mềm kế toán
+	Phần mềm đồ họa
+	Phần mềm diệt virut
+	Phần mềm soạn thảo văn bản
+ĐÁP ÁN: C
+CÂU 091: Phần mềm nào sau đây không phải là một phần mềm diệt virus:
+	BKAV
+	Kaspersky
+	McAfee
+	Firefox
+ĐÁP ÁN: D
+CÂU 092: Trong hệ điều hành Microsoft Windows, để chuyển từ định dạng file này sang định dạng file khác phát biểu nào sau đây không đúng:
+Z. Có thể chuyển từ word sang pdf
+B. Có thể chuyển từ pdf sang word
+C. Có thể chuyển từ excel sang pdf
+D. Có thể chuyển từ excel sang word
+ĐÁP ÁN: D
+CÂU 093: Trong hệ điều hành Microsoft Windows, công cụ “Speech Recognition” có tính năng:
+	Ghi âm
+	Điều chỉnh Microphone
+	Ra lệnh cho máy tính bằng giọng nói
+	Chơi trò chơi
+ĐÁP ÁN: C
+CÂU 094: Trong hệ điều hành Microsoft Windows, người ta có thể sử dụng  chương trình nào như một máy tính bỏ túi:
+	Microsoft Excel
+	Caculator
+	Microsoft Word
+	Notepad
+ĐÁP ÁN: B
+CÂU 095: Trong các công cụ sau, công cụ nào không phải là công cụ đa phương tiện:
+	Ghi âm
+	Nghe nhạc
+	Xem phim
+	Soạn thảo văn bản
+ĐÁP ÁN: D
+CÂU 096: Phông chữ ARIAL tương ứng với bảng mã nò sau đây:
+	UNICODE
+	TCVN3 (ABC)
+	VNI WINDOWS
+	VIQR
+ĐÁP ÁN: A
+CÂU 097: Để gõ đúng chữ tiếng việt có dấu, lựa chọn nào sau đây là đúng:
+	Font chữ là Time New Roman và bảng mã là Vni- Windows
+	Font chữ là Time New Roman và bảng mã là TCVN3
+	Font chữ là Time New Roman và bảng mã là UNICODE
+	Font chữ là Time New Roman và bảng mã là VPS
+ĐÁP ÁN: C
+CÂU 098: Trong hệ điều hành Microsoft Windows, mặc định để cài phông chữ mới, người ta thực hiện:
+	Vào Start→ Setting→ Control Panel Font
+	Vào Start→ Setting→ Control  Panel→ Sau đó chọn Font
+	Vào Start→ Control Panel→ Setting→ Chọn Font
+	Vào Start→  Control Panel→ Appearance and Personalization→ chọn Font
+ĐÁP ÁN: D
+CÂU 099: Trong hệ điều hành Microsoft Windows, những phần mềm nào sau đây không phải là phần mềm gõ tiếng Việt:
+	Vietkey
+	VPSkey
+	Unikey
+	Keylogger
+ĐÁP ÁN: D
+CÂU 100: Trong soạn thảo văn bản tiếng Việt, phát biểu nào sau đây về phông chữ tiếng Việt là sai:
+	Trong một văn bản có thể chưa nhiều phông chữ tiếng Việt
+	Có thể chuyển đổi một văn bản từ định dạng phông tiếng Việt này sang định dạng phông tiếng Việt khác
+	Cách gõ tiếng Việt kiểu VNI và kiểu Telex giống nhau
+	Cách gõ tiếng Việt kiểu VNI và kiểu Telex khác nhau
+ĐÁP ÁN: C
+CÂU 101: Trong phần mềm Microsoft Word, khi chuyển một đoạn văn bản tiếng Việt từ Font Vni-Time sang Font Time New Roman điều gì sau đây là đúng:
+	Tất cả các ký tự đều hiện đúng
+	Tất cả các ký tự đều hiện sai
+	Tất cả các ký tự tiếng Việt có dấu đều hiện sai
+	Tất cả các ký tự tiếng Việt có dấu đều hiện đúng
+ĐÁP ÁN: C
+CÂU 102: Khi gõ tiếng Việt bằng phần mềm Unikey, để chuyển chế độ gõ giữa tiếng Anh và tiếng Việt, người ta sử dụng tổ hợp phím nào:
+	Alt + X
+	Alt + Z
+	Ctrl + Z
+	Shift + X
+ĐÁP ÁN: B
+CÂU 103: Trong hệ điều hành Microsoft Windows, để thu nhỏ cửa sổ ứng dụng, người ta sử dụng tổ hợp phím: 
+	Nhấp chuột trái vào nút Close
+	Nhấp chuột trái vào nút Maximize
+	Nhấp chuột trái vào nút Minimize
+	Nhấp chuột trái vào nút Restore Down
+ĐÁP ÁN: C
+CÂU 104: Trong hệ điều hành Microsoft Windows, muốn chép tập tin (file) hay thư mục (folder), người ta sử dụng tổ hợp phím:
+	Ctrl + C
+	Ctrl + S
+	Alt + C
+	Alt + V
+ĐÁP ÁN: A
+CÂU 105: Trong hệ điều hành Microsoft Windows, file nào là một file chương trình:
+	Trochoi.docx
+	Bangtinh.xlsx
+	Trochoi.spo
+	Trochoi.exe
+ĐÁP ÁN: D
+CÂU 106: Chương trình Window Explorer có thể:
+	Tạo file văn bản
+	Tạo hình ảnh
+	Tạo folder và tên file
+	Tạo chương trình mới
+ĐÁP ÁN: C
+CÂU 107: Trong hệ điều hành Microsoft Windows, để quản lý thông tin lưu trữ trên đĩa, người ta có 2 cấu trúc quan trọng là:
+	Thư mục và cây thư mục
+	Tập tin và thư mục
+	Đường dẫn tập tin và đường dẫn thư mục
+	Ổ đĩa, tập tin
+ĐÁP ÁN: B
+CÂU 108: Thuật ngữ File được gọi trong tiếng việt là:
+	Tập tin
+	Thông tin dữ liệu
+	Cơ sở dữ liệu
+	Thư mục
+ĐÁP ÁN: A
+CÂU 109: Trong hệ điều hành Microsoft Windows, khi tìm các file có phần mở rộng là DOC và XLS, người ta thực hiện:
+A. DOC – XLS
+B. *.DOC, *.XLS
+C. :.DOC, :.XLS
+D. Word file, Excel file
+ĐÁP ÁN: B
+CÂU 110: Trong Windows Explorer, khi nhấp chuột trên tập tin đầu, nhấn và giữ phím CTRL, nhấp chuột trên các tập tin chọn khác, người ta thực hiện:
+	Lựa chọn các tập tin không gần nhau
+	Xóa các tập tin không gần nhau
+	Copy các tập tin không gần nhau
+	Đổi tên các tập tin không gần nhau
+ĐÁP ÁN: A
+CÂU 111: Trong hệ điều hành Microsoft Windows, để thay đổi các xác lập về quy cách con số, tiền tệ… theo các địa phương khác nhau, người ta chạy chương trình:
+	Windows Explorer
+	Internet Explorer
+	Display trong Control Panel
+	Regional Setting trong Control Panel
+ĐÁP ÁN: D
+CÂU 112: Trong hệ điều hành Microsoft Windows, để chuyển đổi qua lại giữa các cửa sổ, người ta sử dụng tổ hợp phím:
+	Ctrl + Tab
+	Shift + Tab
+	Alt + Tab
+	Space + Tab
+ĐÁP ÁN: C
+CÂU 113: Trong hệ điều hành Microsoft Windows, để thoát khỏi một chương trình, người ta thực hiện:
+	Shift +F3
+	Alt + F4
+	Ctrl + F3
+	Alt + F2
+ĐÁP ÁN: B
+CÂU 114: Trong Windows Explorer muốn chọn các phần tử liên tục người ta thực hiện:
+	Nhấn chuột phần từ đầu nhấn giữ Ctrl và nhấp chuột phần tử cuối
+	Nhấn chuột phần từ đầu, nhấn giữ Alt và nhấn chuột phần tử cuối
+	Nhấn chuột phần từ đầu, nhấn giữ Shift và nhấn chuột phần tử cuối
+	Nhấn chuột phần từ đầu,  nhấn giữ Tab và nhấn trái chuột phần tử cuối
+ĐÁP ÁN: C 
+CÂU 115: Trong hệ điều hành Microsoft Windows, khi muốn tạo folder tại desktop, người ta nhấn phím phải chuột sau đó chọn:
+	Properties
+	New→ Folder
+	Refresh
+	Paste
+ĐÁP ÁN: B
+CÂU 116: Trong hệ điều hành Microsoft Windows, khi muốn tạo folder tại Shortcut Desktop, người ta click phím phải chuột sau đó chọn:
+	New→ Folder
+	Refresh
+	Paste
+	Creat Shortcut
+ĐÁP ÁN: A
+CÂU 117: Trong hệ điều hành Microsoft Windows, đối với một thư mục đã có trên đĩa CD, phát biểu nào sau đây là đúng:
+	Ghi bổ sung thêm file, folder
+	Không thể ghi bổ sung thêm file, folder vào
+	Có thể xóa bớt file, folder
+	Đổi tên file, folder
+ĐÁP ÁN: B
+CÂU 118: Trong hệ điều hành Microsoft Windows, để xóa hẳn tất cả các tập tin đã xóa, khi nhấp phím chuột phải vào biểu tượng “Recycle Bin” trên Desktop, người ta thực hiện:
+	Propterty
+	Empty Recycle Bin
+	Pin to Start
+	Rename
+ĐÁP ÁN: B
+CÂU 119: Trong hệ điều hành Microsoft Windows, tập tin nào sau đây thường được ẩn:
+	Tập tin tải về
+	Tập tin hệ thống
+	Tập tin nén
+	Tập tin tài liệu
+ĐÁP ÁN: B
+CÂU 120: Trong hệ điều hành Microsoft Windows, để xem kích thước một ổ đĩa, người ta thực hiện:
+	Vào My Computer, di chuyển tới ổ đĩa cần xem kích thước
+	Nhấn phím phải chuột vào My Computer
+	Nhấp chuột vào Size Disk
+	Nhấp chuột vào My Computer
+ĐÁP ÁN: A
+
+
+
+
+
+
+
+Mô đun 3: Xử lý văn bản cơ bản (IU3)
+CÂU 001: Trong Microsoft Word 2010, muốn định dạng trang văn bản, người ta thực hiện:
+	Vào Page→ Layout  Page setup
+	Vào File→ Page setup
+	Vào Home→ Page setup
+	Vào View→ Page setup
+ĐÁP ÁN: A
+CÂU 002: Trong Microsoft Word 2010, để xóa bỏ định dạng văn bản, người ta thực hiện:
+	Chọn văn bản muốn xóa, vào Home→ Styles→ Clear All
+	Chọn văn bản muốn xóa, vào Home→ Cut
+	Chọn đoạn văn bản muốn xóa, vào Home→ Change Styles
+	Chọn đoạn văn bản muốn xóa, nhấn phím Backspace
+ĐÁP ÁN: A
+CÂU 003: Trong Microsoft Word 2010, để định dạng một đoạn văn bản, người ta thực hiện:
+	Vào Page Layout→ Magins
+	Vào Page Layout→ Paragraph→ Indents and spacing
+	Vào Page Layout→ Orientatione Portrait
+	Vào Review→ Track Changes→ Change tracking Options…
+ĐÁP ÁN: B
+CÂU 004: Trong Microsoft Word 2010, muốn sao chép định dạng của một dòng văn bản nào đó, sau khi bôi đen dòng đó, người ta thực hiện:
+	Vào Home→ Copy
+	Vào Home→ Format Painter
+	Vào Home→ Paste
+	Vào Home→ Cut
+ĐÁP ÁN: B
+CÂU 005: Trong Microsoft Word 2010, để chuyển đổi từ kiểu chữ thường sang toàn bộ chữ in hoa, người ta thực hiện:
+	Vào Home -> Change Case -> UPPERCASE
+	Vào Home -> Change Case -> Lowercase
+	Vào Home -> Change Case -> Capitalize Each Word
+	Vào Home -> Change Case -> Sentence case
+ĐÁP ÁN: A
+CÂU 006: Trong Microsoft Worsd 2010, trong trường hợp chưa đến lề phải nhưng muốn xuống dòng, người ta sử dụng tổ hợp phím:
+	Shift→ Enter
+	Tab→ Enter
+	Ctrl→ Enter
+	Alt→ Enter
+ĐÁP ÁN: A
+CÂU 007: Trong Microsoft Word 2010, để lưu văn bản, người ta sử dụng tổ hợp phím: 
+	Ctrl +O
+	Ctrl +P
+	Ctrl +N
+	Ctrl + S
+ĐÁP ÁN: D
+CÂU 008: Trong Microsoft Word 2010, trong soạn thảo văn bản, muốn tạo một hồ sơ mới, người ta thực hiện:
+	Insert - New
+	View - New
+	File - New
+	Edit - New
+ĐÁP ÁN: C
+CÂU 009: Trong Microsoft Word 2010, công việc nào sau đây không thể thực hiện được:
+	Định dạng đĩa mềm
+	Định dạng dòng văn bản
+	Nối hai tập tin văn bản thành 1 tập tin văn bản
+	Đánh số trang tự động cho văn bản
+ĐÁP ÁN: A
+CÂU 010: Trong Microsoft Word 2010, thao tác nào sau đây là không làm được:
+	Chèn 1 ảnh vào trong 1 ô của bảng
+	Phóng to rồi thu nhỏ 1 ảnh bitmap
+	Thay đổi đường kẻ liền nét thành đường gãy nét (hay còn gọi là đường nét rời)
+	Định dạng đĩa cứng
+ĐÁP ÁN: D
+CÂU 011: Trong Microsoft Word 2010, để tạo văn bản, người ta thực hiện:
+	Vào Home→ New
+	Vào File→ New
+	Vào View→ New
+	Vào Insert→ New
+ĐÁP ÁN: B
+CÂU 012: phần mềm Microsoft Word 2010 là một phần mềm gì: 
+	Phần mềm bảng tính
+	Phần mềm quản lý
+	Phần mểm soạn thảo văn bản
+	Phần mềm hệ thống
+ĐÁP ÁN: C
+CÂU 013: Trong Microsoft Word 2010, có mấy cách tạo mới một văn bản:
+	2 cách
+	3 cách
+	4 cách
+	5 cách
+ĐÁP ÁN: B
+CÂU 014: Trong Microsoft Word 2010, để chèn một tập tin trên đĩa vào văn bản đang soạn thảo tại vị trí con trỏ, người ta thực hiện:
+	Vào Insert→ Object→ Text from File
+	Vào Insert→ Text Box
+	Vào Insert→ Quick Parts→ Field
+	Vào Insert→ Symbol
+ĐÁP ÁN: A
+CÂU 015: Trong Microsoft Word 2010, cài đặt chứa năng tự động lưu văn bản sau một khoảng thời gian, người ta thực hiện:
+	Vào File→ Option Save
+	Vào File→ Option General
+	Vào File→ Save As
+	Vào File→ Save
+ĐÁP ÁN: A
+ CÂU 016: Trong Microsoft Word 2010, để chia cột cho văn bản đang soạn, người ta thực hiện:
+	Vào Page Layout→ Page Setup→ Orientation
+	Vào Page Layout→ Page Setup→ Margin
+	Vào Page Layout→ Page Setup→ Columns
+	Vào Page Layout→ Page Setup→ Size
+ĐÁP ÁN: C
+CÂU 017: Trong Microsoft Word 2010, để đóng tài liệu đang mở, người ta sử dụng tổ hợp phím:
+	Ctrl + O
+	Ctrl + N
+	Ctrl + P
+	Ctrl + W
+ĐÁP ÁN: D
+CÂU 018: Trong Microsoft Word 2010 với Classic Menu, để thao tác với tập tin văn bản, standard là gì:
+	Thanh công cụ
+	Menu
+	Hộp thoại
+	Trang giấy
+ĐÁP  ÁN: A
+CÂU 019: Trong Microsoft Word 2010, thay đổi màu nền cho trang, người ta thực hiện:
+	Vào Insert→ Change Color
+	Vào View→ Page Color
+	Vào Page Layout→ Page Color
+	Vào Design→ Watermark
+ĐÁP ÁN: C
+CÂU 020: Trong Microsoft Word 2010, trong soạn thảo văn bản, để đóng một hồ sơ đang mở, người ta thực hiện:
+	Vào File→ Close
+	Vào File→ Exit
+	Vào File→ New
+	Vào File→ Save
+ĐÁP ÁN: A
+CÂU 021: Trong Microsoft Word 2010, khi làm việc xong, muốn thoát khỏi, người ta thực hiện:
+	View→ Exit
+	Edit→ Exit
+	Window→ Exit
+	File→ Exit
+ĐÁP ÁN: D
+CÂU 022: Trong Microsoft Word 2010 với Classic Menu, thanh công cụ có chứa các hình: tờ giấy trắng, đĩa vi tính, máy in, …, được gọi là:
+	Thanh công cụ định dạng
+	Thanh công cụ chuẩn
+	Thanh công cụ vẽ
+	Thanh công cụ bảng và đường viền
+ĐÁP ÁN: B
+CÂU 023: Trong Microsoft Word 2010, muốn xem các trang khác nhau của một tài liệu trên một màn hình, người ta thực hiện:
+	Vào View -> Two Pages
+	Vào View  -> Arrange All
+	Vào View -> Split
+	Vào View  -> Switch Windows
+ĐÁP ÁN: C
+CÂU 024: Trong Microsoft Word 2010, muốn nhìn thấy nhiều tài liệu đang mở trên cùng một màn hình, người ta thực hiện:
+	Vào View→ Arrange All
+	Vào View→ Two Pages
+	Vào View→ Split
+	Vào View→ Switch Windows
+ĐÁP ÁN: A
+CÂU 025: Trong Microsoft Word 2010, để chèn một tiêu đề đầu trang, người ta thực hiện:
+	Vào Insert -> Cover Page
+	Vào Insert -> Footer
+	Vào Insert -> Text Box
+	Vào Insert -> Header
+ĐÁP ÁN: D
+CÂU 026: Trong Microsoft Word 2010, muốn điều mục lục các trang của tài liệu bằng tự động, người ta thực hiện:
+	Vào Reference -> Mark Citation
+	Vào Reference -> Insert Caption
+	Vào Reference -> Table of Contents
+	Vào Reference -> Insert Footnote
+ĐÁP ÁN: C
+CÂU 027: Trong Microsoft Word 2010, muốn định dạng trang, người ta thực hiện:
+	Vào Page Layout→ Page Setup
+	Vào Home Page→ Setup
+	Vào File Page→ Setup   
+	Vào View Page→ Setup    
+ĐÁP ÁN: A
+CÂU 028: Trong Microsoft Word 2010, muốn mở một file văn bản đã có sẵn, người ta thực hiện:
+	Vào File→ New
+	Vào View→ Open
+	Vào File→ Open
+	Vào Home→ Open
+ĐÁP ÁN: C
+CÂU 029: Trong Microsoft Word 2010, để thay đổi đơn vị đo của thước kẻ (Ruler), người ta thực hiện: 
+	Vào File→ Option→ Advanced
+	Vào Page Layout→ Option→ Advanced  
+	Vào View→ Option→ Advanced     
+	Vào Home→ Option→ Advanced     
+ĐÁP ÁN: A
+CÂU 030: Trong Microsoft Word 2010, các công cụ định dạng trong văn bản như, font, paragraph, copy, paste, bullet and numbering… nằm ở thanh thực đơn nào:
+	Home
+	Insert
+	Page Layout
+	References
+ĐÁP ÁN: A
+CÂU 031: Trong Microsoft Word 2010, để bật chức năng thanh thước kẻ (Ruler), người ta thực hiện:
+	Vào References→ Check vào mục Ruler
+	Vào View→ Check vào mục Ruler
+	Vào Review→ Check vào mục Ruler
+	Vào Home→ Check vào mục Ruler
+ĐÁP ÁN: B
+CÂU 032: Trong Microsoft Word 2010, để kết thúc phiên làm việc, người ta sử dụng tổ hợp phím:
+	Ctrl + W
+	Ctrl + V
+	Ctrl + U
+	Ctrl + S
+ĐÁP ÁN: A
+CÂU 033: Trong Microsoft Word 2010, phát biểu nào sau đây là sai:
+	Canh lề mặc định trong văn bản mỗi khi tạo tập tin mới là canh trái
+	Khi soạn thảo, nếu hết trang thì tự động nhảy sang trang mới
+	Chỉ được phép mở một văn bản trong phiên làm việc
+	Mặc định mỗi khi khởi động, đã có một văn bản trống
+ĐÁP  ÁN: C
+CÂU 034: Trong Microsoft Word 2010, tổ hợp phím Ctrl + S được thay cho lệnh nào sau đây:
+	Vào File→ Save As
+	Vào File→ Save
+	Vào File→ Open
+	Vào File→ Close
+ĐÁP ÁN: B
+CÂU 035: Khi gõ tiếng Việt thì sử dụng kiểu gõ nào để khi nhập hai chữ a sẽ cho chữ â, hay chữ e sẽ cho chữ ê:
+	Telex
+	Select
+	VNI
+	Latex
+ĐÁP ÁN: A
+CÂU 036: Trong Microsoft Word 2010, muốn chuyển đổi giữa chế độ gõ: chế độ gõ chèn và chế dộ gõ đè, người ta sử dụng phím:
+	Insert
+	Caps Lock
+	Backspase
+	End
+ĐÁP ÁN: A
+CÂU 037: Trong khi soạn thảo văn bản, để chuyển đổi qua lại giữa các trình ứng dụng đang kích hoạt, người ta sử dụng tổ hợp phím:
+	Alt + Tab
+	Ctrl + Tab
+	Shift + Tab
+	Ctrl + C
+ĐÁP ÁN: A
+CÂU 038: Trong Microsoft Word 2010, khi muốn đặt chế độ lưu văn bản tự động sau một thời gian nhất định, người ta thực hiện trong thư mục:
+	Vào File→ Option→ Save
+	Vào Home→ Option→ Save
+	Vào View→ Option→ Save
+	Vào Review→ Option→ Save
+ĐÁP ÁN: A
+CÂU 039: Trong Microsoft Word 2010, công dụng tổ hợp phím Ctrl + O trong soạn thảo là:
+	Mở một hồ sơ mới
+	Đóng hồ sơ đang mở
+	Mở một hồ sơ đã có
+	Lưu hồ sơ vào đĩa
+ĐÁP ÁN: C
+CÂU 040: Trong Microsoft Word 2010, để mở một tài liệu đã được soạn thảo, người ta thực hiện:
+	Vào File→ Open
+	Vào Home→ Save
+	Vào Home→ Open
+	Vào File→ Save
+ĐÁP ÁN: A
+CÂU 041: Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + S trong soạn thào là:
+	Xóa tập tin văn bản
+	Chèn kí hiệu đặc biệt
+	Lưu tập tin văn bản vào đĩa
+	Tạo tập tin văn bản mới
+ĐÁP ÁN: C
+CÂU 042: Trong Microsoft Word 2010, hỗ trợ việc sao lưu văn bản đang soạn thành các định dạng nào:
+A. *.doc, *.txt, *.exe
+B. *.doc, *.htm, *zip
+C. *.doc, *.dot, *.htm, *.txt
+D. *.doc, *.avi, *.mpeg, *.dat
+ĐÁP ÁN: C
+CÂU 043: Trong Microsoft Word 2010, khi sử dụng tổ hợp phím Ctrl + O người ta thực hiện:
+	Mở một tài liệu mới
+	Mở một tài liệu có sẵn trong đĩa
+	Lưu một tài liệu
+	Đóng chương trình Microsoft Word
+ĐÁP ÁN: B
+CÂU 044: Trong Microsoft Word 2010, thao tác vào  File →Open, người ta thực hiện:
+	Mở một tài liệu mới
+	Mở một tài liệu có sẵn trong đĩa
+	Lưu một tài liệu
+	Đóng chương trình Microsoft Word
+ĐÁP ÁN: B
+CÂU 045: Trong Microsoft Word 2010, để lưu tập tin đang làm việc thành tập tin khác, người ta sử dụng tổ hợp phím:
+	Ctrl +F, gõ A
+	Alt +F, gõ S
+	Alt + F, gõ A
+	Ctrl +F, gõ S
+ĐÁP ÁN: C
+CÂU 046: Trong Microsoft Word 2010, để tạo mới một văn bản, người ta sử dụng tổ hợp phím:
+	Ctrl +O
+	Ctrl +U
+	Ctrl +S
+	Ctrl+N
+ĐÁP ÁN: D
+CÂU 053: Trong Microsoft Word 2010, phím nào đưa con trỏ về đầu dòng hiện hành:
+	Home
+	Ctrl + Home
+	End
+	Ctrl+Page Up
+ĐÁP ÁN: A
+CÂU 048: Trong Microsoft Word 2010, để di chuyển con trỏ về cuối tài liệu, người ta sử dụng tổ hợp phím:
+	Ctrl+U
+	Ctrl+Page Down
+	Ctrl +M
+	Ctrl +End
+ĐÁP ÁN: D
+CÂU 049: Trong Microsoft Word 2010, khi soạn thảo văn bản, nếu nhấn phím số 1 khi có một khối văn bản đang được chọn thì điều gì sau xảy ra:
+	Khối văn bản đó biến mất
+	Khối văn bản đó biến mất và thay vào đó là số 1
+	Số 1 sẽ chèn vào trước khối đang chọn
+	Số 1 sẽ chèn vào sau khối đang chọn
+ĐÁP ÁN: B
+CÂU 050: Trong Microsoft Word 2010, để bật hội thoại tìm kiếm, người ta sử dụng tổ hợp phím:
+	Shift + Ctrl + F
+	Alt + F
+	Shift + F
+	Ctrl + F
+ĐÁP ÁN: D
+CÂU 051: Trong Microsoft Word 2010, để chọn khối từ con trỏ về đầu tài liệu, người ta sử dụng tổ hợp phím: 
+	Ctrl+Home
+	Ctrl + End
+	Ctrl + Page Up
+	Ctrl + Shift + Home
+ĐÁP ÁN: D
+CÂU 052: Trong Microsoft Word 2010, để dán đoạn văn bản vừa copy vào sau vị trí con trỏ, người ta sử dụng tổ hợp phím:
+	Ctrl+ W
+	Ctrl+ V
+	Alt + W
+	Shift + W
+ĐÁP ÁN: B
+CÂU 053: Trong Microsoft Word 2010, phím nào để xóa ký tự đúng trước con trỏ:
+	Page Down
+	Delete
+	Page Up
+	Backspace
+ĐÁP ÁN: D
+CÂU 054: Trong Microsoft Word 2010, để chèn một biểu thức tính toán, người ta thực hiện:
+	Vào Insert→ Symbol
+	Vào Insert→ Shapes
+	Vào Inser→t Picture
+	Vào Insert→ Equation
+ĐÁP ÁN: D
+CÂU 055: Trong Microsoft Word 2010, để tìm kiếm trong văn bản, người ta sử dụng tổ hợp phím:
+	Ctrl + E
+	Ctrl + T
+	Ctrl + F
+	Ctrl + H
+ĐÁP ÁN: C
+CÂU 056: Trong Microsoft Word 2010, sau khi sử dụng chức năng undo (Ctrl+Z) để quay lại bước trước khi nhấn Undo, người ta sử dụng tổ hợp phím:
+	Ctrl + M
+	Ctrl + Y
+	Ctrl + W
+	Ctrl + J
+ĐÁP ÁN: B
+CÂU 057: Trong Microsoft Word 2010, để xóa một comment trong văn bản, người ta thực hiện:
+	Chọn comment cần xóa, vào View→ Accept
+	Chọn comment cần xóa, vào View→ Delete
+	Chọn comment cần xóa, vào Review→ Accept
+	Chọn comment cần xóa, vào Review→ Delete
+ĐÁP ÁN: D
+CÂU 058: Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + F trong soạn thảo là:
+	Tạo tập tin văn bản mới
+	Lưu tập tin văn bản vào đĩa
+	Chức năng tìm kiếm trong soạn thào
+	Định dạng trang
+ĐÁP ÁN: C
+CÂU 059: Trong Microsoft Word 2010,  khi đang soạn thảo văn bản, muốn chèn các kí tự đặc biệt vào văn bản, người ta thực hiện:
+	Vào View→ Symbol
+	Vào Home→ Symbol
+C. Vào File→ Symbol
+D. Vào Inser→ Symbol
+ĐÁP ÁN: D
+CÂU 060: Trong Microsoft Word 2010, khi soạn thảo văn bản, nếu kết thúc 1 đoạn (pagraraph) và muốn sang 1 đoạn mới, người ta thực hiện:
+	Bấm tổ hợp phím Ctrl +Enter
+	Bấm phím Enter
+	Bấm tổ hợp phím Shift +Enter
+	Bấm tổ hợp phím Alt +Enter
+ĐÁP ÁN: B
+CÂU 061: Trong Microsoft Word 2010, nút Format Painter (có hình chổi quét) trên thanh công cụ Home có chức năng nào:
+	Đánh dấu văn bản
+	Sao chép định dạng kí tự
+	Thay đổi nền văn bản
+	In đậm kí tự
+ĐÁP ÁN: B
+CÂU 062: Trong Microsoft Word 2010, khi đang soạn thảo văn bản, tổ hợp phím Ctrl +V thường được sử dụng để thực hiện:
+	Cắt một đoạn văn bản
+	Dán một đoạn văn bản từ Clipboard
+	Sao chép một đoạn văn bản
+	Cắt và sao chép một đoạn văn bản
+ĐÁP ÁN: B
+CÂU 063: Trong Microsoft Word 2010, để đưa con trỏ nhập về cuối dòng hiện tại, người ta nhấn phím:
+	Enter
+	End
+	Home
+	Ctrl +End
+ĐÁP ÁN: B
+CÂU 064: Trong Microsoft Word 2010, để chèn các kí tự đặc biệt như €, ¥, ®,…người ta thực hiện:
+	Vào Insert→ Picture
+	Vào Insert→ Symbol
+	Vào Insert→ Object
+	Vào Insert→ Chart
+ĐÁP ÁN: B
+CÂU 065: Trong Microsoft Word 2010, khi đang soạn thảo văn bản, muốn phục hồi thao tác vừa thực hiện, người ta sử dụng tổ hợp phím:
+	Ctrl + Z
+	Alt +Z
+	Shift +Z
+	Ctrl + Alt + Z
+ĐÁP ÁN: A
+CÂU 066: Trong Microsoft Word 2010, công dụng của tổ hợp phím Ctrl + H khi đang soạn thảo văn bản là:
+	Tạo tập tin văn bản mới
+	Chức năng thay thế trong soạn thảo
+	Định dạng chữ hoa
+	Lưu tập tin văn bản cào đĩa
+ĐÁP ÁN: B
+CÂU 067: Trong Microsoft Word 2010, để sao chép một đoạn văn bản vào Clipboard, sau khi đánh dấu đoạn văn bản, người ta thực hiện:
+	Vào File -> Copy
+	Vào Home -> Copy
+	Vào View -> Copy
+	Vào Insert ->Copy
+ĐÁP ÁN: B
+CÂU 068: Trong Microsoft Word 2010, để chọn tàn bộ văn bản, người ta sử dụng tổ hợp phím:
+	Alt +Shift + F
+	Shift +A
+	Ctrl +A
+	Alt + A
+ĐÁP ÁN: C
+CÂU 069: Trong Microsoft Word 2010, để ngay lập tức đưa con trỏ về đầu dòng đầu tiên của văn bản, người ta sử dụng tổ hợp phím:
+	Shift + Home
+	Alt +Home
+	Ctrl + Home
+	Ctrl + Alt + Home
+ĐÁP ÁN: C
+CÂU 070: Trong Microsoft Word 2010,  muốn cắt một khối văn bản, người ta thực hiện:
+	Vào Home→ Copy
+	Vào Home→ Replace
+	Vào Home→ Paste
+	Vào Home→ Cut
+ĐÁP ÁN: D
+CÂU 071: Trong Microsoft Word 2010, phím Delete có chức năng:
+	Xóa ký tự phía sau con trỏ
+	Xóa ký tự phía trước con trỏ
+	Lùi văn bản vào với một khoảng cách cố định
+	Di chuyển con trỏ về đầu dòng
+ĐÁP ÁN: A
+CÂU 072: Trong Microsoft Word 2010, để thay thế từ hay cụm từ, người ta thực hiện:
+	Vào Home→ Go To
+	Vào Home→ Find
+	Vào Home→ Paste
+	Vào Home→ Replace
+ĐÁP ÁN: D
+CÂU 073: Trong Microsoft Word 2010, tổ hợp phím Ctrl +Y thực hiện việc nào:
+	Hủy bỏ thao tác vừa thực hiện
+	Hủy bỏ thao tác  vừa xóa
+	Thực hiện lại thao tác vừa thực hiện
+	Khôi phục thao tác vừa hủy bỏ
+ĐÁP ÁN: C
+CÂU 074: Trong Microsoft Word 2010, để chọn khối thay cho dùng chuột, người ta dùng 4 phím mũi tên và phím:
+	Alt 
+	Ctrl
+	Shift
+	Không sử dụng bàn phím để chọn được
+ĐÁP ÁN: C
+CÂU 075: Trong Microsoft Word 2010, tổ hợp phím Ctrl +End thực hiện điều gì:
+	Đặt con trỏ văn bản đến cuối từ hiện tại
+	Đặt con trỏ văn bản đến cuối đoạn hiện tại
+	Đặt con trỏ văn bản đến cuối dòng hiện tại
+	Đặt con trỏ văn bản đến cuối văn bản
+ĐÁP ÁN: D
+CÂU 076: Trong Microsoft Word 2010, muốn sử dụng chức năng sửa lỗi và gõ tắt, người ta thực hiện trong:
+	Vào File→ Options→ Proofing→ AutoCorrect Options
+	Vào Home→ Options→ Proofing→ AutoCorrect Options
+	Vào View→ Options→ Proofing→ AutoCorrect Options
+	Vào Review→ Options→ Proofing→ AutoCorrect Options
+ĐÁP ÁN: A
+CÂU 077: Trong Microsoft Word 2010, để gạch chân một đoạn văn bản đang chọn với nét đôi, người ta sử dụng tổ hợp phím:
+	Ctrl +Shift +D
+	Ctrl +Shift +U
+	Ctrl + U
+	Ctrl +Shift +A
+ĐÁP ÁN: A
+CÂU 078: Trong Microsoft Word 2010, để gạch dưới một từ hay cụm từ, người ta sử dụng tổ hợp phím:
+	Ctrl +I
+	Ctrl +U
+	Ctrl + D
+	Ctrl +E
+ĐÁP ÁN: B
+CÂU 079: Trong Microsoft Word 2010, để tăng cỡ chữ cho nội dung văn bản, người ta sử dụng tổ hợp phím:
+	Shift + ]
+	Ctrl + [
+	Ctrl + ]
+	Shift + [
+ĐÁP ÁN: C
+CÂU 080: Trong Microsoft Word 2010, để giảm cỡ chữ cho nội dung văn bản, người ta sử dụng tổ hợp phím:
+	Shift + ]
+	Ctrl + [
+	Ctrl + ]
+	Shift + [
+ĐÁP ÁN: B
+CÂU 081: Trong Microsoft Word 2010, để  gạch chân một đoạn văn bản  đang chọn với nét đơn, người ta sử dụng tổ hợp phím:
+	Ctrl +U
+	Shift +Alt + U
+	Shift + U
+	Alt +U 
+ĐÁP ÁN: A
+CÂU 082: Trong Microsoft Word 2010, để chèn một chữ nghệ thuật (Word Art) vào văn bản, người ta thực hiện:
+	Vào Insert -> Picture
+	Vào Insert -> Clip Art
+	Vào Insert -> WordArt
+	Vào Insert -> Equation
+ĐÁP ÁN: C
+CÂU 083: Trong Microsoft Word 2010, để hủy bỏ chữ to đầu đoạn (Dropcap) đã tạo của đoạn văn bản, người ta thực hiện:
+	Vào Home→ Cropcap→ None
+	Vào Insert→ Dropcap→ None
+	Vào Insert→ Dropcap→ Dropped
+	Vào Home→ Dropcap→ Dropped
+ĐÁP ÁN: B
+CÂU 084: Trong Microsoft Word 2010, để thay đổi màu chữ đang bôi đen, người ta thực hiện:
+	Vào Home  -> Font Color
+	Vào File -> Font Color
+	Vào View -> Font Color
+	Vào Insert -> Font Color
+ĐÁP ÁN: A
+CÂU 085: Trong Microsoft Word 2010, khi soạn thảo văn bản, muốn tạo ký tự to đầu dòng của đoạn văn, người ta thực hiện:
+	Vào Insert-> Dropcap
+	Vào Home ->Dropcap
+	Vào View ->Dropcap
+	Vào File ->Dropcap
+ĐÁP ÁN: A
+CÂU 086: Trong Microsoft Word 2010, khi lựa chọn gõ tiếng Việt với font Unicode, những font chữ nào sau đây có thể hiển thị tiếng Việt:
+	.Vn Times, .Vn Arial, .Vn Courier
+	.Vn Tines, Times New Roman, Arial
+	VNI Times, Arial, .VnAvant
+	Tahoma, Verdana, Times New Roman
+ĐÁP ÁN: D
+CÂU 087: Trong Microsoft Word 2010, khi soạn thảo văn bản, muốn tạo ký tự to đầu dòng của đoạn văn, người ta thực hiện:
+	Vào Insert→ Picture…
+	Vào Insert→ Dropcap…
+	Vào Insert→ SmartArt…
+	Vào Insert→ TextBox…
+ĐÁP ÁN: B
+CÂU 088: Trong Microsoft Word 2010,người ta vào Home→ Font để thực hiện: 
+	Tạo bảng
+	Định dạng kí tự
+	Chèn hình ảnh
+	Chia cột
+ĐÁP ÁN: B
+CÂU 089: Trong Microsoft Word 2010, để thay đổi kiểu font trong soạn thảo văn bản, người ta thực hiện:
+	Ctrl + Shift + U
+	Ctrl + Shift + A
+	Ctrl + Shift + F
+	Ctrl + Shift + M
+ĐÁP ÁN: C
+CÂU 090: Trong Microsoft Word 2010, để định dạng chữ đậm, người ta sử dụng tổ hợp phím:
+	Ctrl + E
+	Ctrl +B
+	Ctrl + I
+	Ctrl + U
+ĐÁP ÁN: B
+CÂU 091: Trong Microsoft Word 2010, để chia cột cho đoạn văn bản; sau khi chọn đoạn văn bản, người ta thực hiện:
+	Vào Page Layout -> Columns
+	Vào Home→ Coumns
+	Vào View→ Columns
+	Vào File→ Colums
+ĐÁP ÁN: A
+CÂU 092: Trong Microsoft Word 2010, chọn mục nào trong thanh công cụ Home cho phép người dùng có thể thay đổi được khoảng cách giữa các đoạn văn:
+	Format Painter
+	Line and Paragaph spacing
+	Change Style
+	Columns
+ĐÁP ÁN: B
+CÂU 093: Trong Microsoft Word 2010, để canh giữa cho đoạn văn bản bôi đen, người ta sử dụng tổ hợp phím:
+	Ctrl +O
+	Ctrl +P
+	Ctrl +N
+	Ctrl + E
+ĐÁP ÁN: D
+CÂU 094: Trong Microsoft Word 2010, để canh thẳng lề phải cho đoạn văn bản bôi đen, người ta sử dụng tổ hợp phím:
+	Ctrl + S
+	Ctrl + L
+	Ctrl + R
+	Ctrl + E
+ĐÁP ÁN: C
+CÂU 095: Trong Microsoft Word 2010, khi soạn thảo, muốn trình bày văn bản dạng cột (dạng thường thấy  trên các trang báo và tạp chí), người ta thực hiện:
+	Insert -> Column
+	View -> Column
+	Format -> Column
+	Table -> Column
+ĐÁP ÁN: C
+CÂU 096: Trong Microsoft Word 2010, để thuận tiện hơn trong khi lựa chọn kích thước lề trái, lề phải,…người ta có thể khai báo đơn vị đo:
+	Centimeters
+	Đơn vị đo bắt buộc là Inches
+	Đơn vị đo bắt buộc là Points
+	Đơn vị đo bắt buộc là Picas
+ĐÁP ÁN: A
+CÂU 097: Trong Microsoft Word 2010, phím chức năng Tab có tác dụng:
+	Di chuyển con trỏ về đầu dòng
+	Xóa ký tự phía trước con trỏ
+	Lùi văn bản vào với một khoảng cách cố định
+	Chuyển con trỏ xuống phía dưới 1 trang
+ĐÁP ÁN: C
+CÂU 098: Trong Microsoft Word 2010, Paragraph có chức năng gì:
+	Bôi đen đoạn văn bản cần định dạng
+	Mở hộp thoại định dạng Font chữ
+	Điều chỉnh khoảng cách giữa các đoạn, các dòng trên văn bản
+	Gạch chân dưới chân các ký tự
+ĐÁP ÁN: C
+CÂU 099: Trong Microsoft Word 2010, tổ hợp phím Ctrl + L thực hiện điều gì:
+	Căn đều hai bên
+	Căn lề giữa
+	Căn lề trái
+	Căn lề phải
+ĐÁP ÁN: C
+CÂU 100: Trong Microsoft Word 2010, để chèn ký tự đặc biệt (Symbols) vào văn bản, người ta thực hiện:
+	Vào View→ Symbols→ Chọn biểu tượng cần chèn→ Chọn Insert→ Close
+	Vào View→ Symbols→ Chọn biểu tượng cần chèn→ Chọn Insert→Open
+	Vào Insert→ Symbols→ Chọn biểu tượng cần chèn→ Chọn Insert→ Close
+	Vào Insert→ Symbols→ Chọn biểu tượng cần chèn→ Chọn Insert→ Open
+ĐÁP ÁN : C
+ CÂU 101: Trong Microsoft Word 2010, hộp thoại Paragraph có thông báo Indentation Left: 3cm, điều này có ý nghĩa:
+	Tất cả các dòng trong đoạn thụt vào 3cm
+	Dòng đầu tiên của đoạn thụ vào 3cm
+	Từ dòng thứ 2 trở đi thụt vào 3cm
+	Lề giấy đã chừa là 3cm
+ĐÁP ÁN: A
+CÂU 102: Trong Microsoft Word 2010, để định dạng lại cho ký tự, người ta thực hiện:
+	Vào Home→ Paragraph
+	Vào Home→ Style
+	Vào Forma→t AutoFormat
+	Vào Format→ Font
+ĐÁP ÁN: B
+CÂU 103: Trong Microsoft Word 2010, trong table (bảng) để chèn thêm một dòng bên dưới dòng đang chọn thì người ta vào thanh công cụ layout rồi chọn nút lệnh nào:
+	Insert Above
+	Insert Below
+	Rows Below
+	Insert Right
+ĐÁP ÁN: B
+CÂU 104: Trong Microsoft Word 2010, sau khi bôi đen toàn bộ bảng, nếu nhấn phím delete thì điều gì xảy ra:
+	Không có tác dụng gì
+	Xóa toàn bộ nội dung và bảng biểu
+	Xóa bảng, không xóa nội dung
+	Xóa toàn bộ nội dung trong bảng, không xóa bảng
+ĐÁP ÁN: D
+CÂU 105: Trong Microsoft Word 2010, để xóa bỏ toàn bộ định dạng kiểu chữ của văn bản đang chọn, người ta sử dụng tổ hợp phím:
+	Ctrl + Space
+	Ctrl + Delete
+	Ctrl + Enter
+	Shift + Space
+ĐÁP ÁN: A
+CÂU 106: Trong Microsoft Word 2010, muốn tách bảng, người ta thực hiện:
+	Vào Layout→ Split Cells
+	Vào Layout→ Split Table
+	Vào Layout→ Merge Cells
+	Vào Layout→ Insert Below
+ĐÁP ÁN: B
+CÂU 107: Trong Microsoft Word 2010, muốn tách các dòng trong bảng, người ta thực hiện:
+	Vào Layout→ Split Cells
+	Vào Layout→ Split Table
+	Vào Layout→ Merge Cells
+	Vào Layout→ Insert Below
+ĐÁP ÁN: A
+CÂU 108: Trong Microsoft Word 2010, để chọn một dòng trong cả một bảng biểu, người ta thực hiện:
+	Nhấn đúp chuột vào vị trí bất kỳ của bảng đó
+	Nhấn chuột vào phía ngoài bên trái cùa dòng đó
+	Nhấn chuột 3 lần vào một vị trí bất kỳ trong bảng
+	Nhấn chuột váo vị trí bất kỳ của bảng đó
+ĐÁP ÁN: B
+CÂU 109: Trong Microsoft Word 2010, muốn tạo bảng người ta thực hiện:
+	Vào Insert→ Table→ Table
+	Vào Home→ Insert→ Table
+	Vào Home→ Insert
+	Vào Insert→ Table
+ĐÁP ÁN: D
+CÂU 110: Trong Microsoft Word 2010, khi di chuyển con trỏ trong bảng, tổ hợp phím Shift + Tab thực hiện điều gì:
+	Di chuyển con trỏ đến ô liền bên trái
+	Di chuyển con trỏ đến hàng trên
+	Thêm 1 tab vào ô
+	Di chuyển con trỏ đến ô liền bên phải
+ĐÁP ÁN: A
+CÂU 111: Trong Microsoft Word 2010, sau khi chèn một bảng biểu vào văn bản, để bảng này có đường kẻ đậm, người ta thực hiện:
+	Nhấn phím chuột phải→ Bullet and Numbering
+	Nhấn phím chuột phải→ Insert Caption
+	Nhấn phím chuột phải→ Draw Table
+	Nhấn phím chuột phải→ Bolders and Shading
+ĐÁP ÁN: D
+CÂU 112: Trong Microsoft Word 2010, định dạng khung và màu nền nằm ở bảng hội thoại nào:
+	Bolders and Shading
+	Bullets and Numbering
+	Page Bolder
+	Tab Stop Positon
+ĐÁP ÁN: A
+CÂU 113: Trong Microsoft Word 2010, để sắp xếp các dữ liệu của một bảng, người ta thực hiện:
+	Vào Layout→ Formula
+	Vào Layout→Sum
+	Vào Layout→ Formula
+	Vào Layout→ Sort
+ĐÁP ÁN: D
+CÂU 114: Trong Microsoft Word 2010, khi con trỏ ở ô cuối cùng trong bảng người ta nhấn phím Tab để thực hiện:
+	Cho bảng thêm một dòng mới
+	Con trỏ sẽ nhảy ra đoạn văn bên dưới bảng
+	Con trỏ đứng yên vì đã hết bảng
+	Con trỏ nhảy về ô đầu tiên của bảng
+ĐÁP ÁN: A
+CÂU 115: Trong Microsoft Word 2010, một văn bản có rất nhiều hình vẽ được tạo ra, mỗi lần nhấn chuột trái lên một hình nào đó thì chỉ chọn đuôc hình đó, để chọn được nhiều hình thì người ta phải giữ thêm phím nào trong khi chọn:
+	Enter
+	Shift
+	Alt
+	Tab
+ĐÁP ÁN: B
+CÂU 116: Trong Microsoft Word 2010, để chèn hình ảnh từ bên ngoài vào văn bản, người ta thực hiện:
+	Vào Inser→t SmartArt
+	Vào Inser→t Clip Art
+	Vào Insert→ Picture
+	Vào Insert→ Shape
+ĐÁP ÁN: C
+CÂU 117: Trong Microsoft Word 2010, thao tác nhấn giữ phím Ctrl trong khi rê một hình vẽ sẽ có tác dụng gì: 
+	Sao chép đối tượng
+	Di chuyển đối tượng
+	Xoay đối tượng
+	Thay đổi kích thước của đối tượng
+ĐÁP ÁN: A
+CÂU 118: Trong Microsoft Word 2010, để chèn các hình đơn giản như hình chữ nhật, tròn, elip, tam giác…., người ta thực hiện:
+	Vào Insert→ Shapes→ chọn hình cần vẽ
+	Vào Inser→t TextBox
+	Vào Insert→ Screenshot
+	Vào Inser→t SmartArt
+ĐÁP ÁN: A
+ CÂU 119: Trong Microsoft Word 2010, để chèn hình từ thư viện Word có sẵn vào văn bản, người ta thực hiện:
+	Vào Insert→ Picture
+	Vào Inser→t SmartArt
+	Vào Inser→ ClipArt
+	Vào Insert→ Screenshot
+ĐÁP ÁN: C
+CÂU 120: Trong Microsoft Word 2010, để chèn một biểu đồ, người ta thực hiện:
+	Vào Insert→ SmartArt
+	Vào Insert→ Picture
+	Vào Insert→ Shapes
+	Vào Insert→ Chart
+ĐÁP ÁN: D
+CÂU 121: Trong Microsoft Word 2010, để chèn một hình ảnh từ trên một thư mục, người ta thực hiện:
+	Vào Insert→ Symbol
+	Vào Insert→ Picture
+	Vào Insert→ Object
+	Vào Insert→Photo
+ĐÁP ÁN: B
+CÂU 122: Trong Microsoft Word 2010, muốn tạo nét đậm cho textbox, trong hộp thoại Format Shape, người ta thực hiện:
+	Chọn Fill
+	Chọn Line Color
+	Chọn Text Box
+	Chọn Line Style
+ĐÁP ÁN: D
+CÂU 123: Trong Microsoft Word 2010, để thay đổi kích thước font chữ, trong thanh công cụ Home, người ta thực hiện:
+	Nhấp chuột vào mũi tên phía bên cạnh kích thước font chữ
+	Nhấp chuột vào mũi tên phía bên cạnh nút Text Effects
+	Nhấp chuột vào mũi tên phía bên cạnh nút Text Highlight Color
+	Nhấp chuột vào mũi tên phía bên cạnh nút Font Color
+ĐÁP ÁN: C
+CÂU 124: Trong Microsoft Word 2010, khi soạn thảo, muốn đánh số trang cho văn bản, người ta thực hiện:
+	Vào Insert→ Page Number
+	VàoView→ Page Number
+	Vào Home→ Page Number
+	Vào File→ Page Number
+ĐÁP ÁN: A
+CÂU 125: Trong Microsoft Word 2010, footnote dùng để chú thích các thuật ngữ, vậy footnote được trình bày ở vị trí nào:
+	Cuối từ cần chú thích
+	Cuối trang
+	Cuối văn bản
+	Cuối Paragraph
+ĐÁP ÁN: B
+CÂU 126: Trong Microsoft Word 2010, để thực hiện ngắt trang cho văn bản, người ta sử dụng tổ hợp phím:
+	Ctrl + ESC
+	Ctrl + S
+	Ctrl + Enter
+	Ctrl + Enter
+ĐÁP ÁN: D
+CÂU 127: Trong Microsoft Word 2010, để đặt lề giấy cho văn bản đang soạn thảo, người ta thực hiện:
+	Vào Page Layout→ Orientation
+	Vào Page Layout→Size
+	Vào Page Layout→ Margins
+	Vào Page Layout→ Colums
+ĐÁP ÁN: C
+CÂU 128: Trong Microsoft Word 2010, để chèn một tiêu đề ở lề trên văn bản đang mở, người ta thực hiện:
+	Vào Insert→ Header→ chọn một mẫu tiêu đề
+	Vào Insert→ Footer→ chọn một mẫu tiêu đề
+	Vào Insert→ Header→ Remove Header
+	Vào Insert→ Footerr→ Remove Footer
+ĐÁP ÁN: A
+CÂU 129: Trong Microsoft Word 2010, để chèn một tiêu đề vào lề dưới văn bản đang mở, người ta thực hiện:
+	Vào Insert→ Header→ chọn một mẫu tiêu đề
+	Vào Insert→ Footer→ chọn một mẫu tiêu đề
+	Vào Insert→ Header→ Remove Header
+	Vào Insert→ Footer→ Remove Footer
+ĐÁP ÁN: B
+CÂU 130: Trong Microsoft Word 2010, để xóa một tiêu đề vào lề trên văn bản đang mở, người ta thực hiện:
+	Vào Insert→ Header→ chọn một mẫu tiêu đề
+	Vào Insert→ Footer→ chọn một mẫu tiêu đề
+	Vào Insert→ Header→ Remove Header
+	Vào Insert→ Footer→ Remove Footer
+ĐÁP ÁN: C
+CÂU 131: Trong Microsoft Word 2010, để xóa một tiêu đề vào lề dưới văn bản đang mở, người ta thực hiện:
+	Vào Insert→ Header→ chọn một mẫu tiêu đề
+	Vào Insert→ Footer→ chọn một mẫu tiêu đề
+	Vào Insert→ Header→ Remove Header
+	Vào Insert→ Footer→ Remove Footer
+ĐÁP ÁN: D
+CÂU 132: Trong Microsoft Word 2010, để chèn ngắt trang, người ta vào chọn:
+	Vào Home→ Page Break
+	Vào File→ Page Break
+	Vào View→ Page Break
+d. Vào Insert→ Page Break
+ĐÁP ÁN: D
+ CÂU 133: Trong Microsoft Word 2010, để định dạng trang, người ta thực hiện trong thanh công cụ:
+	Page Layout
+	Home
+	Review
+	View
+ĐÁP ÁN: A
+CÂU 134: Trong Microsoft Word 2010, để ra lệnh in. người ta sử dụng tổ hợp phím:
+	Ctrl + N
+	Ctrl + S
+	Ctrl + U
+	Ctrl + P
+ĐÁP ÁN: D
+ CÂU 135: Trong Microsoft Word 2010, để xem văn bản trước lúc in, người ta sử dụng tổ hợp phím:
+	Ctrl + F10
+	Ctrl + F2
+	Ctrl + F4
+	Ctrl + F6
+ĐÁP ÁN: B
+CÂU 136: Trong Microsoft Word 2010, muốn in các trang chẵn, hoặc các trang lẻ trước thí nháy chuột vào đâu?
+	File Page Setup chọn mục Layout
+	File→ Print…chọn mục Print
+	File→ Print Print View mục biểu tượng máy in
+	Chọn Option từ thực đơn Tools→ Print
+ĐÁP ÁN: B
+CÂU 137: Trong Microsoft Word 2010, người ta sử dụng tổ hợp phím Ctrl +F2 để thực hiện:
+	In văn bản
+	Xem trước khi in
+	Sao chép văn bản
+	Di chuyển văn bản
+ĐÁP ÁN: B
+CÂU 138: Trong Microsoft Word 2010, để in một trang hiện hành, người ta thực hiện:
+	Vào File→ Print→ Print All Pages
+	Vào File→ Print→ Print Current Pages
+	Vào Home→ Print→ Print All Pages
+	Vào Home→ Print→ Print Current Pages
+ĐÁP ÁN: B
+CÂU 139: Trong Microsoft Word 2010, để in từ trang 2 đến trang 10, người ta thực hiện:
+	Vào File→ Print→ Page nhập 2-10
+	Vào File→ Print→ Page nhập 2.10
+	Vào File→ Print→ Page nhập 2,10 
+	Vào File→ Print→ Page nhập 2/10
+ĐÁP ÁN: A
+CÂU 140: Trong Microsoft Word 2010, để xem văn bản trước khi in, người ta thực hiện:
+	Vào File→ Print
+	Vào Home→ Print
+	Vào View→ Print
+	Vào Review→ Print
+ĐÁP ÁN: A
+ CÂU 141: Trong Microsoft Word 2010, muốn định dạng lại trang giấy in, người ta thực hiện:
+	Properties
+	Page Setup
+	Print
+	Print Preview
+ĐÁP ÁN: B
+CÂU 142: Trong Microsoft Word 2010, Rich Text Format (*.rtf) là gì:
+	Định dạng này duy trì chỉ có văn bản của tài liệu
+	Định dạng này duy trì các định dạng và văn bản của tài liệu
+	Định dạng này không duy trì các định dạng của tài liệu
+	Định dạng này không duy trì văn bản của tài liệu
+ĐÁP ÁN: B
+CÂU 143: Trong Microsoft Word 2010, để đăt mật khẩu cho tài liệu văn bản, người ta thực hiện:
+	Vào File→ Info→ Protect→ Document→ Encrypt with Password→ Nhập mật khẩu vào→ Ok
+	Vào Home→ Info→ Protect→ Document→ Encrypt with Password→ Nhập mật khẩu vào→ Ok
+	Vào Insert→ Info→ Protect→ Document→ Encrypt with Password→ Nhập mật khẩu vào→ Ok
+	Vào Reference → Info→ Protect→ Document→ Encrypt with Password→ Nhập mật khẩu vào→ Ok
+ĐÁP ÁN: A
+CÂU 144: Trong Microsoft Word 2010, để chọn một câu trong đoạn văn bản, người ta thực hiện:
+	Nhấn đôi phím chuột trái lên câu cần chọn
+	Giữ phím Shift và nhấn phím chuột trái lên câu cần chọn
+	Nhấn phím chuột trái 3 lần vào lề trái của văn bản
+	Giữ phím Ctrl và nhấn phím chuột trái lên câu cần chọn
+ĐÁP ÁN: C
+CÂU 145: Trong Microsoft Word 2010, người ta quy định thể thức văn bản là như thế nào:
+	Khổ giấy, định lề trang văn bản, kiểu trình bày, font chữ
+	Là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chung áp dụng đối với các loại văn bản và các thành phần bổ sung trong những trường hợp cụ thể
+	Là tập hợp các thành phần cấu thành văn bản, bao gồm những thành phần chung áp dụng đối với các loại văn bản
+	Là tập hợp các thành phần cấu thành văn bản
+ĐÁP ÁN : B
+CÂU 146: Trong Microsoft Word 2010, về đoạn văn bản (paragraph), phát biểu nào sau đây là đúng:
+	Là đoạn văn được kết thúc bằng dấu chấm (.)
+	Là một đoạn văn được kết thúc bằng phím (Enter)
+	Là một văn bản được kết thúc bằng một trang giấy
+	Là một văn bản hợp nhiều dòng và kết thúc bằng dấu ngắt (như câu..,?)
+ĐÁP ÁN: B
+CÂU 147: Trong Microsoft Word 2010, về chèn hình vẽ vào văn bản, người ta thực hiện:
+	Insert -> Shapes
+	Insert – Drop Cap
+	Insert – Text Box
+	Insert - Object
+ĐÁP ÁN: A
+CÂU 148: Trong Microsoft Word 2010, khi nhập văn bản bị xuất hiện đường gạch chân răng cưa màu xanh và đỏ dưới chân kí tự, phát biểu nào sau đây là đúng:
+	Không chọn đúng bảng mã, font chữ
+	Phần mềm cài Microsoft Word 2010 bị lỗi
+	Gõ sai quy tắc ngữ pháp và từ tiếng Anh
+	Gõ sai quy tắc ngữ pháp và từ tiếng Việt
+ĐÁP ÁN: C
+CÂU 147: Trong Microsoft Word 2010, để gõ được tiếng việt theo bảng mã Unicode, người ta có thể sử dụng Font nào:
+	ABC
+	VNI-Times
+	Time New Roman
+	.VnTimes
+ĐÁP ÁN: C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mô đun 4: Sử dụng bảng tính cơ bản (IU4)
+
+CÂU 001: Phần mềm Microsoft Excel dùng để làm gì:
+	Tính toán
+	Xem phím
+	Nghe nhạc
+	Ghi âm
+ĐÁP ÁN: A
+CÂU 002: Trong Microsoft Excel, muốn kiểm tra phiên bản  đang sử dụng, người ta thực hiện:
+	Vào File→ Help→ Microsoft Excel Help
+	Vào File→ Help→ About Microsoft Excel
+	Vào Home→ Help
+	Vào View→ Guide
+ĐÁP ÁN: B
+CÂU 003: Trong Microsoft Excel 2010, muốn nhờ chương trình giúp đỡ về một vấn đề nào đó, người ta thực hiện:
+	Vào File→ Help→ Microsoft Excel Help
+	Vào File→ Help→ About Microsoft Excel
+	Vào Home→ Help
+	Vào View→ Guide
+ĐÁP ÁN: A
+CÂU 004: Trong Microsoft Excel 2010, người ta sử dụng tổ hợp phím nào để hủy bỏ thao tác vừa thực hiện?
+	Ctrl + S
+	Ctrl + C
+	Ctrl + X
+	Ctrl + Z
+ĐÁP ÁN: D
+CÂU 005: Trong Microsoft Excel 2010, người ta sử dụng tổ hợp phím nào để ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính:
+	Alt +Home
+	Ctrl + Home
+	Shift + Home
+	Tab + Home
+ĐÁP ÁN: B
+CÂU 006: Một trong những thuật ngữ sau không  phải dùng để chỉ một thành phần của Microsoft Excel:
+	WorkBook
+	WorkSheet
+	Workdocument
+	WorkSpace
+ĐÁP ÁN: C
+CÂU 007: Trong Microsoft Excel 2010, để mở một tập tin, người ta sử dụng tổ hợp phím nào:
+	Ctrl + O
+	Alt + F
+	Ctrl + F
+	Alt + O
+ĐÁP ÁN: A
+CÂU 008: Trong Microsoft Excel 2010, một trong các View sau không được hỗ trợ khi đang thao tác trên WorkBook:
+	Normal View
+	Sheet View
+	Page Break Preview
+	Print Preview
+ĐÁP ÁN: B
+CÂU 009: Trong Microsoft Excel 2010, kết quả của công thức = MIN(2,MOD(8,5)) là: 
+	8
+	7
+	2
+	5
+ĐÁP ÁN: C
+CÂU 010: Trong Microsoft Excel 2010, để bật tắt thanh công thức, người ta thực hiện:
+	Vào View -> Formular bar
+	Vào View -> Toolbars
+	Vào View -> Status bar
+	Vào View -> Ruler
+ĐÁP ÁN: A
+CÂU 011: Trong Microsoft Excel 2010, để chèn thêm 1 bảng tính (Worksheet), người ta sử dụng tổ hợp phím nào:
+	Ctrl + Shift + F11
+	Alt + Shift + F11
+	Shift + F11
+	Shift + F10
+ĐÁP ÁN : C
+CÂU 012: Tên một tập tin bảng tính Microsoft Excel 2010 thường có đuôi mở rộng là:
+	.xlsa
+	.xlsy
+	.xlsk
+	.xlsx
+ĐÁP ÁN: D
+CÂU 013: Trong Microsoft Excel 2010, để thực hiện công việc ghi lưu nội dung của bảng tính vào máy tính, người ta sử dụng tổ hợp phím nào:
+	Ctrl + O
+	Ctrl + A
+	Shift + S
+	Ctrl + S
+ĐÁP ÁN : D
+CÂU 014: Trong Microsoft Excel 2010, muốn lưu bảng tính hiện thời vào đĩa, người ta thực hiện:
+	Vào Home -> Save
+	Vào Data -> Save
+	Vào Insert -> Save
+	Vào File – Save
+ĐÁP ÁN: D
+CÂU 015: Trong Microsoft Excel 2010, để tạo mới một bảng tính, người ta sử dụng tổ hợp phím nào:
+	Shift + Ctrl + N
+	Ctrl + N
+	Ctrl + A
+	Ctrl + O
+ĐÁP ÁN: B
+CÂU 016: Trong Microsoft Excel 2010, để lưu tập tin đang mở dưới một tên khác, người ta thực hiện:
+	Save As
+	New
+	Save
+	Replace
+ĐÁP ÁN: A
+ CÂU 017: Trong Microsoft Excel 2010, để xuống dòng trong cùng một ô, người ta sử dụng tổ hợp phím nào:
+	Ctrl + B
+	Alt + Enter
+	Alt + F11
+	Ctrl + D
+ĐÁP ÁN: B
+CÂU 018: Trong Microsoft Excel 2010, để định dạng kiểu dữ liệu cho vùng được chọn, người ta thực hiện:
+	Vào Home -> Number…
+	Vào Data -> Number…
+	Vào Insert -> Number…
+	Vào View -> Number…
+ĐÁP ÁN: A
+CÂU 019: Trong Microsoft Excel 2010, khi nhập dữ liệu dạng ngày tháng năm, nếu giá trị ngày tháng năm đó không hợp lệ thì Microsoft Excel coi đó là dữ liệu dạng nào:
+	Thời gian
+	Số
+	Ngày Tháng năm
+	Chuỗi
+ĐÁP ÁN: D
+CÂU 020: Trong Microsoft Excel 2010, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiển thị trong ô chuỗi các kí tự:
+	&
+	$
+	%
+	#
+ĐÁP ÁN: D
+CÂU 021: Trong Microsoft Excel 2010, để đánh dấu bôi đen khối ô (Cell) rời rạc, người ta thực hiện:
+	Giữ Ctrl + Nhấn chuột phải vào các ô
+	Giữ Ctrl + Nhấn chuột trái vào các ô
+	Giữ Alt + Nhấn chuột phải vào các ô
+	Giữ Alt + Nhấn chuột trái vào các ô
+ĐÁP ÁN: B
+CÂU 022: Trong Microsoft Excel 2010, tại ô A2 có sẵn giá trị số 10, tại ô B2 gõ vào công thức = PRODUCT(A2,5) thì nhận được kết quả:
+	#VALUE
+	2
+	10
+	50
+ĐÁP ÁN: D
+CÂU 023: Trong Microsoft Excel 2010, để chọn toàn bộ các ô trên bảng tính, người ta sử dụng tổ hợp phím nào:
+	Ctrl + A
+	Ctrl + All
+	Ctrl + Alt + Space
+	Ctrl + Alt + A
+ĐÁP ÁN: A
+ CÂU 024: Trong Microsoft Excel 2010, địa chỉ B$3 là địa chỉ gì:
+	Tương đối
+	Tuyệt đối
+	Hỗn hợp
+	Biểu diễn sai
+ĐÁP ÁN: C
+CÂU 025: Trong Microsoft Excel 2010, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì:
+	Chương trình bảng tính bị nhiễm virus
+	Công thức nhập sai và Microsoft Excel thông báo lỗi
+	Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số
+	Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số
+ĐÁP ÁN: D
+CÂU 026: Khi nhập dữ liệu vào Microsoft Excel, điều nào sau đây sai:
+	Dữ liệu kiểu số sẽ mặc nhiên căn thẳng bên trái
+	Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng bên trái
+	Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải
+	Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải
+ĐÁP ÁN: A
+CÂU 027: Trong Microsoft Excel 2010, giao của một hàng và một cột được gọi là gì:
+	Dữ liệu
+	Ô
+	Trương
+	Công thức
+ĐÁP ÁN: B
+CÂU 028: Trong Microsoft Excel 2010, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiển thị trong ô các kí tự:
+	&
+	#
+	$
+	*
+ĐÁP ÁN: B
+CÂU 029: Trong Microsoft Excel 2010, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, địa chỉ khối ô được thể hiện như câu nào là đúng:
+	B1…H15
+	B1:H15
+	B1-H15
+	B1..H15
+ĐÁP ÁN: B
+CÂU 030: Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi Tinhoc, tại ô C2 người ta gõ công thức = A2 thì nhận được kết quả là gì:
+	#value
+	TINHOC
+	TinHoc
+	Tinhoc
+ĐÁP ÁN: D
+CÂU 031: Trong Microsoft Excel 2010, biểu thức = AVERAGE(4,6,7,8) + AVERAGE(4,6,7,8)*3 kết quả trả về là bao nhiêu:
+	6.25
+	25
+	8
+	4
+ĐÁP ÁN: D
+CÂU 032: Trong Microsoft Excel 2010, trong các dạng địa chỉ sau thì địa chỉ nào là địa chỉ tuyệt đối:
+	B$1:$10
+	$B$1:$D10
+	B$1:$D$10
+	$B$1:$D$10
+ĐÁP ÁN: D
+CÂU 033: Trong Microsoft Excel 2010, khi muốn sắp xếp (sort) vùng dữ liệu đang chọn, người ta thực hiện:
+	Vào Data -> Sort…
+	Vào Home -> Options…
+	Vào Data -> Filter…
+	Vào Home – Filter…
+ĐÁP ÁN: A
+CÂU 034: Trong Microsoft Excel 2010, khi vào DATA -> FILTER…, người ta thực hiện:
+	Xóa toàn bộ nội dung
+	Trích lọc thông tin
+	In
+	Thay đổi phông chữ
+ĐÁP ÁN: B
+CÂU 035: Trong Microsoft Excel 2010, muốn đưa con trỏ vào ô để sửa đổi dữ liệu trong ô, người ta thực hiện:
+	F2
+	F10
+	F3
+	F5
+ĐÁP ÁN: A
+CÂU 036: Trong Microsoft Excel 2010, để nhanh chóng xem các thí sinh xếp loại “xuất sắc”, người ta bôi đen toàn bộ vùng có chứa dữ liệu cần xem rồi thực hiện:
+	Vào Menu Tools, chọn Quick view, chọn mức “xuất sắc”
+	Vào Menu Data, chọn Validation
+	Vào Menu View, chọn mức “xuất sắc”
+	Vào Menu Data, chọn filter – Autofilter
+ĐÁP ÁN: D
+CÂU 037: Trong Microsoft Excel 2010, sau khi thực hiện lệnh sắp xếp dữ liệu theo chiều tăng dần, thứ tự sắp xếp nào sau đây là đúng:
+	A010 – A100 – A011
+	A010 – A011 – A100
+	A100 – A010 – A011
+	A011 – A010 – A100
+ĐÁP ÁN : B
+CÂU 038: Trong Microsoft Excel 2010, cách nào sau không dùng để hiệu chỉnh nội dung của một ô:
+	Nhấp chọn một ô (Cell) và nhấn phím F2
+	Nhấp đúp chuột vào một ô
+	Nhấp chọn một ô và nhấn phải chuột từ menu xổ xuống, chọn Edit
+	Chọn một ô và nhấp chuột vào nội dung tại thanh Formula Bar
+ĐÁP ÁN: C
+CÂU 039: Trong Microsoft Excel 2010, khi đang nhập liệu và muốn xuống một dòng ngay trong cùng một ô, người ta sử dụng tổ hợp phím nào:
+	Enter
+	Ctrl + Enter
+	Shift + Enter
+	Alt + Enter
+ĐÁP ÁN: D
+CÂU 040: Trong Microsoft Excel 2010, để dữ liệu trong một ô mà không cần nhập lại, người ta thực hiện:
+	Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2
+	Nháy chuột chọn ô tính cần sửa, rồi bấm phím F4
+	Nháy chuột chọn ô tính cần sửa, rồi bấm phím F10
+	Nháy chuột chọn ô tính cần sửa, rồi bấm phím F12
+ĐÁP ÁN: A
+CÂU 041: Trong Microsoft Excel 2010, khi muốn sắp xếp danh sách dữ liệu theo thứ tự tăng (giảm), người ta thực hiện:
+	Vào Tools -> Sort
+	Vào File -> Sort
+	Vào Data –> sort
+	Vào Format -> sort
+ĐÁP ÁN: C
+ CÂU 043: Trong Microsoft Excel 2010, để tách dữ liệu trong một ô thành hai hoặc nhiều ô, người ta thực hiện:
+	Vào Insert -> Text to Columns…
+	Vào Home -> Text to Columns…
+	Vào Formular -> Text to Columns…
+	Vào Data -> Text to Columns…
+ĐÁP ÁN : D
+ CÂU 044: Trong Microsoft Excel 2010, để chèn them 1 dòng (row) trên dòng hiện tại, người ta thực hiện:
+	Vào Data -> Insert-> Insert Sheet Rows
+	Vào View -> Insert-> Insert Sheet Rows
+	Vào Tools -> Insert-> Insert Sheet Rows
+	Vào Home -> Insert-> Insert Sheet Rows
+ĐÁP ÁN: D
+CÂU 045: Trong Microsoft Excel 2010, để chèn thêm 1 cột (column) trước cột hiện tại, người ta thực hiện:
+	Vào Home -> Insert -> Insert Sheet Columns
+	Vào View -> Insert -> Insert Sheet Columns
+	Vào Insert -> Insert Sheet Columns
+	Vào Data -> Insert -> Insert Sheet Columns
+ĐÁP ÁN: A
+CÂU 046: Trong Microsoft Excel 2010, muốn xóa hẳn một hàng ra khỏi trang tính, sau khi đánh dấu khối chọn hàng này, người ta thực hiện:
+	Vào Home -> Delete
+	Vào Data -> Delete
+	Vào Table -> Delete
+	Vào View -> Delete
+ĐÁP ÁN: A
+CÂU 047: Trong Microsoft Excel 2010, để giữ cố định hàng hoặc cột trong cửa sổ soạn thảo, sau khi đánh dấu hàng hoặc cột, người ta thực hiện:
+	Vào Review -> Freeze Panes
+	Vào View -< Freeze Panes
+	Vào Page Layout -> Freeze Panes
+	Vào Home -> Freeze Panes
+ĐÁP ÁN: B
+CÂU 048: Trong Microsoft Excel 2010, sau khi đã bôi đen một hàng, để chèn thêm một hàng vào vị trí phía trên hàng đang chọn, người ta thực hiện:
+	Vào Insert, chọn Rows
+	Vào Insert, chọn Cells
+	Vào Insert, chọn Columns
+	Vào Insert, chọn Object
+ĐÁP ÁN: A
+CÂU 049: Trong Microsoft Excel 2010, đề chèn một cột chen giữa cột A và cột B thì người ta phải chọn ô hiện hành tại một trong các cột nào:
+	Cột A
+	Cột B
+	Cột C
+	Cột D
+ĐÁP ÁN: B
+ CÂU 050: Trong Microsoft Excel 2010, để chèn thêm cột, người ta thực hiện:
+	Vào Format -> Columns
+	Vào Insert -> Rows
+	Vào Insert -> Columns
+	Vào Insert -> Cells
+ĐÁP ÁN: C
+CÂU 051: Trong Microsoft Excel 2010, để có thể di chuyển từ một trang tính (sheet) này sang trang tính khác, người ta sử dụng tổ hợp phím nào:
+	Tab + Page Up; Tab + Page Down
+	Ctrl + Page Up; Ctrl + Page Down
+	Alt + Page Up; Alt + Page Down
+	Shift + Page Up; Shift + Page Down
+ĐÁP ÁN: B
+CÂU 052: Trong Microsoft Excel 2010, để đổi tên một trang tính (sheet), người ta thực hiện:
+	Nhấn đôi chuột trái tại sheet đó rồi đổi tên sheet
+	Nhấn chuột phải tại sheet đó và chọn insert
+	Nhấn chuột phải tại sheet đó và chọn Delete
+	Không đổi được
+ĐÁP ÁN: A
+CÂU 053: Trong Microsoft Excel 2010, để di chuyển trang tính (sheet) A2 ra trước trang tính A1, người ta thực hiện:
+	Vào Format -> Sheet -> Move, chọn đúng đến vị trí mong muốn
+	Chọn Tab A2 và kéo đến vị trí mong muốn
+	Double tab A2 và kéo đến vị trí mong muốn
+	Vào Tools -> sheet-> Move và chọn đúng đến vị trí mong muốn
+ĐÁP ÁN: B
+CÂU 054: Trong Microsoft Excel 2010, tại ô D2 có công thức = B2*C2/100, người ta sao chép công thức đến ô G6 thì sẽ có công thức là:
+	E7*F7/100
+	B6*C6/100
+	E6*F6/100
+	E2*C2/100
+ĐÁP ÁN: C
+CÂU 055: Trong Microsoft Excel 2010, tại ô A1 lưu trị ngày 15/10/1970, kết quả hàm =MONTH(A1) là bao nhiêu:
+	0
+	15
+	1970
+	10
+ĐÁP ÁN: D
+CÂU 056: Trong Microsoft Excel 2010, để tự động tính tổng của hai ô A1 và C1, người ta thực hiện:
+	Ghi công thức: =A1+ C1
+	Ghi vào giá trị tổng hai ô đó
+	Ghi công thức: =SUM(A1&C1)
+	Ghi công thức: = SUM(A1+C1)
+ĐÁP ÁN: A
+CÂU 057: Trong Microsoft Excel 2010, người ta sử dụng hàm QUOTIENT() để thực hiện:
+	Cho ra số dư của phép chia
+	Cho ra tích số của các số
+	Cho ra số nguyên của phép chia
+	Cho ra phần thập phân
+ĐÁP ÁN: C
+CÂU 058: Trong Microsoft Excel 2010, để nhập vào công thức tính toán cho một ô, người ta gõ ký tự:
+	Dấu chấm hỏi (?)
+	Dấu bằng (=)
+	Dấu hai chấm (:)
+	Dấu đô la ($)
+ĐÁP ÁN : B
+CÂU 059: Trong Microsoft Excel 2010, tại ô A2 có giá trị 0, tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả:
+	0
+	5
+	#VALUE
+	#DIV/0!
+ĐÁP ÁN: D
+ CÂU 061: Trong Microsoft Excel 2010, khi gõ công thức xong rồi nhấn Enter thì thấy máy hiện ra #REE! Có nghĩa là:
+	Tham chiếu ô không hợp lệ
+	Giá trị tham chiếu không tồn tại
+	Không tham chiếu đến được
+	Tập hợp rỗng
+ĐÁP ÁN: C
+CÂU 062: Trong Microsoft Excel 2010, để lấy được chữ “Học” trong chuỗi “Trung Tâm Tin Học” người ta sử dụng công thức nào:
+	MID(“Trung Tâm Tin Học”,16,4)
+	MID(“Trung Tâm Tin Học”,16,3)
+	RIGHT(“Trung Tâm Tin Học”,16,3)
+	RIGHT(“Trung Tâm Tin Học”,15)
+ĐÁP ÁN: C
+CÂU 063: Trong Microsoft Excel 2010, khi lập công thức muốn làm địa chỉ tuyệt đối người ta nhấn phím:
+	F4
+	F2
+	F3
+	F1
+ĐÁP ÁN: A
+CÂU 064: Trong Microsoft Excel 2010, để nhập vào công thức tính toán cho một ô, người ta gõ phím:
+	Dấu chấm hỏi (?)
+	Dấu bằng(=)
+	Dấu hai chấm (: )
+	Dấu đô là ($)
+ĐÁP ÁN: B
+CÂU 065: Trong Microsoft Excel 2010, hàm nào được dùng để chuyển chữ thường thành chữ IN HOA:
+	UPPER
+	LOWER
+	LEN
+	PROPER
+ĐÁP ÁN: A
+CÂU 066: Trong Microsoft Excel 2010, hàm nào được dùng để biến đổi ký tự đầu của mỗi từ thành ký tự in hoa:
+	TRIM
+	LOWER
+	UPPER
+	PROPER
+ĐÁP ÁN: D
+CÂU 067: Trong Microsoft Excel 2010, một công thức luôn bắt đầu ký tự nào:
+	?
+	#
+	$
+	=
+ĐÁP ÁN: D
+CÂU 068: Trong Microsoft Excel 2010, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh, khi cần so sánh sự khác nhau thì người ta sử dụng ký hiệu nào:
+	< >
+	#
+	&
+	><
+ĐÁP ÁN: A
+CÂU 069: Trong Microsoft Excel 2010, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi nào:
+	#NAME!
+	#DIV/0!
+	#VALUE!
+	#N/A!
+ĐÁP ÁN: A
+CÂU 070: Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi TINHOC. Tại ô B2 người ta gõ công thức =LEFT(A2,3) thì nhận được kết quả:
+	TIN
+	HOC
+	3
+	Tinhoc
+ĐÁP ÁN: A
+CÂU 071: Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi Tinhoc. Tại ô C2 người ta gõ vào công thức =A2 thì nhận được kết quả:
+	Value
+	TINHOC
+	TinHoc
+	Tinhoc
+ĐÁP ÁN: D
+CÂU 072: Trong Microsoft Excel 2010, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 người ta gõ công thức =DAY(A2) thì nhận được kết quả:
+	2,016
+	4
+	30
+	8
+ĐÁP ÁN: C
+CÂU 073: Trong Microsoft Excel 2010, tại ô A2 có giá trị là ngày 30/04/2016. Tại ô B2 người ta gõ công thức = DAY(A2)+MONTH(A2) thì nhận được kết quả:
+	34
+	8
+	30
+	4
+ĐÁP ÁN: A
+CÂU 074: Trong Microsoft Excel 2010, tại ô B2 có giá trị là ngày 15/07/2016. Tại ô C2 người ta gõ công thức = DAY(B2)-MONTH(B2) thì nhận được kết quả:
+	6
+	7
+	8
+	9
+ĐÁP ÁN: C
+CÂU 075: Trong Microsoft Excel 2010, để tính bình quân cho cột Tổng Lương từ E6 đến E12, người ta sử dụng công thức nào:
+	=SUM(E6:E12)
+	=AVG(E6:E12)
+	=AVERAGE(E6+E12)
+	=AVERAGE(E6:E12)
+ĐÁP ÁN: D
+CÂU 076: Trong Microsoft Excel 2010, ô C2 trong bảng chứa giá trị 54, người ta gõ vào ô C4 công thức = mod(C2,7) thì nhận được kết quả:
+	3
+	4
+	5
+	6
+ĐÁP ÁN: C
+CÂU 077: Trong Microsoft Excel 2010, hàm tìm vị thứ của một số trong dãy số (xếp thứ hạng) là hàm:
+	COUNT
+	MIN
+	MAX
+	RANK
+ĐÁP ÁN: D
+CÂU 078: Trong Microsoft Excel 2010, tại ô C2 trong bảng chứa giá trị 3.12456 người ta gõ vào ô C4 công thức =round(C2,2) thì nhận được kết quả:
+	3.12
+	03.12
+	3.12456
+	3.00
+ĐÁP ÁN: A
+CÂU 079: Trong Microsoft Excel 2010, để tính tổng các ô từ B1 đến B4 thì công thức nào là đúng:
+	=SUN(B1-B4)
+	=SUM(B1:B4)
+	=SUM(B1->B4)
+	SUM(B1:B4)
+ĐÁP ÁN: B
+CÂU 080: Trong Microsoft Excel 2010, công thức nào là công thức đúng cú pháp:
+	=IF(AND(1>2,”Đúng”),1,0)
+	=IF(1>2 AND 3>4),1,0)
+	IF(OR(1>2,”Đúng”),1,0)
+	=IF(OR(1>2,2<1),1,0)
+ĐÁP ÁN: D
+CÂU 081: Trong Microsoft Excel 2010, công thức nào là công thức sai cú pháp:
+	=IF(1>2;2,3)
+	=MIN(1)
+	=MAX(1+2,3)
+	=SUM(A1:A10)
+ĐÁP ÁN: A
+CÂU 082: Trong Microsoft Excel 2010, người ta gõ công thức =Proper(“Tin học”) thì nhận được kết quả :
+	Tin Học
+	TIN Học
+	 tin học
+	TIN học
+ĐÁP ÁN: A
+CÂU 083: Trong Microsoft Excel 2010, người ta gõ công thức = Not(23+12=2015) thì nhận được kết quả:
+	TRUE
+	#N/A
+	#REF
+	FALSE
+ĐÁP ÁN: A
+CÂU 084: Trong Microsoft Excel 2010, để tính giá trị bình quân từ ô E6 đến ô E12, người ta sử dụng công thức:
+	=SUM(E6:E12)
+	=AVG(E6:E12)
+	=AVERAGE(E6+E12)
+	=AVERAGE(E6:E12)
+ĐÁP ÁN: D
+CÂU 085: Trong Microsoft Excel 2010, người ta sử dụng hàm nào để đổi tất cả các ký tự trong chuỗi sang chữ thường:
+	Upper
+	Lower
+	Length
+	Text
+ĐÁP ÁN : B
+CÂU 086: Trong Microsoft Excel 2010, công thức nào là công thức đúng cú pháp:
+	=SUM(A1); SUM(A7)
+	=SUM(A1):SUM(A7)
+	=SUM(A1-A7)
+	=SUM(A1:A7)
+ĐÁP ÁN: D
+CÂU 087: Trong Microsoft Excel 2010, muốn tính trung bình của hàng hay cột, người ta sử dụng hàm nào:
+	Hàm SUM(TOTAL)/TOTAL()
+	Hàm TOTAL(SUM)/SUM()
+	Hàm Medium()
+	Hàm Average()
+ĐÁP ÁN: D
+CÂU 088: Trong Microsoft Excel 2010, tại ô A2 có giá trị số 25, tại ô B2 người ta gõ công thức = SQRT(A2) thì nhận được kết quả:
+	0
+	5
+	#VALUE
+	#NAME!
+ĐÁP ÁN: B
+CÂU 089: Trong Microsoft Excel 2010, tại ô A2 có giá trị là chuỗi TINHOC, tại ô B2 gõ công thức =RIGHT(A2,3) thì nhận được kết quả:
+	3
+	HOC
+	TIN
+	Tinhoc
+ĐÁP ÁN: B
+CÂU 090: Trong Microsoft Excel 2010, tại ô A2 có giá trị chuỗi TINHOC, tại ô B2 người ta gõ công thức =VALUE(A2) thì nhận được kết quả:
+	#VALUE!
+	Tinhoc
+	TINHOC
+	6
+ĐÁP ÁN: A
+CÂU 091: Trong Microsoft Excel 2010, tại ô A2 có giá trị là số 2008, tại ô B2 người ta gõ vào công thức =LEN(A2) thì nhận được kết quả:
+	#VALUE
+	0
+	4
+	2008
+ĐÁP ÁN: C
+CÂU 092: Trong Microsoft Excel 2010, tại ô A2 có sẵn giá trị chuỗi 2008, tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:
+	#NAME!
+	#VALUE!
+	Giá trị kiểu chuỗi 2008
+	Giá trị kiểu số 2008
+ĐÁP ÁN: D
+CÂU 093: Trong Microsoft Excel 2010, tại ô A2 người ta gõ vào công thức =MAX(30,10,65,5) thì nhận được kết quả:
+	30
+	5
+	65
+	110
+ĐÁP ÁN: C
+CÂU 094: Trong Microsoft Excel 2010, người ta sử dụng hàm nào cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước:
+	SUM
+	COUNTIF
+	COUNT
+	SUMIF
+ĐÁP ÁN: D
+CÂU 095: Trong Microsoft Excel 2010, tại ô C1 chứa giá trị chuỗi “DS1”, để ô B1 có ký tự “S”, người ta gõ công thức:
+	=LEFT(C1,1)
+	=RIGHT(C1,2)
+	=MID(C1,2,1)
+	MID(C1,1,2)
+ĐÁP ÁN: C
+CÂU 096: Trong Microsoft Excel 2010, để tính giá trị lớn nhất trong các ô thuộc khối ô C12: C15, người ta gõ công thức:
+	=MAX C12:C15
+	=MAX(C12,C15)
+	=MAX(C12:C15)
+	=MAX(C12;C15)
+ĐÁP ÁN: C
+CÂU 097: Trong Microsoft Excel 2010, hàm RANK được sử dụng để:
+	Tính trung bình
+	Sắp xếp
+	Xếp hạng
+	Tính tổng
+ĐÁP ÁN: C
+CÂU 098: Trong Microsoft Excel 2010, hàm nào được sử dụng để thực hiện dò tìm theo dòng:
+	DATE
+	HLOOKUP
+	SEEK
+	VLOOKUP
+ĐÁP ÁN: B
+CÂU 099: Trong Microsoft Excel 2010, tại ô A2 có giá trị số 2016, tại ô B2 người ta gõ công thức =LEN(A2) thì nhận được kết quả:
+	#NAME!
+	#VALUE!
+	0
+	4
+ĐÁP ÁN D
+CÂU 100: Trong Microsoft Excel 2010, để dò tìm giá trị theo cột người ta sử dụng hàm nào:
+	Vlookup()
+	Varpa()
+	Hlookup()
+	Harmean()
+ĐÁP ÁN: A
+CÂU 101: Trong Microsoft Excel 2010, tại ô A1 có giá trị 7.325, tại ô B1 người ta gõ công thức =round(A1,2) thì nhận được kết quả:
+	7.33
+	7.00
+	7.30
+	7.31
+ĐÁP ÁN: A
+CÂU 102: Trong Microsoft Excel 2010, dữ liệu các ô như sau: A1=5, A2=4, A3=9, A4=3, A5=10, tại ô B1 người ta gõ =COUNTIF(A1:A5,”>=5”) thì nhận được kết quả:
+	3
+	4
+	5
+	#VALUE
+ĐÁP ÁN : A
+CÂU 103: Trong Microsoft Excel 2010, để định dạng các dữ liệu dạng số tại cột thứ n là dạng tiền tệ, tại ô đó người ta thực hiện:
+	Nhấn phải chuột -> Chọn Format Cells -> Number -> General
+	Nhấn chuột phải -> chọn Format Cells -> Number -> Currency
+	Nhấn chuột phải -> chọn Format Cells -> Number -> Fraction
+	Nhấn chuột phải -> chọn Format Cells -> Number -> Accounting
+ĐÁP ÁN: B
+CÂU 120: Trong Microsoft Excel 2010, để đếm các giá trị số người ta dùng hàm nào sau :
+	SUM
+	IF
+	COUNT
+	COUNTA
+CÂU 104: Trong Microsoft Excel 2010, người ta gõ công thức =INT(2.45) thì nhận được kết quả:
+	2
+	0.45
+	3
+	2.5
+ĐÁP ÁN: A
+CÂU 105: Trong Microsoft Excel 2010, để tô màu nền cho một ô (cell), người ta chọn ô cần tô rồi thực hiện:
+	Nhấn vào biểu tượng Fill Color trên thanh công cụ Formatting
+	Chọn menu Format -> Cells, chọn Font và chọn Color
+	Nhấn vào biểu tượng Font Color trên thanh công cụ Formatting
+	Nhấn vào biểu tượng Decrease font size trên thanh công cụ Formatting
+ĐÁP ÁN: A
+CÂU 106: Trong Microsoft Excel 2010, để thay đổi cơ chữ, dạng chữ, in đậm, in nghiêng, kiểu chữ…người ta thực hiện:
+	Vào thực đơn Tools – Options – Font
+	Vào thực đơn File -> Properties – Font
+	Vào thực đơn Format – Cells – Font
+	Vào thực đơn Insert – Font
+ĐÁP ÁN: C
+CÂU 107: Trong Microsoft Excel 2010, khi muốn một ô có định dạng chữ nghiêng 45 độ, tại ô đó người ta thực hiện:
+	Nhấn chuột phải -> Format Cell -> Alignment -> Wrap text, chọn 45 độ
+	Nhấn chuột phải -> Format Cell -> Alignment -> Orientation, chọn -45 độ
+	Nhấn chuột phải -> Format Cell -> Alignment -> Orientation, chọn 45 độ
+	Nhấn chuột phải -> Format Cell -> Tab Alignment -> Wrap text, chọn -45 độ
+ĐÁP ÁN: C
+CÂU 108: Trong Microsoft Excel 2010, để canh lề trái của ô, người ta sử dụng tổ hợp phím nào:
+	Alt + H, AL
+	Ctrl + H, AR
+	Alt + H, AR
+	Ctrl + AR
+ĐÁP ÁN: A
+CÂU 109: Trong Microsoft Excel 2010, để tạo biểu đồ cho vùng giá trị được chọn, người ta thực hiện:
+	Vào Tool -> Chart…
+	Vào Insert -> Chart…
+	Vào View -> Chart…
+	Vào Format -> Chart…
+ĐÁP ÁN: B
+CÂU 110: Trong Microsoft Excel 2010, để biểu diễn số liệu dạng phần trăm, người ta sử dụng biểu đồ kiểu nào dưới đây là hợp lý nhất:
+	Biểu đồ cột đứng (Column)
+	Biểu đồ đường gấp khúc (Line)
+	Biểu đồ phân tán XY (XY Scatter)
+	Biểu đồ dạng quạt tròn (Pie)
+ĐÁP ÁN: D
+CÂU 111: Trong Microsoft Excel 2010, phát biểu nào sau đây về đối tượng Chart là đúng:
+	Trục X còn có tên gọi là trục “Value” (Giá trị) và trục Y còn có tên gọi là trục “Category” (phân loại)
+	Trục X còn có tên gọi là trục “Category” (phân loại) và trục Y còn có tên gọi là trục “Value” (giá trị)
+	Trục X và Y đều có cùng tên gọi là trục Category
+	Trục X và Y đều có tên gọi là trục Value
+ĐÁP ÁN : B
+CÂU 112: Trong Microsoft Excel 2010, để in một trang tính (sheet) nằm ngang hoặc thẳng đứng, người ta thực hiện:
+	Vào Page Layout -> Margins
+	Vào Page Layout -> Size
+	Vào Page Layout -> Orientation
+	Vào Page Layout -> Background
+ĐÁP ÁN: C
+CÂU 113: Trong Microsoft Excel 2010, khi chuẩn bị in một trang tính (sheet) ra giấy, điều gì sau đây là đúng:
+	Microsoft Excel bắt buộc phải đánh số trang ở vị trí bên phải đầu mỗi trang
+	Có thể khai báo đánh số trang in hoặc không
+	Chỉ đánh số trang in nếu bảng tính gồm nhiều trang
+	Vị trí cửa số trang luôn luôn ở gốc dưới bên phải
+ĐÁP ÁN: B
+CÂU 114: Trong Microsoft Excel 2010, để in một trang tính (sheet) được chọn, người ta thực hiện:
+	Vào View -> Print…
+	Vào Home -> Print…
+	Vào File -> Print…
+	Vào Data -> Print…
+ĐÁP ÁN: C
+CÂU 115: Trong Microsoft Excel 2010, người ta gõ công thức =Sum(46,-2,9,s) thì nhận được kết quả:
+	5
+	17
+	#Name?
+	#Value!
+ĐÁP ÁN: C
+CÂU 116: Trong Microsoft Excel 2010, khi gõ công thức = HOUR(TIME(15;20;30)-TIME(14;22;30)), người ta nhận được:
+	0
+	1
+	2
+	3
+ĐÁP ÁN: A
+CÂU 117: Trong Microsoft Excel 2010, để lọc dữ liệu cho bảng tính đã chọn, người ta thực hiện:
+	Vào Data,  chọn Filter
+	Vào Insert, chọn Filter
+	Vào Fomulas, chọn Filter
+	Vào View, chọn Filter
+ĐÁP ÁN: A
+CÂU 118: Trong Microsoft Excel 2010, để xóa một dòng đã chọn, người ta thực hiện:
+	Nhấn phím Delete
+	Nhấn tổ hợp phím Shift -> Delete
+	Vào Home, chọn Delete
+	Nhấn phím phải chọn Delete, chọn tiếp Entire row
+ĐÁP ÁN: D
+CÂU 119: Trong Microsoft Excel 2010, để mở chức năng trợ giúp (Help), người ta thực hiện:
+	Vào Home, chọn Help, chọn tiếp Microsoft Help
+	Vào File, chọn Help, chọn tiếp Microsoft Help
+	Nhấn phím chuột phải chọn Column Width…
+	Chọn View, chọn tiếp Microsoft Office Help
+ĐÁP ÁN: A
+CÂU 120: Trong Microsoft Excel 2010, khi gõ công thức = SECOND(TIME(15;20;30),  người ta nhận được:
+	15
+	20
+	30
+	0
+ĐÁP ÁN: C
+
+
+
+
+
+
+ 
+Mô đun 5: Sử dụng trình chiếu cơ bản (UI5)
+CẤU 001: Trong Microsoft PowerPoint 2010, muốn chèn một đoạn âm thanh vào slide, người ta thực hiện:
+	Vào Insert -> Audio
+	Vào Insert -> Shapes
+	Vào Insert -> Equation
+	Vào Insert -> Chart
+ĐÁP ÁN : A
+ CÂU 002: Trong Microsoft PowerPoint 2010, để tạo hiệu ứng xuất hiện của từng trang thuyết trình (slide), người ta thực hiện trong thanh công cụ:
+	Animations
+	Transition
+	Home
+	View
+ CÂU 003: Trong Microsoft PowerPoint 2010, để thiết lập một slide master, người ta thực hiện:
+	Vào File -> Slide Master
+	Vào View -> Slide Master
+	Vào View –> Handout Master
+	Vào View -> Notes Master
+ĐÁP ÁN: B
+CÂU 004: Trong Microsoft PowerPoint 2010, để tạo hyperlink, người ta chọn text hay đối tượng mà người ta muốn tạo hyperlink sau đó thực hiện:
+	Vào Insert -> Hyperlink
+	Vào Insert -> Action
+	Vào Home -> Hyperlink
+	Vào Home -> Action
+ĐÁP ÁN: A
+CÂU 005: Trong Microsoft PowerPoint 2010, để chèn biểu đồ, người ta thực hiện:
+	Vào View -> Chart…
+	Vào Format -> Chart…
+	Vào Slide Design -> Chart…
+	Vào Insert -> Chart…
+ĐÁP ÁN: D
+CÂU 006: Trong Microsoft PowerPoint 2010, chế độ hiển thị (Presentation Views) nào sau là không đúng:
+	Normal View
+	Slide Sorter
+	Notes Page
+	Zoom View
+ĐÁP ÁN : D
+CÂU 007: Trong Microsoft PowerPoint 2010, muốn chèn một ký hiệu vào trang thuyết trình (slide), người ta thực hiện:
+	Vào Insert -> Diagram
+	Vào Insert -> Component
+	Vào Insert -> Comment
+	Vào Insert -> Symbol
+ĐÁP ÁN: D
+CÂU 008: Trong Microsoft PowerPoint 2010, sau khi đã chèn một bảng biểu vào trang thuyết trình (slide), muốn chia một ô nào đó thành 2 ô thì người ta thực hiện:
+	Nhấn chuột phải vào ô đó, vào Layout -> Split Cells
+	Nhấn chuột phải vào ô đó, vào Layout -> Merge Cells
+	Nhấn chuột phải vào ô đó, vào Layout -> Insert Above
+	Kích chuột phải vào ô đó, vào Layout -> Insert Below
+ĐÁP ÁN : A
+CÂU 009: Trong Microsoft PowerPoint 2010, vào Insert -> Chart -> Column … điều gì thực hiện:
+	Để chèn biểu đồ hình tròn
+	Để chèn biểu đồ hình cột
+	Để chèn hình tròn
+	Để chèn hình cột
+ĐÁP ÁN: B
+ CÂU 010: Trong Microsoft PowerPoint 2010, chức năng nào cho phép thay đổi bố cục của trang thuyết trình (slide) đã chọn:
+	Vào Home -> Layout
+	Vào Home -> New Slide
+	Vào Home -> Reset
+	Vào Home -> Reset Layout
+ĐÁP ÁN : A
+CÂU 011: Trong Microsoft PowerPoint 2010, chức năng nào cho phép ẩn trang thuyết trình (slide) đã chọn:
+	Vào Slide Show -> Hide Slide
+	Vào Home -> Hide Slide
+	Vào View -> Hide Slide
+	Vào Review -> Hide Slide
+ĐÁP ÁN : A
+CÂU 012: Trong Microsoft PowerPoint 2010, để trình chiếu từ trang thuyết trình (slide) hiện tại, người ta sử dụng tổ hợp phím:
+	Ctrl + F5
+	Alt + F5
+	Shift + F5
+	F5
+ĐÁP ÁN: C
+CÂU 013: Trong Microsoft PowerPoint 2010, để chọn tất cả các trang thuyết trình (slide) trong bài thuyết trình, người ta thực hiện:
+	Vào File -> Select All
+	Vào Home -> Select -> Select All
+	Vào Home -> Select All
+	Vào Home -> Editing -> Select All
+ĐÁP ÁN: B
+CÂU 014: Trong Microsoft PowerPoint 2010, dùng cách nào để thay đổi bố cục cho trang thuyết trình (slide) đã chọn thành bố cục gồm tiêu đề và văn bản:
+	Vào Home -> Layout -> Title and Content
+	Vào Home -> Layout -> Title Slide
+	Vào Home -> Layout -> Blank
+	Vào Home -> Layout -> Title Only
+ĐÁP ÁN: A
+CÂU 015: Trong Microsoft PowerPoint 2010, trước khi thoát khỏi phần mềm nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện thông báo, để lưu lại tập tin này, người ta sẽ kích phím chuột trái vào nút nào trong bảng thống báo:
+	Nút Yes
+	Nút No
+	Nút Cancel
+	Nút Save
+ĐÁP ÁN : A
+CÂU 016: Phần mềm Microsoft PowerPoint 2010 dùng để làm gì?
+	Lập bảng tính
+	Soạn thảo văn bản
+	Trình chiếu văn bản
+	Lập biểu đồ
+ĐÁP ÁN: C
+CÂU 017: Trong Microsoft PowerPoint 2010, thanh công cụ truy cập nhanh có tên là :
+	Quick Access Toolbar
+	Quick Toolbar Access
+	Access Toolbar Quick
+	Toolbar Access Quick
+ĐÁP ÁN: A
+CÂU 018: Trong Microsoft PowerPoint 2010, để chuyển sang chế độ đọc, người ta thực hiện:
+	Vào View -> Reading Mode
+	Vào Review -> Reading Mode
+	Vào Review -> Reading View
+	Vào View -> Reading View
+ĐÁP ÁN : D
+CÂU 019: Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + Q tương ứng với lệnh nào sau đây:
+	Vào Design -> Page setup
+	Vào Home -> Quick Styles
+	Vào View -> Zoom
+	Vào File -> Exit
+ĐÁP ÁN: D
+CÂU 021: Trong Microsoft PowerPoint 2010, tên một tập tin trình diễn (Presentation) thường có đuôi mở rộng là:
+	PPTA
+	PPTR
+	PPTK
+	PPTX
+ĐÁP ÁN: D
+CÂU 022: Trong Microsoft PowerPoint 2010, phím F12 tương ứng với lệnh nào sau đây:
+	Vào File -> Print -> Print Current Slide
+	Vào File – Save as
+	Vào View -> Broadcast slideshow…
+	Vào View -> Side Master
+ĐÁP ÁN: B
+CÂU 023: Trong Microsoft PowerPoint 2010, để tạo mới 1 tập tin trình diễn theo mẫu giao diện (themes) đã có, người ta thực hiện:
+	Vào Home -> New -> Themes -> Chọn mẫu -> OK
+	Vào Home -> New – Themes -> Chọn mẫu -> Create
+	Vào File -> New -> Themes -> Chọn mẫu -> Create
+	Vào File – New -> Themes -> Chọn mẫu -> OK
+ĐÁP ÁN: C
+ CÂU 024: Trong Microsoft PowerPoint 2010, để lưu tập tin ppt đang mở, người ta thực hiện:
+	Vào File -> Save
+	Vào File -> Save As
+	Vào Home – Save
+	Vào Home -> Close
+ĐÁP ÁN: A
+CÂU 025: Trong Microsoft PowerPoint 2010, để chọn mẫu giao diện cho các trang thuyết trình (slide), người ta thực hiện:
+	Vào Home -> Slide Design
+	Vào Slide Show -> Slide Design
+	Vào Design -> chọn mẫu trong Themes
+	Vào Home -> chọn mẫu trong Themes
+ĐÁP ÁN : C
+CÂU 026: Trong Microsoft PowerPoint 2010, để hủy bỏ thao tác vừa thực hiện, người ta sử dụng tổ hợp phím:
+	Ctrl + A
+	Ctrl + B
+	Ctrl + Z
+	Ctrl + R
+ĐÁP ÁN: C
+CÂU 027: Trong Microsoft PowerPoint 2010, để chọn màu nền cho một trang thuyết trình (slide) trong bài trình diễn, người ta thực hiện:
+	Vào Home -> Background Styles
+	Vào View -> Background Styles
+	Vào Desgin -> Background Styles
+	Vào Animations -> Background Styles
+ĐÁP ÁN: C
+CÂU 028: Trong Microsoft PowerPoint 2010, để tạo thêm 1 trang thuyết trình (slide) mới, người ta sử dụng tổ hợp phím:
+	Ctrl + O
+	Ctrl + P
+	Ctrl + N
+	Ctrl + M
+ĐÁP ÁN: D
+CÂU 029: Trong Microsoft PowerPoint 2010, để thực chèn nút lệnh trở về trang thuyết trình (slide) cuối cùng, người ta thực hiện:
+	Vào Insert -> Shapes -> Action Button: End
+	Vào Insert -> Shapes -> Action Button: Home
+	Vào Home -> Shapes -> Action Button: Return
+	Vào Home -> Shapes -> Action Button: End
+ĐÁP ÁN: A
+CÂU 030: Trong Microsoft PowerPoint 2010, Slide Master được sử dụng để:
+	Lưu trữ thông tin về thiết kế kiểu dáng, màu sắc, font chữ, bố cục… cho các slide
+	Thiết lập các thông số cho các trang in
+	Sắp xếp vị trí của header, footer
+	Tạo hiệu ứng chuyển đổi giữa các trang
+ĐÁP ÁN: A
+CÂU 031: Trong Microsoft PowerPoint 2010, để thực hiện tạo mới 1 tập tin trình diễn theo mẫu (sample templates), người ta thực hiện:
+	Vào File -> New -> Sample templates -> Chọn mẫu -> Create
+	Vào Home -> New -> Sample templates -> Chọn mẫu -> Create
+	Vào Design-> New -> Sample templates -> Chọn mẫu -> Create
+	Vào Insert-> New -> Sample templates -> Chọn mẫu -> Create
+ĐÁP ÁN: A
+CÂU 032: Trong Microsoft PowerPoint 2010, khi thực hiện vào Home -> New Slide, người ta thực hiện:
+	Chèn thêm một slide mới vào ngay trước slide hiện hành
+	Chèn thêm một slide mới vào ngay sau slide hiện hành
+	Chèn thêm một slide mới vào ngay trước slide đầu tiền
+	Chèn thêm một slide mới vào ngay sau slide cuối cùng
+ĐÁP ÁN: B
+CÂU 033: Trong Microsoft PowerPoint 2010, để chép một số trang thuyết trình (slide) giống hệt như các trang thuyết trình (slide) hiện hành, sau khi chọn các trang chép, người ta thực hiện:
+	Chọn Home -> Duplicate
+	Chọn Insert -> New Slide
+	Vào Home -> New Slide -> Duplicate Selected Slides
+	Vào Insert -> New Slide -> Duplicate Selected Slides
+ĐÁP ÁN: C
+CÂU 034: Trong Microsoft PowerPoint 2010, để đánh số trang cho tất cả các trang thuyết trình (slide), người ta thực hiện:
+	Vào Insert -> Header and Footer -> Slide -> Chọn Slide Number -> Apply to All
+	Vào Insert -> Header and Footer -> Slide -> Chọn Page Number -> Apply to All
+	Vào Insert -> Header and Footer -> Slide -> Chọn Slide Number -> Apply
+	Vào Insert -> Header and Footer -> Slide -> Chọn Page Number -> Apply
+ĐÁP ÁN: A
+CÂU 035: Trong Microsoft PowerPoint 2010, để chèn công thức toán học vào trang thuyết trình (slide), người ta thực hiện:
+	Vào Insert -> Equation…
+	Vào Insert -> Symbol…
+	Vào Insert -> Object…
+	Vào Insert -> Text box…
+ĐÁP ÁN : A
+CÂU 036: Trong Microsoft PowerPoint 2010, để tìm kiếm và thay thế, người ta sử dụng tổ hợp phím:
+	Ctrl + E
+	Ctrl + T
+	Ctrl + F
+	Ctrl + H
+ĐÁP ÁN: D
+CÂU 037: Trong Microsoft PowerPoint 2010, để chuyển đoạn văn bản được chọn sang chữ in hoa, người ta sử dụng tổ hợp phím:
+	Ctrl + F2
+	Ctrl + F3
+	Ctrl + F3
+	Alt + F2
+ĐÁP ÁN : C
+CÂU 038: Trong Microsoft PowerPoint 2010, để xóa toàn bộ định dạng đoạn văn bản được chọn, người ta thực hiện:
+	Vào Home -> Clear All Formatting
+	Vào Insert -> Clear All Formatting
+	Vào View -> Clear All Formatting
+	Vào Format -> Clear All Formatting
+ĐÁP ÁN : A
+CÂU 039: Trong Microsoft PowerPoint 2010, để xóa toàn bộ định dạng đoạn văn bản được chọn, người ta thực hiện:
+	Vào Home -> WordArt
+	Vào View -> WordArt
+	Vào Insert -> WordArt
+	Vào Slide -> WordArt
+ĐÁP ÁN : B
+CÂU 040: Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + H tương ứng với thực hiện lệnh nào sau đây:
+	Vào Home -> Replace
+	Vào Home -> Reset
+	Vào Insert -> Picture
+	Vào View -> Slide Master
+ĐÁP ÁN: A
+CÂU 041: Trong Microsoft PowerPoint 2010, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + E, thao tác này tương ứng với lựa chọn nào sau đây:
+	Xóa đoạn văn được chọn
+	Sao chép đoạn văn được chọn
+	Canh giữa đoạn văn được chọn
+	Canh trái đoạn văn được chọn
+ĐÁP ÁN: C
+CÂU 042: Trong Microsoft PowerPoint 2010, đánh dấu 1 đoạn văn bản sau đó nhấn tổ hợp phím Ctrl + R, thao tác này tương ứng với lựa chọn nào sau đây:
+	Xóa định dạng đoạn văn được chọn
+	Canh phải đoạn văn được chọn
+	Canh giữa đoạn văn được chọn
+	Canh giữa đoạn văn được chọn
+ĐÁP ÁN: B
+CÂU 043: Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + V được sử dụng để thực hiện:
+	Xóa 1 đoạn văn bản
+	Dán một đoạn văn bản từ Clipboard
+	Sao chép một đoạn văn bản
+	Cắt và sao chép một đoạn văn bản
+ĐÁP ÁN : B
+CÂU 044: Trong Microsoft PowerPoint 2010, tổ hợp phím Ctrl + C được sử dụng để thực hiện:
+	Xóa 1 đoạn văn bản
+	Dán một đoạn văn bản từ Clipboard
+	Sao chép một đoạn văn bản
+	Cắt và sao chép một đoạn văn bản
+ĐÁP ÁN : C
+Câu 045: Trong Microsoft PowerPoint 2010, tổ hợp phím Shift + F3 tương ứng với thực hiện nào sau đây:
+	Vào Design -> Change Case
+	Vào Home -> Character Spacing
+	Vào Home -> Text Shadow
+	Vào Home -> Change Case
+ĐÁP ÁN: D
+CÂU 046: Trong Microsoft PowerPoint 2010, để xoay hướng của đoạn văn bản được chọn, người ta thực hiện:
+	Vào Format -> Text Direction …
+	Vào Home -> Text Direction…
+	Vào Format -> Orientation…
+	Vào Home -> Orientation…
+ĐÁP ÁN: B
+CÂU 047: Trong Microsoft PowerPoint 2010, sau khi đã chọn một đoạn văn bản, cách nào sau đây không phải để làm mất đi đoạn văn bản đó:
+	Nhấn tổ hơp phím Alt + X
+	Nhắp phím chuột trái vào nút Cut trên thanh công cụ Home
+	Nhấn phím Delete
+	Nhấn phím Space
+ĐÁP ÁN: A
+CÂU 048: Trong Microsoft PowerPoint 2010, để định dạng đoạn chữ “Trường Đại học” thành điều chữ đậm, người ta thực hiện:
+	Chọn đoạn chữ đó, nhấn Ctrl + U
+	Chọn đoạn chữ đó, nhấn Ctrl + B
+	Đưa con trỏ vào giữa chữ đó, nhấn Ctrl + B
+	Đưa con trỏ vào giữa đoạn chữ đó, nhấn Ctrl + U
+ĐÁP ÁN: B
+CÂU 049: Trong Microsoft PowerPoint 2010, để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên người ta phải:
+	Bỏ chọn đoạn văn bản căn lề
+	Chọn đoạn văn bản cần căn lề
+	Chọn tất cả nội dung trong trang thuyết trình (slide)
+	Vào File -> Open
+ĐÁP ÁN: B
+CÂU 050: Trong Microsoft PowerPoint 2010, muốn sao chép một phần của đoạn văn bản trong một text box, người ta thực hiện:
+	Chọn phần văn bản cần sao chép, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V
+	Chọn phần văn bản cần sao chép, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C
+	Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + C rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + V
+	Chọn Text Box chứa đoạn văn bản đó, nhấn Ctrl + V rồi đưa con trỏ văn bản đến vị trí cần sao chép, nhấn Ctrl + C
+ĐÁP ÁN: A
+CÂU 051: Trong Microsoft PowerPoint 2010, sau khi đã chọn một số đối tượng trên trang thuyết trình (slide) hiện hành, nhấn tổ hợp phím nào sau đây sẽ làm mất đi các đối tượng đó:
+	Alt + X
+	Shift + X
+	Ctrl + X
+	Ctrl + Shift + X
+ĐÁP ÁN: C
+CÂU 052: Trong Microsoft PowerPoint 2010, để chèn danh sách Excel, người ta thưc hiện:
+	Insert -> Object -> …chọn create from file
+	Insert -> Object -> …chọn Microsoft Excel Chart
+	View -> Object
+	Vào Insert -> Chart…
+ĐÁP ÁN: A
+CÂU 053: Trong Microsoft PowerPoint 2010, để chèn bảng vào trang thuyết trình (slide) người ta thực hiện:
+	Vào Insert -> Table…
+	Vào Insert -> Diagram…
+	Vào Menu -> Symbol…
+	Vào Insert -> Chart…
+ĐÁP ÁN: A
+CÂU 054: Trong Microsoft PowerPoint 2010, để chèn sơ đồ tổ chức vào slide, người ta thực hiện:
+	Chọn Insert -> SmartArt -> Hierarchy -> chọn kiểu thích hợp
+	Chọn Insert -> Chart -> chọn kiểu thích hợp
+	Chọn Format -> SmartArt -> Picture -> chọn kiểu thích hợp
+	Chọn Format -> Chart -> Organization Chart -> chọn kiểu thích hợp
+ĐÁP ÁN: A
+CÂU 055: Trong Microsoft PowerPoint 2010, khi vào insert -> chart -> pie…, người ta thực hiện:
+	Để chèn hình tròn
+	Để chèn biểu đồ hình tròn
+	Để chèn hình vuông
+	Để chèn biểu đồ hình cột
+ĐÁP ÁN: B
+CÂU 056: Trong Microsoft PowerPoint 2010, để vẽ hình, người ta thực hiện:
+	Vào View -> Chart …
+	Vào Insert -> Diagram…
+	Vào View -> Drawing
+	Vào Insert -> Chart…
+ĐÁP ÁN: C
+CÂU 057: Trong Microsoft PowerPoint 2010, để tạo hiệu ứng cho các đối tượng, người ta thực hiện:
+	Chọn đối tượng cần tạo hiệu ứng -> Animations -> Add Animation…
+	Chọn đối tượng cần tạo hiệu ứng -> Slide Show -> Add Effect…
+	Chọn đối tượng cần tạo hiệu ứng -> Custom Animation -> Add Effect…
+	Chọn đối tượng cần tạo hiệu ứng -> Insert -> Add Animation…
+ĐÁP ÁN : A
+CÂU 058: Trong Microsoft PowerPoint 2010, để tạo hiệu ứng chuyển đến trang kế tiếp, người ta thực hiện:
+	Vào Slide Show -> Custom Animation
+	Vào Slide Show -> Slide Transition
+	Vào View -> Slide Transition…
+	Vào Transitions -> chọn hiệu ứng…
+ĐÁP ÁN: D
+CÂU 059: Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang kế tiếp, người ta thực hiện:
+	Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> Next slide
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next slide
+	Chọn đối tượng cần tạo liên kết -> Slide Show -> Action Settings -> Next slide
+	Chọn đối tượng cần tạo liên kết -> Slide Show -> Custom Shows -> Hyperlink to -> Next slide
+ĐÁP ÁN : B
+CÂU 060: Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang bất kỳ, người ta thực hiện:
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Slide…
+	 Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next Slide…
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Custom Show…
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> URL…
+ĐÁP ÁN : A
+CÂU 061: Trong Microsoft PowerPoint 2010, để tạo liên kết chuyển đến trang cuối cùng, người ta thực hiện:
+	Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> Last slide
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Next slide
+	Chọn đối tượng cần tạo liên kết -> Insert -> Custom Shows -> Slide -> End slide
+	Chọn đối tượng cần tạo liên kết -> Insert -> Action -> Hyperlink to -> Last slide
+ĐÁP ÁN: D
+CÂU 061: Trong Microsoft PowerPoint 2010, thao tác nào sau đây để chạy thử trang thuyết trình (slide) hiện tại:
+	Vào Home -> Preview
+	Vào File -> Preview
+	Vào Design -> Preview
+	Vào Transitions -> Preview
+ĐÁP ÁN: D
+CÂU 062: Trong Microsoft PowerPoint 2010, muốn thiết lập hiệu ứng cho văn bản, hình ảnh, …, người ta thực hiện:
+	Insert -> Custom Animation, rồi chọn Add Effect
+	Format -> Custom Animation, rồi chọn Add Effect
+	View -> Custom Animation, rồi chọn Add Effect
+	Slide Show -> Custom Animation, rồi chọn Add Effect
+ĐÁP ÁN: D
+CÂU 064: Trong Microsoft PowerPoint 2010, để trình diễn trang thuyết trình (slide), người ta thực hiện:
+	Nhấn phím F2
+	Nhấn phím F3
+	Nhấn phím F4
+	Nhấn phím F5
+ĐÁP ÁN: D
+CÂU 065: Trong Microsoft PowerPoint 2010, thao tác nào sau đây để in trang thuyết trình (slide) hiện tại:
+	Vào File -> Print -> Print Current Slide
+	Vào File -> Print -> Print Current Slide - Print
+	Vào File -> Print -> Print All Slides -> Print
+	Vào File -> Print -> Print All Slides
+ĐÁP ÁN: B
+CÂU 066: Trong Microsoft PowerPoint 2010, thao tác nào sau đây để in tất cả các trang thuyết trình (slide)
+	Vào File -> Print -> Print All Slides
+	Vào File -> Print -> Print All Slides
+	Vào File -> Print All Slides -> Print
+	Vào File -> Print -> Print All Slides -> Print
+ĐÁP ÁN: D
+CÂU 067: Trong Microsoft PowerPoint 2010, để cài đặt trang in, khổ giấy, người ta thực hiện:
+	Vào Home -> Page setup…
+	Vào Design -> Page setup…
+	Vào View -> Page Setup…
+	Vào File – Page setup…
+ĐÁP ÁN: B
+CÂU 068: Trong Microsoft PowerPoint 2010, muốn trình diễn tài liệu được soạn thảo, người ta thực hiện:
+	Vào File -> Slide Show
+	Vào Home -> Slide Show
+	Vào Slide Show -> Slide Show
+	Vào View -> Slide Show
+ĐÁP ÁN: C
+CÂU 069: Trong Microsoft PowerPoint 2010, để trình diễn một trang thuyết trình (slide), người ta thực hiện nhấn phím:
+	Phím F5
+	Phím F3
+	Phím F1
+	Phím F10
+ĐÁP ÁN: A
+CÂU 070: Trong Microsoft PowerPoint 2010, để thiết lập các thống số trang in, người ta thực hiện:
+	Vào Design -> Page setup…
+	Vào File –> Print
+	Vào File –>Print Preview
+	Vào File –> Properties
+ĐÁP ÁN: A
+CÂU 071: Trong Microsoft PowerPoint 2010, sau khi đã thiết kế xong bài trình chiếu, cách làm nào sau đây không phải để trình chiếu ngay bài trình diễn đó:
+	Chọn Slide show -> Custom Slide Show
+	Chọn Slide Show -> Set Up Slide Show
+	Nhấn phím Shift + F5
+	Nhấn phím F5
+ĐÁP ÁN: A
+CÂU 073: Trong Microsoft PowerPoint 2010, để dùng lại một Slide trong thư viện chứa các Slide hoặc từ tập tin PowerPoint khác, người ta thực hiện:
+	Design -> New Slide -> Slide Library …./File
+	Insert -> New Slide -> Reuse Slides… -> Slide Library …/File
+	Home -> New Slide -> Reuse Slides…
+	Add ins -> Slide Libray …/File
+ĐÁP ÁN: C
+CÂU 074: Trong Microsoft PowerPoint 2010, khi muốn kẻ đường viền màu xanh cho một Text Box trong bài trình diễn, sau khi chọn và nhấn phím phải -> Format Shape, người ta chọn Line Color và thực hiện:
+	Chọn màu xanh trong ô Color ngay dưới chữ Fill
+	Chọn màu xanh trong ô Color
+	Chọn màu xanh trong ô Color ngay dưới chữ Line hoặc chữ Fill đều đúng
+	Chọn màu xanh trong ô Color ngày dưới chữ Line hoặc chữ Fill đều sai
+ĐÁP ÁN: B
+CÂU 075: Trong Microsoft PowerPoint 2010, Ribbon Animation dùng để:
+	Tạo hiệu ứng cho một đối tượng trong Slide
+	Tạo hiệu ứng chuyển trang cho các Slide bài trình diễn
+	Đưa hình ảnh hoặc âm thanh vào bài trình diễn
+	Định dạng cách bố trí khối văn bản, hình ảnh, đồ thị… cho một Slide
+ĐÁP ÁN: A
+CÂU 076: Trong Microsoft PowerPoint 2010, nếu chọn 3 ô liên tiếp trên cùng một cột của bảng biểu, đưa chuột vào vùng ô đó, nhấn phím chuột phải và chọn Insert Row, người ta thực hiện:
+	Thêm vào bảng 3 ô
+	Thêm vào bảng 3 dòng
+	Thêm vào bảng 3 cột
+	Thêm vào bảng 1 dòng
+ĐÁP ÁN: D
+CÂU 077: Trong MsSPowerPoint ribbon nào sau đây có nút lệnh Apply To All:
+	Slide Show
+	Design
+	Animations
+	Transitions
+ĐÁP ÁN: D
+CÂU 078: Trong Microsoft PowerPoint 2010, phát biểu nào sau đây sai:
+	Khi tạo hiệu ứng cho một khối văn bản ta có thể cho xuất hiện lần lượt từng từ trong khối văn bản khi trình chiếu
+	Sau khi đã tạo hiệu ứng cho một đối tượng nào đó ta không thể thay đổi kiểu hiệu ứng cho đối tượng đó.
+	Có thể thực hiện hiệu ứng cho một đối tượng nào đó ta không thể thay đổi kiểu hiệu ứng cho đối tượng đó.
+	Có thể thực hiện hiệu ứng chuyển trang cho tất cả các Slide trong bài trình chiếu.
+ĐÁP ÁN: B
+CÂU 079: Trong Microsoft PowerPoint 2010, muốn xóa đi một cột bảng biểu trong Slide hiện hành, người ta thực hiện:
+	Chọn cột đó, nhấn chuột phải lên vùng đã chọn và chọn Delete Columns
+	Nhấn chuột phải lên vùng bất kì thuộc cột đó và nhấn phím Delete
+	Đưa con trỏ vào văn bản ô bất kì thuộc cột đó và nhấn phím Delete
+	Chọn cột đó, nhấn phím chuột phải lên vùng đã chọn và nhấn phím Delete
+ĐÁP ÁN: A
+CÂU 080: Trong Microsoft PowerPoint 2010, để gõ tiêu đề, đánh số trang trong các Slide, khai báo ngày tháng…, người ta thực hiện:
+	Chọn Insert -> Slide Number
+	Chọn Home -> Slide Number
+	Chọn View -> Slide Number
+	Chọn Design -> Slide Number
+ĐÁP ÁN: A
+CÂU 081: Trong Microsoft PowerPoint 2010, để thuận tiện chia sẽ và giúp cho việc trình chiếu tốt hơn – cần nén các video và âm thanh nhúng trong bài thuyết trình, người ta thực hiện:
+	File –.> Info - > Compress Media -> Chọn chất lượng nén thích hợp
+	Home –.> Info - > Compress Media -> Chọn chất lượng nén thích hợp
+	 Chọn lần lượt các đối tượng video và âm thanh, thực hiện lệnh: Nhấp phím phải chuột–.> Format - > Video/Audio ->Compress  -> Chọn chất lượng nén thích hợp
+	Design -> Select Objects -> Compress Media -> Chọn chất lượng nén thích hợp
+ĐÁP ÁN: A
+CÂU 082: Trong Microsoft PowerPoint 2010, để chèn sơ đồ tổ chức vào Slide, người ta thực hiện:
+	Chọn Home -> Picture -> SmartArt -> Chọn kiểu thích hợp
+	Chọn Insert-> SmartArt -> Hierarchy -> Chọn kiểu thích hợp
+	Chọn Insert -> Picture -> Hierarchy -> Chọn kiểu thích hợp
+	Chọn Design -> SmartArt  -> Hierarchy-> Chọn kiểu thích hợp
+ĐÁP ÁN: B
+CÂU 083: Trong Microsoft PowerPoint 2010, tạo bảng biểu, người ta lựa chọn:
+	Insert -> Tables -> Insert Tables -> Sau đó khai báo số của cột và số của hàng -> OK
+	Window -> Table -> Insert Table -> Sau đó khai báo số của cột và số của hàng -> OK
+	View -> Table -> Insert Table -> Sau đó khai báo số của cột và số của hàng -> OK
+	Home -> Table -> Insert Table -> Sau đó khai báo số của cột và số của hàng -> OK
+ĐÁP ÁN: A
+CÂU 084: Trong Microsoft PowerPoint 2010, để  chọn một số đối tượng trên một Slide, người ta thực hiện:
+	CTRL + Nhấn chuột vào đối tượng cần chọn
+	SHIFT + nhấp chuột vào đối tượng cần chọn
+	CTRL + A vào đối tượng cần chọn
+	CTRL + Nhấp phím chuột phải vào đối tượng cần chọn
+ĐÁP ÁN: A
+CÂU 085: Trong Microsoft PowerPoint 2010, chức năng định dạng nào sau đây không có:
+	Bullets
+	Numbering
+	Columns
+	Tabs
+ĐÁP ÁN: D
+CÂU 086: Trong Microsoft PowerPoint 2010, người ta sử dụng tổ hợp phím ALT + H+3 để thực hiện:
+	Định dạng đậm cho văn bản
+	Định dạng nghiêng cho văn bản
+	Định dạng gạch dưới đơn cho văn bản
+	Định dạng gạch dưới đôi cho văn bản
+ĐÁP ÁN: C
+CÂU 087: Trong Microsoft PowerPoint 2010,  để thay đổi Font cho văn bản trong Slide, người ta thực hiện chọn văn bản và nhấn tổ hợp phím nào:
+	ALT + CTRL + F
+	CTRL + ALT + F
+	ALT + SHIFT + F
+	CTRL + SHIFT + F
+ĐÁP ÁN: D
+CÂU 088: Trong Microsoft PowerPoint 2010,  để kiểm tra lỗi chính tả tiếng Anh trên Slide, người ta thực hiện:
+	Chọn File -> Options -> Proofing -> Check Spelling
+	Chọn File -> Options -> Advanced -> Check Spelling
+	Chọn File -> Options -> General-> Check Spelling
+	Chọn File -> Options -> Language -> Check Spelling
+ĐÁP ÁN: A
+CÂU 089: Trong Microsoft PowerPoint 2010,  để  chọn kiểu  (Font) thích hợp cho văn bản trong Slide, người ta thực hiện:
+	View -> Font -> Chọn kiểu chữ -> OK
+	CTRL + D -> Chọn kiểu chữ -> OK
+	Chọn Design -> Font -> Chọn kiểu chữ -> OK
+	CTRL + T -> Chọn kiểu chữ -> OK
+ĐÁP ÁN: D
+CÂU 089: Trong Microsoft PowerPoint 2010,  để  chọn kiểu  (Font) thích hợp cho văn bản trong Slide, người ta thực hiện:
+	View -> Font -> Chọn kiểu chữ -> OK
+	CTRL + D -> Chọn kiểu chữ -> OK
+	Chọn Design -> Font -> Chọn kiểu chữ -> OK
+	CTRL + T -> Chọn kiểu chữ -> OK
+ĐÁP ÁN: D
+CÂU 090: Trong Microsoft PowerPoint 2010,  để kiểm tra phiên bản đang sử dụng, người ta thực hiện:
+	File -> Help -> Xem about Microsoft PowerPoint
+	View -> Help -> Xem about Microsoft PowerPoint
+	Home -> Help -> Xem about Microsoft PowerPoint
+	Window -> Help -> Xem about Microsoft PowerPoint
+ĐÁP ÁN: A
+CÂU 091: Trong Microsoft PowerPoint 2010,  Ribbon Design -> nhóm Theme được sử dụng dùng để:
+	Định dạng giao diện của Slide
+	Định dạng hiệu ứng lật trang
+	Đạng dạng hiệu ứng cho các đối tượng trên Slide
+	Định dạng nội dung Slide
+ĐÁP ÁN: A
+CÂU 092: Trong Microsoft PowerPoint 2010, muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong bài trình chiếu, sau khi chọn Design -> Background Styles -> Format Background, người ta lựa chọn:
+	File -> ….-> chọn tập tin hình ảnh
+	Picture Corrections -> …-> chọn tập tin hình ảnh
+	Picture Color -> …-> chọn tập tin hình ảnh
+	Artistic Effects -> …-> Chọn tập tin hình ảnh
+ĐÁP ÁN: A
+CÂU 093: Trong Microsoft PowerPoint 2010, để đặt độ phân giải mặc định cho tất cả Pictures trong tập trình chiếu, người ta thực hiện:
+	ALT +V+O -> Nhóm Image Size And Quality và chọn độ phân giải thích hợp ở Set default target output
+	ALT +F+T -> Nhóm Image Size And Quality và chọn độ phân giải thích hợp ở Set default target output
+	ALT +N+S -> Nhóm Image Size And Quality và chọn độ phân giải thích hợp ở Set default target output
+	ALT +G+Q -> Nhóm Image Size And Quality và chọn độ phân giải thích hợp ở Set default target output
+ĐÁP ÁN: B
+CÂU 094: Trong Microsoft PowerPoint 2010,  khi chèn các hình mẫu Clip Art, hình mẫu nào sau đây không thuộc Clip Art:
+	Video
+	Audio
+	Camera
+	IILustrators
+ĐÁP ÁN: C
+CÂU 094: Trong Microsoft PowerPoint 2010,  khi chèn các hình mẫu Clip Art, hình mẫu nào sau đây không thuộc Clip Art:
+	Video
+	Audio
+	Camera
+	IILustrators
+ĐÁP ÁN: C
+CÂU 095: Trong Ms PowerPoint, ở Ribbon Insert, nhóm IILustrator gồm có các nút lệnh:
+	Picture, Clip Art và Screenshot
+	Clip Art, Photo Album và Shapes
+	Screenshot, SmartArt và Photo Album
+	Shapes, SmartArt và Chart
+ĐÁP ÁN: D
+CÂU 096: Trong Microsoft PowerPoint 2010, để loại bỏ nền của đối tượng hình ảnh, người ta thực hiện:
+	Chọn hình ảnh -> Picture Tools -> Format -> Remove Background
+	Chọn hình ảnh -> Nhấn phím chuột phải -> Format -> Remove Background
+	Chọn hình ảnh -> Picture Tools  -> Remove Background
+	Chọn hình ảnh -> Nhấn phím chuột phải -> Remove Background
+ĐÁP ÁN: A
+CÂU 097: Trong Microsoft PowerPoint 2010,  để chia cột văn bản, người ta thực hiện:
+	Chọn đoạn văn bản cần chia -> Page Layout -> Columns -> chọn số cột cần chia
+	Chọn đoạn văn bản cần chia -> Nhấn phím chuột phải chọn Format Shapes -> Columns -> chọn số cột cần chia
+	Chọn đoạn văn bản cần chia -> Nhấn phím chuột phải chọn Shape -> TextBox -> Columns -> chọn số cột cần chia
+	Chọn đoạn văn bản cần chia -> Design -> More Columns -> chọn số cột cần chia
+ĐÁP ÁN: C
+CÂU 098: Trong Microsoft PowerPoint 2010,  nhóm Set Up thuộc Ribbon nào sau đây:
+	Page Layout
+	Transitions
+	Animations
+	Slide Show
+ĐÁP ÁN: D
+CÂU 099: Trong Microsoft PowerPoint 2010, để mở hộp thoại định dạng Tabs, người ta thực hiện:
+	View -> Format -> nhấn tổ hợp ALT + TAB
+	Home -> mở hộp thoại Paragraph -> Tabs
+	Insert -> Text -> nhấn tổ hợp CTRL + TAB
+	Nhấn chuột vào ký hiệu TABS trên thước ngang
+ĐÁP ÁN: B
+CÂU 100: Phần mềm trình chiếu không có chức năng cơ bản nào sau đây:
+	Biên tập văn bản
+	Chèn đối tượng đồ họa
+	Chiếu Slide nội dung
+	Tính toán số học
+ĐÁP ÁN: D
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Mô đun 6: Sử dụng Internet cơ bản (IU6)
+CÂU 001: Tên viết tắt của các nhà cung cấp dịch vụ Internet là:
+	IAP
+	ISP
+	IIS
+	ICP
+ĐÁP ÁN: B
+CÂU 002: Các thành phần của tên miền dược phân cách bằng ký tự gì:
+	Dấu “.”
+	Dấu “,”
+	Dấu “#”
+	Dấu “@”
+ĐÁP ÁN: A
+CÂU 003: Để truy cập Internet, người ta dùng chương trình nào sau đây:
+	Microsoft Word
+	Microsoft Excel
+	Internet Explorer
+	Wordpad
+ĐÁP ÁN: C
+CÂU 004: Dịch vụ Internet được cung cấp ở Việt Nam vào năm nào:
+	1986
+	1990
+	1997
+	2000
+ĐÁP ÁN: C
+CÂU 005: WWW là viết tắt của dòng nào:
+	Word Wide Web
+	Word Web Wide
+	Word Wild Web
+	World Wide Web
+ĐÁP ÁN: D
+CÂU 006: Trong mạng máy tính, thuật ngữ “Online” có nghĩa là:
+	Đang tải
+	Không tải được
+	Trực tuyến
+	Ngoài tuyến
+ĐÁP ÁN : C
+CÂU 007: www.google.com thì “.com” có nghĩa là:
+	Đây là đuôi tên miền của các trang web giáo dục
+	Đây là duôi tên miền của các trang web thông thường
+	Đây là đuôi tên miền của các trang web dành cho tổ chức
+	Đây là đuôi tên miền của các trang web thương mai, dịch vụ
+ĐÁP ÁN: D
+CÂU 008: Tiền thân của mạng Internet ngày nay là:
+	Intranet
+	ARPANET
+	LAN
+	WAN
+ĐÁP ÁN: B
+CÂU 009: Bộ giao thúc truyền thông dữ liệu dùng trên mạng Internet hiện nay là:
+	TCP/IP
+	OSI
+	IPX
+	Apple Talk
+ĐÁP ÁN: A
+CÂU 010: Việt Nam chính thức gia nhập Internet vào thời điểm nào:
+	01/12/1997
+	01/01/1997
+	01/06/1997
+	01/06/1998
+ĐÁP ÁN: A
+CÂU 011: Mỗi thiết bị khi tham gia vào một mạng máy tính nào đó cũng đều có thông tin nào:
+	Địa chỉ IP
+	Địa chỉ nhà
+	Mã sản phẩm
+	GPS
+ĐÁP ÁN: A
+CÂU 012: Trong mạng máy tính, thuật ngữ LAN có ý nghĩa gì:
+	Mạng cục bộ
+	Mạng diện rộng
+	Mạng toàn cầu
+	Một ý nghĩa khác
+ĐÁP ÁN: A
+CÂU 013: Nếu kết nối Internet chậm, nguyên nhân chính là gì:
+	Do nhiều người cùng truy cập làm cho tốc độ đường truyền giảm, thường bị nghẹn mạch
+	Do chưa trả phí Internet
+	Do Internet tốc độ chậm
+	Do người dùng chưa biết sử dụng Internet
+ĐÁP ÁN: A
+CÂU 014: Thế nào là một website được bảo vệ:
+	Một website được bảo vệ là một website chỉ cho phép truy nhập có giới hạn, muốn sử dụng các dịch vụ hoặc xem thông tin phải đăng nhập bằng tên và mật khẩu.
+	Một website không được bảo vệ cho phép truy nhập không giới hạn, muốn sử dụng các dịch vụ hoặc xem thông tin, phải đăng nhập bằng tên và mật khẩu bất kỳ.
+	Một website dành cho mọi người có thể truy cập không cần cài đặt mật khẩu
+	Một website được bảo vệ là một website không cho phép truy nhập có giới hạn
+ĐÁP ÁN: A
+CÂU 015: Thuật ngữ tường lửa (Firewall) là:
+	Tường lửa là một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+	Tường lửa là một hệ thống bao gồm phần cứng
+	Tường lửa là một hệ thống phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+	Tường lửa là hệ thống không bao gồm phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet
+ĐÁP ÁN: A
+CÂU 016: Trên mạng Internet, Virút máy tính có thể lay lan như thế nào:
+	Lây lan qua thư điện tử
+	Lây lan qua đường dây mạng
+	Lây lan qua nhà cung cấp Internet
+	Lây lan qua máy in trên mạng
+ĐÁP ÁN: A
+CÂU 017: Phát biểu nào sau đây về phần mềm gián điệp là đúng:
+	Là nhóm các phần mềm độc hại có khả năng phát triển các công việc bạn làm trên máy tính cá nhân hay trên mạng Internet và gửi các thông in đó cho những kẻ lạ không được phép truy cập thông tin này của bạn.
+	Là nhóm các phần mềm không có khả năng phát hiện các công việc bạn làm trên máy tính cá nhân hay trên mạng Internet
+	Là nhóm các phần mềm không độc hại gửi các thông tin đó cho những kẻ lạ không được phép truy cập thông tin này của bạn
+	Là nhóm các phần mềm không có khả năng phát hiện trên cá nhân hay trên mạng Internet
+ĐÁP ÁN: A
+CÂU 018: Giao thức HTTP là:
+	Là giao thức truyền tải siêu văn bản
+	Là ngôn ngữ để soạn thảo nội dung các trang Web
+	Là tên của trang web
+	Là địa chỉ của trang web
+ĐÁP ÁN: A
+CÂU 019: Trong trình duyệt web Internet Explorer, nút Home trên cửa số trình duyệt dùng để:
+	Đưa bạn đến với trang khởi động mặc định
+	Đưa bạn về trang chủ của website mà bạn đang xem
+	Đưa bạn về trang trắng không có nội dung
+	Đưa bạn trở về trang web có địa chỉ http://www.google.com.vn
+ĐÁP ÁN: B
+CÂU 020: Để mở một lúc nhiều cửa sổ trình duyệt Internet Explorer, người ta thực hiện lệnh:
+	File -> Open
+	File -> New
+	Ctrl + N
+	Cả câu B và C đều được
+ĐÁP ÁN : D
+CÂU 021: Để xem lại lịch sử duyệt web trên trình duyệt Internet Explorer, người ta sử dụng tổ hợp phím nào:
+	Ctrl + L
+	Ctrl + H
+	Ctrl + P
+	Ctrl + M
+ĐÁP ÁN: B
+CÂU 022: Nút Back trên các trình duyệt Web dùng để:
+	Quay trở lại trang Web trước đó
+	Quay trở lại cửa sổ trước đó
+	Quay trở lại màn hình trước đó
+	Đi đến trang Web tiếp theo
+ĐÁP ÁN: A
+CÂU 023: Nút Forward trên các trình duyệt web dùng để:
+	Đi đến cửa sổ trước đó
+	Đi đến màn hình trước đó
+	Quay lại trang web trước đó
+	Đi đến trang web tiếp theo
+ĐÁP ÁN: D
+CÂU 024: Để quay lại trang web trước đó, ngoài nút “Back”, người ta có thể dùng tổ hợp phím trên trình duyệt Internet Explorer:
+	Ctrl + T
+	Alt + T
+	Att + 
+	Alt + F3
+ĐÁP ÁN : C
+CÂU 025: Hãy cho biết phát biểu nào dưới đây là sai:
+	Mở nhiều cửa sổ duyệt web cho nhiều địa chỉ web khác nhua
+	Vừa mở cửa sổ duyệt web, vừa chơi game trong lúc chờ trang web xuất hiện đầy đủ nội dung
+	Nhấn nút F5 là để bắt đầu lại quá trình tải trang web từ máy phục vụ về máy cá nhân.
+	Nhấn nút Back để đóng cửa sổ trình duyệt
+ĐÁP ÁN: D
+CÂU 026: Phần History trong các Browser dùng để:
+	Liệt kê các trang web đã dùng trong quá khứ
+	Liệt kê các địa chỉ email đã dùng
+	Liệt kê tên các trang web
+	Liệt kê số người đã sử dụng Internet
+ĐÁP ÁN: A
+CÂU 027: Muốn lưu các địa chỉ yêu thích (Favorites), người ta sử dụng chức năng nào sau đây:
+	Add link
+	Add Favorite
+	Add to Favorite
+	Ogranize Favorite
+ĐÁP ÁN: C
+CÂU 028: Trong Internet Explorer, để hiện/ẩn các nút công cụ chuẩn, người ta thực hiện:
+	View -> Toolbars -> Standard Buttons
+	View –> Options -> Standard Buttons
+	View -> Default
+	View -> All Toolbars
+ĐÁP ÁN : D
+CÂU 029: Khi thấy tên miền trong địa chỉ website cso .edu.vn thì website đó dùng thuộc về lĩnh vực nào:
+	Lĩnh vực chính phủ ở Việt Nam
+	Lĩnh vực giáo dục ở Việt Nam
+	Lĩnh vực cung cấp thông tin ở Việt Nam
+	Thuộc về các tổ chức khác
+ĐÁP ÁN: B
+CÂU 030: Địa chỉ website nào sau đây là không hợp lệ:
+	Hpc2.com
+	Hpc2@gmail.com
+	Hpc2.edu
+	www.hpc2.com.vn
+ĐÁP ÁN: B
+CÂU 031: Để xem một trang web, người ta gõ địa chỉ của trang đó vào vị trí nào trong các trình duyệt web:
+	Thanh công cụ chuẩn của trình duyệt
+	Thanh liên kết của trình duyệt
+	Thanh địa chỉ của trình duyệt
+	Thanh trạng thái của trình duyệt
+ĐÁP ÁN: C
+CÂU 032: Nút “Home” trên một trang web có nghĩa là:
+	Đi đến trang trước
+	Đi đến trang chủ
+	Đi đến nhà
+	Không có ý nghĩa gì, chỉ để trang trí
+ĐÁP ÁN: B
+CÂU 033: Để tìm kiếm thông tin “Sinh viên” trên trang web www.uit.edu.vn ta vào google gõ từ khóa tìm kiếm nào để google trả về kết quả không có kết quả từ các trang web khác:
+	Sinh viên IN: www.uit.edu.vn
+	Sinh viên ON: www.uit.edu.vn
+	Sinh viên SITE: www.uit.edu.vn
+	Sinh viên FROM:www.uit.edu.vn
+ĐÁP ÁN: C
+CÂU 034: Thuật ngữ “Download” có nghĩa là:
+	Tải về
+	Không tải
+	Trực tuyến
+	Tải file hay folder
+ĐÁP ÁN: A
+CÂU 035: Khi muốn lưu lại trang Web đang duyệt lên máy tính trên trình duyệt Internet Explorer, người ta thực hiện:
+	Nhấn chuột phải trên trang Web và chọn Save
+	Chọn Edit sau đó chọn Select All
+	Chọn File sau đso chọn Save
+	Chọn File sau đó chọn Save As (Hoặc Save page as)
+ĐÁP ÁN: D
+CÂU 036: Trong trình duyệt Internet Explorer, để lưu một bức ảnh về máy tính, người ta làm như sau:
+	Nhấn phím chuột phải vào ảnh, chọn Save Picture As
+	Kích đúp (double click) và ảnh rồi chọn Download
+	Vào Tools -> Save picture As
+	Hai cách A và C đều đúng
+ĐÁP ÁN: D
+CÂU 037: Để lưu nội dung trang web trên máy tính, trong trình duyệt Internet Explorer, người ta chọn lệnh:
+	File -> Save
+	File -> Save As
+	File -> Save Page As
+	File -> Import
+ĐÁP ÁN: C
+CÂU 038: Để in một trang web trong trình duyệt Internet Explorer, người ta sử dụng tổ hợp bàn phím:
+	Ctrl + P
+	Ctrl + C
+	Ctrl + A
+	Ctrl + U
+ĐÁP ÁN: A
+CÂU 039: Khi nói về Internet, phát biểu nào sau đây là sai:
+	Dịch vụ thư điện tử (email) chỉ gửi các thông điệp, không thể gửi các tập tin
+	ISP phải thuê đường truyền và cổng của IAP
+	Internet Explorer là một trình duyệt WEB
+	Telnet là một trong các dịch vụ của Internet
+ĐÁP ÁN: A
+CÂU 040: Trong các thuật ngữ sau đây, thuật ngữ nào không chỉ dịch vụ Internet:
+	WWW ( World Wide Web)
+	Char
+	E-mail
+	TCP/IP
+ĐÁP ÁN: D
+CÂU 041: Thư điện tử dùng để làm gì:
+	Trao đổi thông tin trực tuyến
+	Hội thoại trực tuyến
+	Gửi thư thông qua môi trường Internet
+	Tìm kiếm thông tin
+ĐÁP ÁN: C
+CÂU 042: Phát biểu nào sau đây về ưu điểm của dịch vụ thư điện tử là đúng:
+	Chi phí cao, tốn thời gian
+	Có thể gửi tập tin, không mất nhiều thời gian
+	Chí phí thấp, thời gian chuyển gấn như tức thời, một người có thể gửi đồng thời cho nhiều người khác, có thể gửi kèm tập tin
+	Bắt buộc phải có máy tính kết nối internet
+ĐÁP ÁN: C
+CÂU 043: Thật ngữ Email là viết tắt của:
+	Ethernet Mail
+	Electronic Mail
+	Egg Mail
+	Eaten Mail
+ĐÁP ÁN: B
+CÂU 044: Điều nào sau đây là lợi thế của thư điện tử so với thư tín gửi qua đường bưu điện:
+	Có thể chuyển được lượng văn bản lớn hơn nhớ chức năng gắn kèm
+	Thư điện tử luôn có độ an toàn dữ liệu cao hơn
+	Tốc độ chuyển thư nhanh
+	Thư điện tử luôn luôn được phân phát
+ĐÁP ÁN: C
+CÂU 045: Dịch vụ thư điện tử cung cấp những chức năng gì:
+	Mở và xem danh sách các thư đã nhận và được lưu trong hộp thư. Mở và đọc nội dung của một bức thư cụ thể. Soạn thư và gửi thư cho một hoặc nhiều người.
+	Trả lời tư. Chuyển tiếp thư cho một người khác
+	Mở và xem danh sách các thư đã nhận và được lưu trong hộp thư. Mở và đọc nội dung của một bức thư cụ thể. Soạn thư và gửi cho một hoặc nhiều người. Trả lời thư. Chuyển tiếp thư cho một người khác.
+	Mở và đọc nội dung của một bức thư cụ thể. Soạn thư và gửi thư cho một hoặc nhiều người. Trả lời thư.
+ĐÁP ÁN: C
+CÂU 046: Trong khi soạn thảo một thư điện tử (Email) trên phần mềm Outlook 2010, nếu muốn gởi kèm File, người ta thực hiện:
+	Send
+	Copy
+	Attachment
+	Save
+ĐÁP ÁN: C
+CÂU 047: Trang web nào cho phép đọc và gửi thư điện tử (Email):
+	www.edu.net.vn
+	Mail.google.com
+	www.mail.com
+	www.email.com
+ĐÁP ÁN: B
+CÂU 048: Để trả lời thư điện tử trên phần mềm Outlook 2010, người ta sử dụng nút:
+	Reply
+	Forward
+	Compose
+	Attachment
+ĐÁP ÁN: A
+CÂU 049: Để chuyển tiếp thư điện tử phần mêm Outlook 2010, dùng nút:
+	Reply
+	Reply to All
+	Forward
+	Attachment
+ĐÁP ÁN: C
+CÂU 050: Khi dòng chủ đề trong một thư điện tử (Email) được bắt đầu bằng chữ RE:, thì thông tin thường thư điện tử đó là:
+	Email rác, email quảng cáo
+	Email mới
+	Email trả lời cho một Email đã gửi trước đó
+	Email của nhà cung cấp dịch vụ E-mail
+ĐÁP ÁN: C
+CÂU 051: Khi nhận được tư điện tử (Email) có chủ đề “Mail undeliverable” có nghãi là :
+	Email đã được gửi đi, nhưng không tới được người nhận
+	Email đã được gửi đi, nhưng người nhận không đọc
+	Đó là Email của nhà cung cấp dịch vụ
+	Đó là Email của người nhận thông báo việc không mở được Email
+ĐÁP ÁN: A
+CÂU 052: Trong Gmail, khi sử dụng một thư cụ thể để tạo bộ lọc, người ta thực hiện:
+	Mở Gmail -> Nhập vào Lọc thư dựa theo những thư này -> Nhập tiêu chí lọc của bạn
+	Mở Gmail -> Chọn hộp kiểm bên cạnh email bạn muốn -> Nhấp vào Thêm -> Nhấp vào Lọc thư dựa theo những thue này -> Nhập tiêu chí lọc của bạn
+	Mở Gmail -> Chọn hộp kiểm bên cạnh email bạn muốn -> nhấp vào thêm
+	Mở Gmail -> Chọn hộp kiểm bên cạnh email bạn muốn -> Nhấp vào Thêm -> Nhập tiêu chí lọc của bạn
+ĐÁP ÁN: B
+CÂU 053: Để có thể Chat bằng âm thanh (Voice), máy tính người tham gia cần có gì:
+	Một điện thoại
+	Một Headphone có Micro
+	Một Webcam
+	Một bộ tăng âm
+ĐÁP ÁN: B
+CÂU 054: Hai người trao đổi thông tin với nhau qua ứng dụng hội thoại trong cùng một mạng LAN, phát biểu nào sau đây là đúng:
+	Dữ liệu truyền từ máy đang hội thoại lên máy chủ có dịch vụ hội thoại của cơ bản và quay về máy bên kia.
+	Dữ liệu đi trực tiếp giữa hai máy
+	Dữ liệu truyền không được
+	Dữ liệu truyền về máy chủ internet Việt Nam và quay về máy đang chat
+ĐÁP ÁN: A
+CÂU 055: Một diễn đàn trên Internet dùng để:
+	Các thành viên giao lưu trực tuyến với nhau
+	Các thành viên thảo luận trực tuyến với nhau
+	Các thành viên có thể trao đổi, học hỏi về nhiều lĩnh vực có cùng sự quan tâm
+	Tìm kiếm thông tin
+ĐÁP ÁN: C
+CÂU 056: Một thành viên trên facebook có thể kết bạn với tối đa bao nhiêu người:
+	1000
+	5000
+	10000
+	15000
+ĐÁP ÁN: B
+CÂU 057: Ứng dụng mạng xã hội khác với ứng dụng diễn đàn trực tuyến ở điểm nào:
+	Người dùng sử dụng Internet
+	Người dùng có thể đăng tin
+	Quản lý người dùng theo account
+	Mỗi người dùng có một trang riêng
+ĐÁP ÁN: D
+CÂU 058: Những điểm nào sau đây không đúng với mạng xã hội:
+	Người dùng là tài nguyên của mạng xã hội
+	Mạng xã hội cho phép các mối liên kết giữa các người dùng
+	Người dùng có thể chat với nhau trong mạng xã hội
+	Người dùng có thể sử dụng mạng xã hội bằng xe gắn máy
+ĐÁP ÁN: D
+CÂU 059: Những điều nào sau đây không đúng với một trang tin cá nhân (blog):
+	Người chủ trang tin có thể đăng những tin của mình
+	Người chủ trang tin phải chịu trách nhiệm về những tin đã đăng
+	Người chủ trang tin có thể xóa những comment trong blog của mình
+	Người chủ trang tin không phải chịu trách nhiệm về những tin đã đăng
+ĐÁP ÁN: D
+CÂU 060: Thương mại điện tử là gì:
+	Thực hiện các hoạt động thương mại qua mạng Internet
+	Thanh toán qua mạng Internet
+	Buôn bán qua mạng Internet
+	Kinh doanh qua mạng Internet
+ĐÁP ÁN: A
+CÂU 061: Loại hình Thươn mại điện tử mà đối tác kinh doanh là giữa doanh nghiệp và người tiêu dùng là:
+	B2B
+	B2C
+	C2C
+	P2P
+ĐÁP ÁN: B
+CÂU 062: Trong các phát biểu sau, phát biểu nào là sai:
+	Thương mại điện tử giúp doanh nghiệp giảm chi phí và tăng hiệu quả trong quảng cáo
+	Thương mại điện tử giúp doanh nghiệp vươn ra thị trường thế giới
+	Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống
+	Thương mại điệnt tử là một khái niệm còn khá mới mẻ ở Việt Nam
+ĐÁP ÁN: C
+CÂU 063: www.amazon.com là một website về mô hình:
+	Bán hàng qua mạng, siêu thị điện tử, e-shop
+	Đấu giá qua mạng
+	Tin tức trực tuyến
+	Website giới thiệu doanh nghiệp
+ĐÁP ÁN : A
+CÂU 064: khi có gian lận trong thanh toán qua thẻ tín dụng xảy ra, đối tượng nào là người phải chịu mọi phí tổn:
+	Người bán hàng
+	Người mua hàng
+	Nhà cung cấp dịch vụ xử lý thanh toán qua thẻ tín dụng
+	Ngân hàng
+ĐÁP ÁN: A
+CÂU 065: Để có thể thành công trong Thương mại điện tử, doanh nghiệp phải tạo được:
+	Nét đặc trưng riêng
+	Một website thật đẹp
+	Bán hàng thật rẻ
+	Cung cấp thông tin thật nhiều
+ĐÁP ÁN: A
+CÂU 066: Thuật ngữ “Ngân hàng điện tử” có nghĩa là gì:
+	Là các nghiệp vụ, các sản phẩm dịch vụ ngân hàng được phân phối trên Internet
+	Là thông tin khách hàng được lưu vào cơ sở dữ liệu
+	Là thông tin dùng trực tiếp giữ các máy tính cả nhân
+	Là ngân hàng công nghệ tiết kiệm thời gian
+ĐÁP ÁN: A
+CÂU 067: Hiện nay, phương tiện thanh toán điện tử nào được dùng phổ biến nhất:
+	Thẻ tín dụng
+	Thẻ ghi nợ
+	Thẻ thông minh
+	Tiền điệnt tử
+ĐÁP ÁN: A
+CÂU 068: Để xúc tiến xuất khẩu thành công trong thời đại hiện nay, yếu tố nào chưa thật cần thiết với doanh nghiệp:
+	Trang web riêng của công ty
+	Có kế hoạch marketing trực tiếp thông qua thư điện tử
+	Tham gia các sàn giao dịch thương mại điện tử
+	Có đội ngũ cán bộ chuyên trách về công nghệ thông tin
+ĐÁP ÁN: D
+CÂU 069: Tại Việt Nam, yếu tố nào tác động trực tiếp nhất để sự phát triển thương mại điện tử:
+	Nhận thức của người dân
+	Cơ sở pháp lý
+	Chính sách phát triển thương mại điện tử
+	Các chương trình đào tạo về thương mại điện tử
+ĐÁP ÁN: B
+CÂU 070: Vấn đề gì nên chú ý nhất khi sử dụng Chữ kí số hóa:
+	Xác định chính xác người kí
+	Lưu giữ chữ kí bí mật
+	Nắm được mọi khóa công khai
+	Biết sự khác nhau về luật pháp các nước về chữ kí điện tử
+ĐÁP ÁN: D
+CÂU 071: Hãy chỉ ra yếu tố nào sau đây không phải đặc điểm của chữ kí điện tử:
+	Bằng chứng pháp lý: xác minh người lập chứng cứ
+	Ràng buộc trách nhiệm: người kí có trách nhiệm với nội dung trong văn bản
+	Đồng ý: thể hiện sự tán thành và cam kết thực hiện các nghĩa vụ trong chứng từ
+	Duy nhất: Chỉ duy nhất người kí có khả năng kí điện tử vào văn bản
+ĐÁP ÁN: D
+CÂU 072: Hãy cho biết địa chỉ IP nào sau đây là hợp lệ:
+	192.168.1.2.3
+	192.168.1.2
+	255.255.255
+	10.20.30
+ĐÁP ÁN: B
+CÂU 073: Lệnh nào sau đây cho biết địa chỉ IP của máy tính:
+	IP
+	FTP
+	IPCONFIG
+	TCP_IP
+ĐÁP ÁN: C
+CÂU 074: Dịch vụ DNS được dùng để:
+	Định tuyến
+	Duyệt WEB
+	Cấp phát IP tỉnh
+	Phân giải tên miền
+ĐÁP ÁN: D
+CÂU 075: Một trang web được hoạt động dựa trên giao thức nào:
+	FPT
+	HTTP
+	DHCP
+	DNS
+ĐÁP ÁN: B
+CÂU 076: Yếu tố nào sau đây là quan trọng nhất đối với việc hoạt động của một website:
+	Mua tên miền và dịch vụ hosting
+	Tổ chức các nội dung website
+	Bảo trì và cập nhật thông tin
+	Bảo trì và cập nhật thông tin
+ĐÁP ÁN: D
+CÂU 077: Yếu tố nào sau đây không thuộc quy trình tạo lập chữ ký điện tử:
+	Thông điệp gốc
+	Bản tóm tắc lược của thông điệp
+	Khóa công cộng
+	Chữ ký điện tử
+ĐÁP ÁN: C
+CÂU 078: Lý do tại sao Email được sử dụng phổ biến trong quảng cáo điện tử, phát biểu nào sau đây là đúng:
+	Phản hồi nhanh từ phía khách hàng tiềm năng
+	Khách hàng có số lượng Message giảm dần
+	Không có phản ứng dữ dội từ khách hàng
+	Chi phí cao khiến ngày càng ít người sử dụng phương thức này
+ĐÁP ÁN: A
+CÂU 079: Điều gì sau đây không bị coi là vi phạm đạo đức kinh doanh đối với người sử dụng web:
+	Bản danh sách thông tin khách hàng mà không được sự đồng ý của họ
+	Sử dụng Cookies
+	Bán hàng trên mạng
+	Spamming
+ĐÁP ÁN: C
+CÂU 080: Yếu tố nào sau đây không phải là công cụ hay tài nguyên với người sử dụng mạng Internet:
+	Máy chủ lưu trữ Web
+	Truy cập Internet
+	Máy chủ thư điện tử
+	Các phần mềm duyệt Web
+ĐÁP ÁN: B
+CÂU 081: Việc kết nối các máy tính thành mạng máy tính là cần thiết để:
+	Giải trí
+	Dùng chung máy in, phần mềm
+	Sao chép thông tin
+	Chia sẽ tài nguyên
+ĐÁP ÁN: D
+CÂU 082: Phát biểu nào sau đây về mô hình Client – Server là đúng:
+	Các máy tính có vai trò như nhau trong mạng
+	Máy chủ đóng vai trò phục vụ
+	Mạng đường thằng (hình tuyến)
+	Mạng hình sao
+ĐÁP ÁN: B
+CÂU 083: Phần mềm nào sau đây không phải là trình duyệt web:
+	Unikey
+	Google Chrome
+	Internet Explorer
+	Firefox
+ĐÁP ÁN: A
+CÂU 084: Phần mềm nào sau đây cho phép truy cập trang web:
+	Microsoft Word
+	Windows Media Player
+	Netscape Navigator
+	Unikey
+ĐÁP ÁN: C
+CÂU 085: Mạng kết nối nhiều máy tính trong phạm vi một văn phòng gọi là mạng là:
+	LAN
+	WAN
+	MAN
+	Internet
+ĐÁP ÁN : A
+CÂU 086: hãy cho biết đơn vị của băng thông là:
+	Hertz
+	Volt
+	Bit/second
+	Ohm
+ĐÁP ÁN: C
+CÂU 087: Cơ chế xác thực thông dụng trong hệ thống thông tin trên mạng là:
+	Truy xuất tập tin trên đĩa cứng
+	Phân quyền người sử dụng
+	Sử dụng Username, Password
+	Không cần cơ chế
+ĐÁP ÁN: C
+CÂU 088: Hãy cho biết phát biểu nào sau đây là đúng về Firewall:
+	Ngăn chặn các tấn công từ bên ngoài hệ thống
+	Phân biệt các loại dữ liệu
+	Mở các cổng
+	Không làm gì cả
+ĐÁP ÁN: A
+CÂU 089: Hãy cho biết dịch vụ nào sau đây là dịch vụ điện thoại sử dụng công nghệ VoIP:
+	Firewall
+	171 (VNPT)
+	Bridge
+	Gateway
+ĐÁP ÁN: B
+CÂU 090: Dịch vụ nào sau đây là dịch vụ truyền thông điện tử:
+	Dịch vụ khách hàng
+	Giao dịch
+	Hội thảo trực tuyến
+	Ngăn chặn tấn công
+ĐÁP ÁN: C
+CÂU 091: Trong địa chỉ email citd@uit.edu.vn, phần nào là thể hiện tên miền:
+	Citd
+	@
+	Uit.edu.vn
+	Vn
+ĐÁP ÁN: C
+CÂU 092: Thuật ngữ nào sau đây là băng thông:
+	Autoresphoner
+	Bandwidth
+	Banner
+	Browser
+ĐÁP ÁN: B
+CÂU 093: Chức năng của địa chỉ IP là gì:
+	Định nghĩa cơ chế định địa chỉ trong mạng Internet
+	Phân loại và tái tạo dữ liệu
+	Định nghĩa đường cho các đơn vị dữ liệu đến các host ở xa
+	Phân đoạn
+ĐÁP ÁN: A
+CÂU 094: Thiết bị nào sau đây dùng để kết nối nhiều mạng sử dụng giao thức khác nhau:
+	Bridge
+	Gateway
+	Firewall
+	Router
+ĐÁP ÁN: B
+CÂU 095: Trong các mô hình sau, mô hình nào là mô hình mạng được dùng phổ biến hiện nay?
+	Peer  - to – Peer
+	Remote Access
+	Terminal - Mainframe
+	Client – Server
+ĐÁP ÁN: D
+CÂU 096: Khi nhiều gói tin đụng độ trên mạng, phát biểu nào sau đây là đúng:
+	Hiệu quả của mạng tăng lên
+	Hiệu quả của mạng kém đi
+	Hiệu quả của mạng không thay đổi
+	Không làm gì cả
+ĐÁP ÁN: B
+CÂU 097: Khi tìm kiếm bằng google để tìm chính xác, người ta sử dụng dấu nào:
+	Dấu “
+	Dấu &
+	Dấu +
+	Dấu -
+ĐÁP ÁN: A
+CÂU 098: Để xem các trang tài liệu siêu văn bản trên Internet, người ta sử dụng dịch vụ nào:
+	Dịch vụ tải tập tin
+	Dịch vụ Chat
+	Dịch vụ thư điện tử
+	Dịch vụ Web
+ĐÁP ÁN: D
+CÂU 099: Về nguyên nhân xảy ra lỗi trong quá trình truyền tin, phát biểu nào sau đây là đúng:
+	Do yếu tố con người
+	Do chất lượng đường truyền
+	Do thời tiết khí hậu
+	Do dịch vụ khách hàng
+ĐÁP ÁN: B
+ 
+

@@ -1,0 +1,14 @@
+{
+    "questionsModule1": [
+        {
+            "question": "/Trong hệ thống máy tính, 1Kbyte bằng bao nhiêu byte",
+            "choices": [
+                "1012 bytes",
+                "1024 bytes",
+                "1036 bytes"
+            ],
+            "answer": "1036 bytes"
+        }
+    ],
+    "questionsModule2": []
+}
